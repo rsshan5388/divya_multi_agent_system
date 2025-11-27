@@ -1,0 +1,14 @@
+{
+    "question": "52. Which is of the following is true about SPHL instruction?",
+    "options": [
+        "It uses indexed addressing mode",
+        "It is a 3-byte instruction",
+        "It requires three T-states",
+        "Contents of HL pair is moved to SP",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: SPHL is a 1-byte instruction. It uses register addressing mode. It required 6 T-states and it means moving the contents of the HL pair to SP.",
+    "correct_answer": "Contents of HL pair is moved to SP",
+    "answer_index": 3,
+    "explanation": "SPHL is a 1-byte instruction. It uses register addressing mode. It required 6 T-states and it means moving the contents of the HL pair to SP."
+}

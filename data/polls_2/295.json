@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following is an example of the Hub-and-Spoke collaboration pattern in a Multi-Agent System?",
+    "options": [
+        "All agents operate independently without any task coordination.",
+        "Each agent performs identical roles to ensure system redundancy.",
+        "A central Content Manager Agent assigns tasks to a Writer Agent, a Fact-Checker Agent, and an SEO Optimizer Agent.",
+        "A Retriever Agent gathers documents, then passes them to a Summarizer Agent, and finally to a Compiler Agent."
+    ],
+    "correct_answer": "A central Content Manager Agent assigns tasks to a Writer Agent, a Fact-Checker Agent, and an SEO Optimizer Agent.",
+    "explanation": "In the Hub-and-Spoke pattern, a central agent coordinates tasks among other agents, similar to a hub distributing tasks to spokes.",
+    "_source_image": "q_147.png",
+    "answer_index": 2
+}

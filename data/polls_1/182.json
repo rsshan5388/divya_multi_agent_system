@@ -1,0 +1,13 @@
+{
+    "question": "33. Which of the following directives is used to start an angularJS application?",
+    "options": [
+        "ng-app",
+        "ng-init",
+        "ng-repeat",
+        "ng-model"
+    ],
+    "answer": "Answer: a\nExplanation: Dependencies are injected in Angular.JS by using an “injectable factory method” or “constructor function.” As dependencies, these components can be injected with “service” and “value” components.",
+    "correct_answer": "ng-app",
+    "answer_index": 0,
+    "explanation": "Dependencies are injected in Angular.JS by using an “injectable factory method” or “constructor function.” As dependencies, these components can be injected with “service” and “value” components."
+}

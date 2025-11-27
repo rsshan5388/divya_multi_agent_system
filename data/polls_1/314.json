@@ -1,0 +1,13 @@
+{
+    "question": "20. Which of the following are Gigabit Ethernets?",
+    "options": [
+        "1000 BASE-LX",
+        "1000 BASE-CX",
+        "1000 BASE-SX",
+        "All of the mentioned"
+    ],
+    "answer": "Answer: d\nExplanation: In computer networking, Gigabit Ethernet (GbE or 1 GigE) is a term describing various technologies for transmitting Ethernet frames at a rate of a gigabit per second (1,000,000,000 bits per second), as defined by the IEEE 802.3-2008 standard. It came into use beginning in 1999, gradually supplanting Fast Ethernet in wired local networks, as a result of being considerably faster.",
+    "correct_answer": "All of the mentioned",
+    "answer_index": 3,
+    "explanation": "In computer networking, Gigabit Ethernet (GbE or 1 GigE) is a term describing various technologies for transmitting Ethernet frames at a rate of a gigabit per second (1,000,000,000 bits per second), as defined by the IEEE 802.3-2008 standard. It came into use beginning in 1999, gradually supplanting Fast Ethernet in wired local networks, as a result of being considerably faster."
+}

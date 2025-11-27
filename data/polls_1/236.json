@@ -1,0 +1,13 @@
+{
+    "question": "5. What is the full form of OSI?",
+    "options": [
+        "optical service implementation",
+        "open service Internet",
+        "open system interconnection",
+        "operating system interface"
+    ],
+    "answer": "Answer: c\nExplanation: OSI is the abbreviation for Open System Interconnection. OSI model provides a structured plan on how applications communicate over a network, which also helps us to have a structured plan for troubleshooting. It is recognized by the ISO as the generalized model for computer network i.e. it can be modified to design any kind of computer network.",
+    "correct_answer": "open system interconnection",
+    "answer_index": 2,
+    "explanation": "OSI is the abbreviation for Open System Interconnection. OSI model provides a structured plan on how applications communicate over a network, which also helps us to have a structured plan for troubleshooting. It is recognized by the ISO as the generalized model for computer network i.e. it can be modified to design any kind of computer network."
+}

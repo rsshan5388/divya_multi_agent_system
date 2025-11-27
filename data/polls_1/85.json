@@ -1,0 +1,13 @@
+{
+    "question": "Q80 Which namespace provides collection classes like List and Dictionary<K, V>?",
+    "options": [
+        "System",
+        "System.Generic",
+        "System.Collections.Generic",
+        "System.Data"
+    ],
+    "answer": "C System.Collections.Generic",
+    "explanation": "",
+    "correct_answer": "System",
+    "answer_index": 0
+}

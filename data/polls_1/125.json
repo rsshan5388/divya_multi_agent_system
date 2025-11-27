@@ -1,0 +1,13 @@
+{
+    "question": "Q50 How would you declare a constant integer variable with a value of 10 in C#?",
+    "options": [
+        "int constant = 10;",
+        "const int constant = 10;",
+        "constant int = 10;",
+        "readonly int constant = 10;"
+    ],
+    "answer": "B const int constant = 10;",
+    "explanation": "",
+    "correct_answer": "int constant = 10;",
+    "answer_index": 0
+}

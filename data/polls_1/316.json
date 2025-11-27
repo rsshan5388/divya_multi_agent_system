@@ -1,0 +1,13 @@
+{
+    "question": "21. Which CSS property can be used to set the image as border instead of the border style?",
+    "options": [
+        "border-image-source",
+        "background-image-source",
+        "border-image",
+        "background-image"
+    ],
+    "answer": "Answer: a\nExplanation: The border-image-source property specifies the path to the image to be used as a border (instead of the normal border around an element).",
+    "correct_answer": "border-image-source",
+    "answer_index": 0,
+    "explanation": "The border-image-source property specifies the path to the image to be used as a border (instead of the normal border around an element)."
+}

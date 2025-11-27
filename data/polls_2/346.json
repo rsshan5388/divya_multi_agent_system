@@ -1,0 +1,13 @@
+{
+    "question": "What does the direction of a vector embedding typically represent?",
+    "options": [
+        "The frequency of the item in the dataset",
+        "The strength of the item being represented",
+        "The distance between two unrelated items",
+        "The topic or semantic meaning of the item"
+    ],
+    "correct_answer": "The topic or semantic meaning of the item",
+    "explanation": "The direction of a vector embedding often captures the semantic meaning or topic of the item it represents, allowing similar items to have similar directions.",
+    "_source_image": "q_63.png",
+    "answer_index": 3
+}

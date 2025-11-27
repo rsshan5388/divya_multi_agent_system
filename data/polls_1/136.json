@@ -1,0 +1,14 @@
+{
+    "question": "38. How many address lines are required to connect a 4 KB RAM to a microprocessor?",
+    "options": [
+        "10",
+        "16",
+        "12",
+        "20",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: 4 KB RAM is equal to 4096 × 8 bits. Total number locations are (4096 × 8)/8 = 4096 and 4096 = 2\n12\n. So, 12 address lines are required to connect a 4 KB RAM to a microprocessor.",
+    "correct_answer": "12",
+    "answer_index": 2,
+    "explanation": "4 KB RAM is equal to 4096 × 8 bits. Total number locations are (4096 × 8)/8 = 4096 and 4096 = 2\n12\n. So, 12 address lines are required to connect a 4 KB RAM to a microprocessor."
+}

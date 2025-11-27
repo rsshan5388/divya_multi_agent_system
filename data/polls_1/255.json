@@ -1,0 +1,13 @@
+{
+    "question": "Q86 A KeyNotFoundException occurs when accessing a dictionary. What is likely the cause?",
+    "options": [
+        "The key is missing",
+        "The value is null",
+        "The dictionary is empty",
+        "The key is duplicated"
+    ],
+    "answer": "A The key is missing",
+    "explanation": "",
+    "correct_answer": "The key is missing",
+    "answer_index": 0
+}

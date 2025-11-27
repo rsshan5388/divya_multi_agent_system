@@ -1,0 +1,13 @@
+{
+    "question": "How does a vector database facilitate the implementation of a recommendation system?",
+    "options": [
+        "By storing and retrieving embeddings that represent item features",
+        "By directly storing user preferences as text data",
+        "By optimizing SQL queries for faster data retrieval",
+        "By generating new data points based on existing user data"
+    ],
+    "correct_answer": "By storing and retrieving embeddings that represent item features",
+    "explanation": "Vector databases store embeddings, which are numerical representations of item features, enabling efficient similarity searches for recommendations.",
+    "_source_image": "q_74.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q146 What is the purpose of the dotnet publish command in .NET Core?",
+    "options": [
+        "To build the application",
+        "To start the application",
+        "To create a self-contained deployable package",
+        "To remove dependencies"
+    ],
+    "answer": "C To create a self-contained deployable package",
+    "explanation": "",
+    "correct_answer": "To create a self-contained deployable package",
+    "answer_index": 2
+}

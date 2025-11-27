@@ -1,0 +1,13 @@
+{
+    "question": "Q101 What is the main purpose of ASP.NET Web Forms?",
+    "options": [
+        "To design mobile applications",
+        "To create Windows applications",
+        "To develop web applications with a visual interface",
+        "To handle database connections"
+    ],
+    "answer": "C To develop web applications with a visual interface",
+    "explanation": "",
+    "correct_answer": "To develop web applications with a visual interface",
+    "answer_index": 2
+}

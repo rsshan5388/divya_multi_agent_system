@@ -1,0 +1,13 @@
+{
+    "question": "16. Which of the following actions compromise cyber security?",
+    "options": [
+        "Vulnerability",
+        "Attack",
+        "Threat",
+        "Exploit"
+    ],
+    "answer": "Answer: c\nExplanation: A threat is defined as a potential hazard that might result in a breach of security and cause harm to the system or network. Vulnerability is a term that refers to a weakness in a network or system that an attacker may exploit. Exploiting a weakness in security might have unintended and undesirable consequences.",
+    "correct_answer": "Threat",
+    "answer_index": 2,
+    "explanation": "A threat is defined as a potential hazard that might result in a breach of security and cause harm to the system or network. Vulnerability is a term that refers to a weakness in a network or system that an attacker may exploit. Exploiting a weakness in security might have unintended and undesirable consequences."
+}

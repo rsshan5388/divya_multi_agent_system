@@ -1,0 +1,13 @@
+{
+    "question": "Q81 Which interface is implemented by collections that can be iterated in a foreach loop?",
+    "options": [
+        "IEnumerable",
+        "IEnumerator",
+        "IList",
+        "ICollection"
+    ],
+    "answer": "A IEnumerable",
+    "explanation": "",
+    "correct_answer": "IEnumerable",
+    "answer_index": 0
+}

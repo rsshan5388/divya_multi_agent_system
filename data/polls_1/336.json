@@ -1,0 +1,13 @@
+{
+    "question": "Q148 How would you run a .NET Core application from the command line?",
+    "options": [
+        "run dotnet",
+        "dotnet start",
+        "dotnet run",
+        "dotnet execute"
+    ],
+    "answer": "C dotnet run",
+    "explanation": "",
+    "correct_answer": "dotnet run",
+    "answer_index": 2
+}

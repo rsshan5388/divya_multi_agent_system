@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of the embedding_function parameter when creating a collection in Chroma DB?",
+    "options": [
+        "It specifies the distance metric used for similarity search.",
+        "It defines the type of metadata stored in the collection.",
+        "It defines the model used to convert documents into vector embeddings.",
+        "It determines how documents are grouped into collections."
+    ],
+    "correct_answer": "It defines the model used to convert documents into vector embeddings.",
+    "explanation": "The embedding_function parameter is used to specify the model that converts documents into vector embeddings, which are essential for similarity search and other operations in Chroma DB.",
+    "_source_image": "q_69.png",
+    "answer_index": 2
+}

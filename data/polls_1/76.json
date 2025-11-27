@@ -1,0 +1,13 @@
+{
+    "question": "26. Which of the following is the network layer protocol for the internet?",
+    "options": [
+        "hypertext transfer protocol",
+        "file transfer protocol",
+        "ethernet",
+        "internet protocol"
+    ],
+    "answer": "Answer: d\nExplanation: There are several protocols used in Network layer. Some of them are IP, ICMP, CLNP, ARP, IPX, HRSP etc. Hypertext transfer protocol is for application layer and ethernet protocol is for data link layer.",
+    "correct_answer": "internet protocol",
+    "answer_index": 3,
+    "explanation": "There are several protocols used in Network layer. Some of them are IP, ICMP, CLNP, ARP, IPX, HRSP etc. Hypertext transfer protocol is for application layer and ethernet protocol is for data link layer."
+}

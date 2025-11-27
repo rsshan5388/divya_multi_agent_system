@@ -1,0 +1,13 @@
+{
+    "question": "Sarah wants to create an LLM agent that can handle multiple arithmetic operations. What should she do to ensure the agent can dynamically call the correct function based on user input?",
+    "options": [
+        "Use a mapping dictionary to link tool names to their functions.",
+        "Store all functions in a cloud database.",
+        "Translate user inputs into machine code.",
+        "Encrypt all user inputs before processing."
+    ],
+    "correct_answer": "Use a mapping dictionary to link tool names to their functions.",
+    "explanation": "A mapping dictionary allows the agent to dynamically associate user input with the correct function, enabling efficient function calls.",
+    "_source_image": "q_138.png",
+    "answer_index": 0
+}

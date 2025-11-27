@@ -1,0 +1,14 @@
+{
+    "question": "49. Which of the following interfacing IC is a DMA controller?",
+    "options": [
+        "8257/37",
+        "8155",
+        "8253/54",
+        "8279",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: 8155 is a multipurpose programmable I/O device. 8253/54 is a programmable counter. 8279 is a keyboard/display controller and 8257/37 is a DMA controller.",
+    "correct_answer": "8257/37",
+    "answer_index": 0,
+    "explanation": "8155 is a multipurpose programmable I/O device. 8253/54 is a programmable counter. 8279 is a keyboard/display controller and 8257/37 is a DMA controller."
+}

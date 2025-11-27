@@ -1,0 +1,13 @@
+{
+    "question": "Alex is developing an AI assistant that needs to provide real-time weather updates. Which tool calling method should Alex consider to reduce hallucinations and improve reliability?",
+    "options": [
+        "Embedded tool calling",
+        "A hybrid approach combining both methods",
+        "Using the no-tool calling method",
+        "Traditional tool calling"
+    ],
+    "correct_answer": "A hybrid approach combining both methods",
+    "explanation": "A hybrid approach can leverage the strengths of both embedded and traditional tool calling, improving reliability and reducing hallucinations.",
+    "_source_image": "q_123.png",
+    "answer_index": 1
+}

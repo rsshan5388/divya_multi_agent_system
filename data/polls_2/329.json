@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of LlamaIndex's “prompt synthesizer”?",
+    "options": [
+        "To manually pass the augmented prompt to the LLM",
+        "To retrieve nodes from the vector store",
+        "To combine prompt augmentation with query embedding",
+        "To perform prompt augmentation internally and pass the augmented prompt to the LLM"
+    ],
+    "correct_answer": "To perform prompt augmentation internally and pass the augmented prompt to the LLM",
+    "explanation": "The prompt synthesizer is designed to handle prompt augmentation internally and then pass the enhanced prompt to the language model for processing.",
+    "_source_image": "q_46.png",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q62 How do you rethrow an exception in C# without resetting the stack trace?",
+    "options": [
+        "throw;",
+        "throw ex;",
+        "throw new Exception(ex);",
+        "rethrow ex;"
+    ],
+    "answer": "A throw;",
+    "explanation": "",
+    "correct_answer": "throw;",
+    "answer_index": 0
+}

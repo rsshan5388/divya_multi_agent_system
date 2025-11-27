@@ -1,0 +1,16 @@
+{
+    "question": "15. Which of the following is a property of RST 7.5 interrupt?",
+    "options": [
+        "It is a non-maskable interrupt",
+        "It has 3",
+        "rd",
+        "highest priority",
+        "It uses level-triggered signal",
+        "Its vectored address is 003C H",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: RST 7.5 is a maskable interrupt with 2nd highest priority after RST-4.5. It uses only the edge-triggered signal. It is a vectored interrupt and its vectored address is 003C H.",
+    "correct_answer": "highest priority",
+    "answer_index": 3,
+    "explanation": "RST 7.5 is a maskable interrupt with 2nd highest priority after RST-4.5. It uses only the edge-triggered signal. It is a vectored interrupt and its vectored address is 003C H."
+}

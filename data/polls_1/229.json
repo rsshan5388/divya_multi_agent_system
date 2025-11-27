@@ -1,0 +1,13 @@
+{
+    "question": "10. Which of the following is a type of cyber attack?",
+    "options": [
+        "Phishing",
+        "SQL Injections",
+        "Password Attack",
+        "All of the above"
+    ],
+    "answer": "Answer: d\nExplanation: Attacks are Phishing, SQL Injections, and Password Attack.\nPhishing: The attacker sends a large number of fraudulent emails and gains access to the system.\nSQL Injections: The attacker gains access to the protected information by adding malicious code to the SQL server.\nPassword Attack: Attackers gain access to the passwords unethically and gain access to the confidential data.",
+    "correct_answer": "All of the above",
+    "answer_index": 3,
+    "explanation": "Attacks are Phishing, SQL Injections, and Password Attack.\nPhishing: The attacker sends a large number of fraudulent emails and gains access to the system.\nSQL Injections: The attacker gains access to the protected information by adding malicious code to the SQL server.\nPassword Attack: Attackers gain access to the passwords unethically and gain access to the confidential data."
+}

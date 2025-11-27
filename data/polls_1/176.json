@@ -1,0 +1,13 @@
+{
+    "question": "Q95 How would you delete a file named \"oldFile.txt\" in C#?",
+    "options": [
+        "File.Remove(\"oldFile.txt\");",
+        "File.Delete(\"oldFile.txt\");",
+        "File.Erase(\"oldFile.txt\");",
+        "File.Unlink(\"oldFile.txt\");"
+    ],
+    "answer": "B File.Delete(\"oldFile.txt\");",
+    "explanation": "",
+    "correct_answer": "File.Delete(\"oldFile.txt\");",
+    "answer_index": 1
+}

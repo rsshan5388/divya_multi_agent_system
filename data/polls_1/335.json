@@ -1,0 +1,13 @@
+{
+    "question": "Q60 Which code snippet demonstrates handling a division by zero exception in C#?",
+    "options": [
+        "try { int x = 10 / 0; }",
+        "try { int x = 10 / 0; } catch (DivideByZeroException ex) { }",
+        "int x = 10 / 0;",
+        "try { x = 10 / 0; }"
+    ],
+    "answer": "B try { int x = 10 / 0; } catch (DivideByZeroException ex) { }",
+    "explanation": "",
+    "correct_answer": "try { int x = 10 / 0; }",
+    "answer_index": 0
+}

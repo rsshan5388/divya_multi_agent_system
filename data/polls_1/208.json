@@ -1,0 +1,13 @@
+{
+    "question": "36. Which CSS property is used to specify the width of an element?",
+    "options": [
+        "padding",
+        "margin",
+        "height",
+        "width"
+    ],
+    "answer": "Answer: d\nExplanation: The width CSS property is used to specify the horizontal width of an element. It is a dimension property, which means that it can be specified in different units, such as pixels, ems, or percentages.",
+    "correct_answer": "width",
+    "answer_index": 3,
+    "explanation": "The width CSS property is used to specify the horizontal width of an element. It is a dimension property, which means that it can be specified in different units, such as pixels, ems, or percentages."
+}

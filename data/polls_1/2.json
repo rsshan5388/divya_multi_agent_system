@@ -1,0 +1,13 @@
+{
+    "question": "Q26 Which CLR feature ensures that objects are automatically deleted when they are no longer referenced?",
+    "options": [
+        "JIT Compilation",
+        "Garbage Collection",
+        "Exception Handling",
+        "Threading"
+    ],
+    "answer": "B Garbage Collection",
+    "explanation": "",
+    "correct_answer": "Garbage Collection",
+    "answer_index": 1
+}

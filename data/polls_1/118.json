@@ -1,0 +1,13 @@
+{
+    "question": "Q129 What is the purpose of DbContext in Entity Framework?",
+    "options": [
+        "Manages database schema",
+        "Executes SQL commands",
+        "Maintains database connection and manages data operations",
+        "Handles UI"
+    ],
+    "answer": "C Maintains database connection and manages data operations",
+    "explanation": "",
+    "correct_answer": "Maintains database connection and manages data operations",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "What is the role of the database connector in AI-powered SQL agents?",
+    "options": [
+        "It sends SQL queries to the database and retrieves raw data.",
+        "It manages database schema updates.",
+        "It directly interprets natural language queries.",
+        "It formats data into readable responses."
+    ],
+    "correct_answer": "It sends SQL queries to the database and retrieves raw data.",
+    "explanation": "The database connector is responsible for interfacing with the database by sending SQL queries and retrieving the resulting data.",
+    "_source_image": "q_120.png",
+    "answer_index": 0
+}

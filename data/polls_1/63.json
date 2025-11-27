@@ -1,0 +1,13 @@
+{
+    "question": "Q150 A developer needs to resolve dependency conflicts in a .NET Core project. What tool can assist with this?",
+    "options": [
+        "NuGet",
+        "MSBuild",
+        "dotnet clean",
+        "Dependency Injection"
+    ],
+    "answer": "A NuGet",
+    "explanation": "",
+    "correct_answer": "NuGet",
+    "answer_index": 0
+}

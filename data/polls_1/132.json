@@ -1,0 +1,13 @@
+{
+    "question": "33. Which of the following allows you to connect and login to a remote computer?",
+    "options": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "Telnet"
+    ],
+    "answer": "Answer: d\nExplanation: Telnet provides access to the command-line interface on a remote computer. One can login to the computer from the command-line interface.",
+    "correct_answer": "Telnet",
+    "answer_index": 3,
+    "explanation": "Telnet provides access to the command-line interface on a remote computer. One can login to the computer from the command-line interface."
+}

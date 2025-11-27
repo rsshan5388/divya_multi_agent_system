@@ -1,0 +1,13 @@
+{
+    "question": "How does LangChain use memory in its applications?",
+    "options": [
+        "Physically altering devices to gain access",
+        "By storing only the final output of each chain.",
+        "Using sophisticated technical algorithms",
+        "By reading from and writing to memory to ensure continuity across interactions."
+    ],
+    "correct_answer": "By reading from and writing to memory to ensure continuity across interactions.",
+    "explanation": "LangChain uses memory to maintain context and continuity across interactions by reading from and writing to memory.",
+    "_source_image": "quest5.png",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "What is an augmented prompt in the RAG system?",
+    "options": [
+        "A combination of the original prompt and retrieved relevant data",
+        "A concatenation of irrelevant retrieved text and user input",
+        "A list of vector embeddings for a user's input",
+        "A shortened version of a user's query"
+    ],
+    "correct_answer": "A combination of the original prompt and retrieved relevant data",
+    "explanation": "In the RAG system, an augmented prompt combines the original user input with relevant data retrieved from external sources to enhance the response generation.",
+    "_source_image": "q_17.png",
+    "answer_index": 0
+}

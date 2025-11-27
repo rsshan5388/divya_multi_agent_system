@@ -1,0 +1,13 @@
+{
+    "question": "22. They are nefarious hackers, and their main motive is to gain financial profit by doing cyber crimes. Who are “they” referred to here?",
+    "options": [
+        "White Hat Hackers",
+        "Black Hat Hackers",
+        "Hactivists",
+        "Gray Hat Hackers"
+    ],
+    "answer": "Answer: b\nExplanation: Black Hat hackers, often known as “crackers,” are a sort of cyber crime that gain illegal access to a user’s account or system in order to steal confidential data or introduce malware into the system for personal gain or to harm the company.",
+    "correct_answer": "Black Hat Hackers",
+    "answer_index": 1,
+    "explanation": "Black Hat hackers, often known as “crackers,” are a sort of cyber crime that gain illegal access to a user’s account or system in order to steal confidential data or introduce malware into the system for personal gain or to harm the company."
+}

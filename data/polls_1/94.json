@@ -1,0 +1,13 @@
+{
+    "question": "15. Which of this is not a network edge device?",
+    "options": [
+        "Switch",
+        "PC",
+        "Smartphones",
+        "Servers"
+    ],
+    "answer": "Answer: a\nExplanation: Network edge devices refer to host systems, which can host applications like web browser. A switch can’t operate as a host, but as a central device which can be used to manage network communication.",
+    "correct_answer": "Switch",
+    "answer_index": 0,
+    "explanation": "Network edge devices refer to host systems, which can host applications like web browser. A switch can’t operate as a host, but as a central device which can be used to manage network communication."
+}

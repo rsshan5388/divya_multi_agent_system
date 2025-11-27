@@ -1,0 +1,13 @@
+{
+    "question": "34. Which of the following is used in an attempt to render a computer resource unavailable to its intended users?",
+    "options": [
+        "botnet process",
+        "worms attack",
+        "virus attack",
+        "denial-of-service attack"
+    ],
+    "answer": "Answer: d\nExplanation: In a Denial of Service attack, the attacker won’t let the victims access the network by using a certain method that ensures that an essential network resource is unavailable to the victim. The methods that the attacker can use are vulnerability attack, bandwidth flooding and connection flooding.",
+    "correct_answer": "denial-of-service attack",
+    "answer_index": 3,
+    "explanation": "In a Denial of Service attack, the attacker won’t let the victims access the network by using a certain method that ensures that an essential network resource is unavailable to the victim. The methods that the attacker can use are vulnerability attack, bandwidth flooding and connection flooding."
+}

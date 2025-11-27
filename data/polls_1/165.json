@@ -1,0 +1,13 @@
+{
+    "question": "Q22 What is the main purpose of the Common Language Runtime (CLR) in .NET?",
+    "options": [
+        "To compile Java code",
+        "To provide debugging features",
+        "To manage program execution",
+        "To replace the OS"
+    ],
+    "answer": "C To manage program execution",
+    "explanation": "",
+    "correct_answer": "To manage program execution",
+    "answer_index": 2
+}

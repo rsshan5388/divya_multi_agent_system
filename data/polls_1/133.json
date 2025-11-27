@@ -1,0 +1,13 @@
+{
+    "question": "32. React.js is written in which of the following language?",
+    "options": [
+        "C++",
+        "C",
+        "Java",
+        "JavaScript"
+    ],
+    "answer": "Answer: d\nExplanation: React Native is built on a JavaScript based React.js framework. This is a significant benefit, given that JavaScript is such a widely used language.",
+    "correct_answer": "JavaScript",
+    "answer_index": 3,
+    "explanation": "React Native is built on a JavaScript based React.js framework. This is a significant benefit, given that JavaScript is such a widely used language."
+}

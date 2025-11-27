@@ -1,0 +1,13 @@
+{
+    "question": "How does the 'invoke' method assist in debugging complex agents?",
+    "options": [
+        "It limits the agent's functionality to predefined tasks.",
+        "It automates the response generation process.",
+        "It provides detailed insights into the agent's reasoning process.",
+        "It only supports JSON-based inputs."
+    ],
+    "correct_answer": "It provides detailed insights into the agent's reasoning process.",
+    "explanation": "The 'invoke' method helps by offering insights into how the agent processes information, which is crucial for debugging.",
+    "_source_image": "q_125.png",
+    "answer_index": 2
+}

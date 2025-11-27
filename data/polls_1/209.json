@@ -1,0 +1,13 @@
+{
+    "question": "27. Which network topology requires a central controller or hub?",
+    "options": [
+        "Ring",
+        "Bus",
+        "Star",
+        "Mesh"
+    ],
+    "answer": "Answer: c\nExplanation: In star topology, no computer is connected to another computer directly but all the computers are connected to a central hub. Every message sent from a source computer goes through the hub and the hub then forwards the message only to the intended destination computer.",
+    "correct_answer": "Star",
+    "answer_index": 2,
+    "explanation": "In star topology, no computer is connected to another computer directly but all the computers are connected to a central hub. Every message sent from a source computer goes through the hub and the hub then forwards the message only to the intended destination computer."
+}

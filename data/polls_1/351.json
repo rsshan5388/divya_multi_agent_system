@@ -1,0 +1,13 @@
+{
+    "question": "Q108 A developer is unable to retain user input after a postback in ASP.NET Web Forms. What might be a solution?",
+    "options": [
+        "Enable ViewState",
+        "Disable ViewState",
+        "Clear Session",
+        "Restart application"
+    ],
+    "answer": "A Enable ViewState",
+    "explanation": "",
+    "correct_answer": "Enable ViewState",
+    "answer_index": 0
+}

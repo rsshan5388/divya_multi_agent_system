@@ -1,0 +1,13 @@
+{
+    "question": "Q47 Which keyword in C# represents a data type that can hold any type of data?",
+    "options": [
+        "var",
+        "dynamic",
+        "object",
+        "string"
+    ],
+    "answer": "B dynamic",
+    "explanation": "",
+    "correct_answer": "dynamic",
+    "answer_index": 1
+}

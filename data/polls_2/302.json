@@ -1,0 +1,13 @@
+{
+    "question": "Marina is using a large language model to answer a question about the planet with the most moons. What step should she take to ensure the response is accurate and up-to-date?",
+    "options": [
+        "Embed all known facts about moons into the language model.",
+        "Rely on the pre-trained parameters of the language model.",
+        "Use the RAG framework to retrieve the latest information from a reliable source.",
+        "Consult multiple generative models for a consensus answer."
+    ],
+    "correct_answer": "Use the RAG framework to retrieve the latest information from a reliable source.",
+    "explanation": "The RAG framework allows the model to access and retrieve the most current information, ensuring accuracy and relevance.",
+    "_source_image": "q_19.png",
+    "answer_index": 2
+}

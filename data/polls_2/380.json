@@ -1,0 +1,13 @@
+{
+    "question": "For a project at VisionaryTech, data engineer Morgan is evaluating the Llama 4 model. Which component is responsible for combining visual features and text embeddings into a unified representation?",
+    "options": [
+        "Language generation component",
+        "Multimodal fusion layer",
+        "Visual encoder",
+        "Image validator"
+    ],
+    "correct_answer": "Multimodal fusion layer",
+    "explanation": "The multimodal fusion layer is designed to integrate visual and textual data into a cohesive representation, enabling the model to process and understand both types of information simultaneously.",
+    "_source_image": "q_98.png",
+    "answer_index": 1
+}

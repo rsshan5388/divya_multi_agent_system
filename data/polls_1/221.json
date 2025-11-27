@@ -1,0 +1,13 @@
+{
+    "question": "Q4 Which programming languages are supported by the .NET Framework?",
+    "options": [
+        "Only C++",
+        "Java and C#",
+        "C#, VB.NET, F#",
+        "JavaScript and Python"
+    ],
+    "answer": "C C#, VB.NET, F#",
+    "explanation": "",
+    "correct_answer": "C#, VB.NET, F#",
+    "answer_index": 2
+}

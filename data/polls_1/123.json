@@ -1,0 +1,13 @@
+{
+    "question": "Q72 Which C# keyword is used to call a base class constructor from a derived class?",
+    "options": [
+        "this",
+        "super",
+        "base",
+        "inherit"
+    ],
+    "answer": "C base",
+    "explanation": "",
+    "correct_answer": "base",
+    "answer_index": 2
+}

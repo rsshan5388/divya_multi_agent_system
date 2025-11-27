@@ -1,0 +1,13 @@
+{
+    "question": "Q90 Which class in .NET is used to read text from a file?",
+    "options": [
+        "TextReader",
+        "StreamReader",
+        "FileReader",
+        "TextWriter"
+    ],
+    "answer": "B StreamReader",
+    "explanation": "",
+    "correct_answer": "StreamReader",
+    "answer_index": 1
+}

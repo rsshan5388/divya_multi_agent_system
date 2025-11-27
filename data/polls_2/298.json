@@ -1,0 +1,13 @@
+{
+    "question": "Imagine a user asks a large language model about the planet with the most moons. How does the RAG framework improve the accuracy of the response?",
+    "options": [
+        "By relying solely on the pre-trained knowledge of the LLM",
+        "By increasing the confidence level of the LLM's responses",
+        "By using a different LLM trained on astronomical data",
+        "By instructing the model to consult the content store before generating a response"
+    ],
+    "correct_answer": "By instructing the model to consult the content store before generating a response",
+    "explanation": "The RAG framework improves accuracy by allowing the model to access external content, ensuring responses are based on the most relevant and up-to-date information.",
+    "_source_image": "q_15.png",
+    "answer_index": 3
+}

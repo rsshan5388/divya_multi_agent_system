@@ -1,0 +1,13 @@
+{
+    "question": "17. In operating systems, which scheduling algorithm may cause starvation for low-priority processes?",
+    "options": [
+        "Round Robin",
+        "Priority Scheduling",
+        "First-Come First-Served",
+        "Shortest Job Next"
+    ],
+    "answer": "Answer: b\nExplanation: Priority scheduling may lead to starvation of low-priority processes if higher-priority processes keep arriving.",
+    "correct_answer": "Priority Scheduling",
+    "answer_index": 1,
+    "explanation": "Priority scheduling may lead to starvation of low-priority processes if higher-priority processes keep arriving."
+}

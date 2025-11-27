@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best describes the main purpose of using data models (like Pydantic classes) in a Reflexion-based agent?",
+    "options": [
+        "They enable the agent to self-modify its architecture by generating new neural weights.",
+        "They automatically replace the need for reflection or self-critique by embedding logic in the LLM itself.",
+        "They allow the agent to directly control hardware resources like memory and processing power.",
+        "They enforce a predictable structure for the agent’s outputs, ensuring components like answers, critiques, and search queries follow a consistent format."
+    ],
+    "correct_answer": "They enforce a predictable structure for the agent’s outputs, ensuring components like answers, critiques, and search queries follow a consistent format.",
+    "explanation": "Data models like Pydantic classes are used to ensure that the outputs of the agent are structured consistently, which is crucial for maintaining reliable communication and processing.",
+    "_source_image": "q_136.png",
+    "answer_index": 3
+}

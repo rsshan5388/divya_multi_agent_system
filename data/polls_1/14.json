@@ -1,0 +1,13 @@
+{
+    "question": "Q130 Which Entity Framework feature allows developers to track changes in object states?",
+    "options": [
+        "Data Binding",
+        "Change Tracking",
+        "Lazy Loading",
+        "Query Compilation"
+    ],
+    "answer": "B Change Tracking",
+    "explanation": "",
+    "correct_answer": "Change Tracking",
+    "answer_index": 1
+}

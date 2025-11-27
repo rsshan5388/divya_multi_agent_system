@@ -1,0 +1,13 @@
+{
+    "question": "4. Which of the following programming languages is commonly used for server-side scripting in web development?",
+    "options": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+    ],
+    "answer": "Answer: d\nExplanation: HTML, CSS, and JavaScript play crucial roles in front-end development, focusing on the visual aspects of web pages, while PHP serves as the primary language for server-side scripting. It manages backend tasks such as database interactions, processing user input, and generating dynamic content.",
+    "correct_answer": "PHP",
+    "answer_index": 3,
+    "explanation": "HTML, CSS, and JavaScript play crucial roles in front-end development, focusing on the visual aspects of web pages, while PHP serves as the primary language for server-side scripting. It manages backend tasks such as database interactions, processing user input, and generating dynamic content."
+}

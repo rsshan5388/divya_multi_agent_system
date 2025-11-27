@@ -1,0 +1,13 @@
+{
+    "question": "At TechVision Corp, data engineer Alex is exploring how Sora can be used to enhance video content creation. Which key aspect should Alex focus on to ensure the most accurate video generation using Sora?",
+    "options": [
+        "Using a high-resolution monitor",
+        "Ensuring the video is under 2 minutes",
+        "Crafting detailed and structured text prompts",
+        "Focusing on the length of the text prompt"
+    ],
+    "correct_answer": "Crafting detailed and structured text prompts",
+    "explanation": "Crafting detailed and structured text prompts is crucial for accurate video generation as it provides clear guidance to the system.",
+    "_source_image": "q_97.png",
+    "answer_index": 2
+}

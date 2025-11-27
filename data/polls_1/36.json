@@ -1,0 +1,14 @@
+{
+    "question": "21. Whenever a non-maskable interrupt occurs in 8085 microprocessor, which of the following data line contains the data?",
+    "options": [
+        "2C H",
+        "3C H",
+        "36 H",
+        "24 H",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: TRAP interrupt is a non-maskable interrupt with the highest priority. When it occurs, its vectored address 0024 H is placed on the program counter. 24 H is the lower address bus which also acts as the data bus.",
+    "correct_answer": "24 H",
+    "answer_index": 3,
+    "explanation": "TRAP interrupt is a non-maskable interrupt with the highest priority. When it occurs, its vectored address 0024 H is placed on the program counter. 24 H is the lower address bus which also acts as the data bus."
+}

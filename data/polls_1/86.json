@@ -1,0 +1,13 @@
+{
+    "question": "Q139 Which .NET class is primarily used for asymmetric encryption?",
+    "options": [
+        "Aes",
+        "Rsa",
+        "TripleDES",
+        "Sha256"
+    ],
+    "answer": "B Rsa",
+    "explanation": "",
+    "correct_answer": "Rsa",
+    "answer_index": 1
+}

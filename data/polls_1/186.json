@@ -1,0 +1,14 @@
+{
+    "question": "28. What is the word length of the Pentium-II microprocessor?",
+    "options": [
+        "8-bit",
+        "32-bit",
+        "64-bit",
+        "16-bit",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: The Pentium-II microprocessor is a 64-bit microprocessor. It was introduced in 1997 and designed with 7.5 million transistors. Its word length is 64-bit.",
+    "correct_answer": "64-bit",
+    "answer_index": 2,
+    "explanation": "The Pentium-II microprocessor is a 64-bit microprocessor. It was introduced in 1997 and designed with 7.5 million transistors. Its word length is 64-bit."
+}

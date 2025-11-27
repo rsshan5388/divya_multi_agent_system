@@ -1,0 +1,13 @@
+{
+    "question": "What is a key feature of LlamaIndex's `VectorStoreIndex`?",
+    "options": [
+        "It does not support vector embeddings",
+        "It only works with in-memory storage",
+        "It integrates external vector databases into a native class",
+        "It requires manual setup of metadata"
+    ],
+    "correct_answer": "It integrates external vector databases into a native class",
+    "explanation": "The `VectorStoreIndex` is designed to integrate external vector databases, allowing seamless interaction with native classes.",
+    "_source_image": "q_47.png",
+    "answer_index": 2
+}

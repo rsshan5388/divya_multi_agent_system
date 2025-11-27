@@ -1,0 +1,13 @@
+{
+    "question": "19. Which of the following property is used to control the space between the border and content in a table?",
+    "options": [
+        "border",
+        "padding",
+        "margin",
+        "resize"
+    ],
+    "answer": "Answer: b\nExplanation: The padding property is used to control the space between the border and content in a table.\nExample\n:\ntable\n{\nborder\n:\n4px\nsolid\nblack\n;\n}",
+    "correct_answer": "padding",
+    "answer_index": 1,
+    "explanation": "The padding property is used to control the space between the border and content in a table.\nExample\n:\ntable\n{\nborder\n:\n4px\nsolid\nblack\n;\n}"
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which LlamaIndex retriever is a keyword-based method for ranking documents?",
+    "options": [
+        "Recursive Retriever",
+        "Vector Index Retriever",
+        "BM25 Retriever",
+        "Auto Merging Retriever"
+    ],
+    "correct_answer": "BM25 Retriever",
+    "explanation": "BM25 is a well-known keyword-based ranking algorithm used in information retrieval to rank documents based on the relevance to a query.",
+    "_source_image": "q_83.png",
+    "answer_index": 2
+}

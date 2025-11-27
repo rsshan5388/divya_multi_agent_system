@@ -1,0 +1,13 @@
+{
+    "question": "What is one key advantage of using embedded tool calling over traditional tool calling in LLMs?",
+    "options": [
+        "Embedded tool calling eliminates the need for tool definitions.",
+        "Embedded tool calling requires less initial setup than traditional tool calling.",
+        "Embedded tool calling allows LLMs to operate offline.",
+        "Embedded tool calling reduces hallucinations by managing tool execution within a dedicated library."
+    ],
+    "correct_answer": "Embedded tool calling reduces hallucinations by managing tool execution within a dedicated library.",
+    "explanation": "Embedded tool calling helps manage tool execution more effectively, reducing the likelihood of hallucinations by using a dedicated library.",
+    "_source_image": "q_122.png",
+    "answer_index": 3
+}

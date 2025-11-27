@@ -1,0 +1,13 @@
+{
+    "question": "Jamie wants to create a Gradio interface that allows users to input both text and numeric values. What components of Gradio should Jamie use to achieve this?",
+    "options": [
+        "Use gr.File for text input and gr.Number for numeric input, then configure the interface.",
+        "Use gr.Textbox for text input and gr.Number for numeric input, then pass them as a list of inputs in the Gradio interface.",
+        "Utilize gr.Interface for both text and numeric inputs, and define the input types in the backend code.",
+        "Create custom HTML input fields for text and numeric input and integrate them with Gradio."
+    ],
+    "correct_answer": "Use gr.Textbox for text input and gr.Number for numeric input, then pass them as a list of inputs in the Gradio interface.",
+    "explanation": "Gradio provides specific components like gr.Textbox for text input and gr.Number for numeric input, which can be used directly to create interfaces.",
+    "_source_image": "q_32.png",
+    "answer_index": 1
+}

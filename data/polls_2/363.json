@@ -1,0 +1,13 @@
+{
+    "question": "Why are advanced retrievers considered more suitable for production RAG applications compared to core retrievers?",
+    "options": [
+        "They support only semantic search.",
+        "They are faster and require less memory.",
+        "They are limited to small datasets.",
+        "They combine multiple retrieval strategies for improved accuracy."
+    ],
+    "correct_answer": "They combine multiple retrieval strategies for improved accuracy.",
+    "explanation": "Advanced retrievers are preferred because they integrate various retrieval methods, enhancing the accuracy of search results.",
+    "_source_image": "q_81.png",
+    "answer_index": 3
+}

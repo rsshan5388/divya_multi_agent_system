@@ -1,0 +1,13 @@
+{
+    "question": "At TechVision Solutions, data analyst Morgan is implementing an automated image captioning system for the company's content management platform. Morgan wants to understand the technical process behind how these systems generate accurate descriptions for images. What should Morgan prioritize studying to grasp the fundamental mechanisms of image captioning using multimodal LLMs?",
+    "options": [
+        "The resolution requirements and file format compatibility of images",
+        "Natural language generation techniques and grammar rules",
+        "User interface design for caption editing and refinement",
+        "The three-stage process: input processing, image validation, encoding, and multimodal LLM processing"
+    ],
+    "correct_answer": "The three-stage process: input processing, image validation, encoding, and multimodal LLM processing",
+    "explanation": "Understanding the three-stage process is crucial as it covers the essential steps involved in generating accurate image captions using multimodal LLMs.",
+    "_source_image": "q_96.png",
+    "answer_index": 3
+}

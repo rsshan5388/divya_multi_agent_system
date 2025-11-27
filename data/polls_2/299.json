@@ -1,0 +1,13 @@
+{
+    "question": "How does RAG handle extremely large documents during the embedding process?",
+    "options": [
+        "It skips sections deemed less important.",
+        "It splits the document into smaller, manageable chunks.",
+        "It summarizes the entire document.",
+        "It merges all documents into a single vector."
+    ],
+    "correct_answer": "It splits the document into smaller, manageable chunks.",
+    "explanation": "RAG handles large documents by dividing them into smaller chunks, making them easier to process and embed.",
+    "_source_image": "q_16.png",
+    "answer_index": 1
+}

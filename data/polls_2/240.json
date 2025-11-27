@@ -1,0 +1,13 @@
+{
+    "question": "When working with long documents in LangChain, why is the text splitting process important?",
+    "options": [
+        "To break documents into chunks that fit within model context windows",
+        "To reduce token count and associated API costs",
+        "To eliminate duplicate content across documents",
+        "To improve the aesthetic appearance of text in the application"
+    ],
+    "correct_answer": "To break documents into chunks that fit within model context windows",
+    "explanation": "Text splitting is crucial to ensure that document chunks fit within the model's context window, allowing for effective processing and analysis.",
+    "_source_image": "quest3.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q96 A \"FileNotFoundException\" occurs. What is the likely reason?",
+    "options": [
+        "Incorrect permissions",
+        "File already open",
+        "File does not exist",
+        "File is too large"
+    ],
+    "answer": "C File does not exist",
+    "explanation": "",
+    "correct_answer": "File does not exist",
+    "answer_index": 2
+}

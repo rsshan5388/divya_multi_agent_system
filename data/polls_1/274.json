@@ -1,0 +1,14 @@
+{
+    "question": "33. What is stored in the H & L general-purpose register?",
+    "options": [
+        "Opcode",
+        "Address of memory",
+        "Address of next instruction",
+        "Temporary data",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: H and L are 8-bit general-purpose registers. They are used to store the address of memory. Together they can store a 16-bit address.",
+    "correct_answer": "Address of memory",
+    "answer_index": 1,
+    "explanation": "H and L are 8-bit general-purpose registers. They are used to store the address of memory. Together they can store a 16-bit address."
+}

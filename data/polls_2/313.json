@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary purpose of using the gr.Interface function in Gradio?",
+    "options": [
+        "To create interactive web interfaces for Python functions",
+        "To compile Python code into executable files",
+        "To optimize the performance of machine learning models",
+        "To manage user authentication and authorization"
+    ],
+    "correct_answer": "To create interactive web interfaces for Python functions",
+    "explanation": "The gr.Interface function in Gradio is used to create simple web interfaces for Python functions, allowing users to interact with them through a web browser.",
+    "_source_image": "q_30.png",
+    "answer_index": 0
+}

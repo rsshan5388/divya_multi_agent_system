@@ -1,0 +1,13 @@
+{
+    "question": "Consider a scenario where Alex is building a RAG application using LlamaIndex. He wants to load documents from a directory and its subdirectories, filtering only for CSV and JSON files. Which approach should Alex use?",
+    "options": [
+        "Use SimpleDirectoryReader with recursive set to true and specify the `required_exts` parameter.",
+        "Use `SimpleDirectoryReader` without any additional parameters.",
+        "Use SimpleDirectoryReader with the `input_files` parameter set to a list of file paths.",
+        "Use DirectoryLoader with recursive set to true and specify the `file_types` parameter."
+    ],
+    "correct_answer": "Use SimpleDirectoryReader with recursive set to true and specify the `required_exts` parameter.",
+    "explanation": "The `required_exts` parameter allows filtering by specific file extensions, such as CSV and JSON, while the recursive option ensures all subdirectories are included.",
+    "_source_image": "q_39.png",
+    "answer_index": 0
+}

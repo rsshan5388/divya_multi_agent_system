@@ -1,0 +1,13 @@
+{
+    "question": "Q103 Which control in ASP.NET allows data binding with multiple data sources, like SQL databases and XML files?",
+    "options": [
+        "GridView",
+        "ListView",
+        "FormView",
+        "DetailsView"
+    ],
+    "answer": "A GridView",
+    "explanation": "",
+    "correct_answer": "GridView",
+    "answer_index": 0
+}

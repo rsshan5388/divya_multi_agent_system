@@ -1,0 +1,13 @@
+{
+    "question": "Q23 Which part of the CLR is responsible for memory management?",
+    "options": [
+        "Common Type System",
+        "JIT Compiler",
+        "Garbage Collector",
+        "Global Assembly Cache"
+    ],
+    "answer": "C Garbage Collector",
+    "explanation": "",
+    "correct_answer": "Garbage Collector",
+    "answer_index": 2
+}

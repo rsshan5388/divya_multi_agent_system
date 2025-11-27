@@ -1,0 +1,13 @@
+{
+    "question": "Q3 What is MSIL in the context of .NET?",
+    "options": [
+        "Machine-Specific Intermediate Language",
+        "Managed Source Intermediate Language",
+        "Microsoft Intermediate Language",
+        "Microsoft Secure Intermediate Language"
+    ],
+    "answer": "C Microsoft Intermediate Language",
+    "explanation": "",
+    "correct_answer": "Microsoft Intermediate Language",
+    "answer_index": 2
+}

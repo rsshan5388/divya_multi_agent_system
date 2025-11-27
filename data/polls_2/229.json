@@ -1,0 +1,13 @@
+{
+    "question": "John, an AI engineer at TechCorp, is tasked with choosing an AI model for a new project. He needs to ensure the model can handle large datasets efficiently and optimal processing. Which factor should he prioritize when selecting a model?",
+    "options": [
+        "Deployment method",
+        "Cost of the model",
+        "Model size and performance",
+        "The developer's reputation"
+    ],
+    "correct_answer": "Model size and performance",
+    "explanation": "To handle large datasets efficiently and ensure optimal processing, the model's size and performance are crucial factors to consider.",
+    "_source_image": "q1.png",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "How does Chroma DB facilitate similarity search within vector databases?",
+    "options": [
+        "By storing vectors as JSON documents for faster access.",
+        "By converting vectors into relational database tables.",
+        "By indexing vectors and providing efficient querying mechanisms.",
+        "By using machine learning models to predict vector similarities."
+    ],
+    "correct_answer": "By indexing vectors and providing efficient querying mechanisms.",
+    "explanation": "Chroma DB uses indexing to efficiently search and query vectors, which is crucial for similarity searches in vector databases.",
+    "_source_image": "q_68.png",
+    "answer_index": 2
+}

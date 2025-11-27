@@ -1,0 +1,14 @@
+{
+    "question": "37. Which of the following is true about stack pointer?",
+    "options": [
+        "Stack pointer contains the address of the top of the stack memory",
+        "Stack pointer is an 8-bit register",
+        "Stack pointer stores data permanently",
+        "Stack pointer is initialized after stack operation",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Stack pointer is initialized before stack operation, it is a 16-bit register that stores data temporarily. It follows a LIFO operation. So, it contains the address of the top of the stack memory.",
+    "correct_answer": "Stack pointer contains the address of the top of the stack memory",
+    "answer_index": 0,
+    "explanation": "Stack pointer is initialized before stack operation, it is a 16-bit register that stores data temporarily. It follows a LIFO operation. So, it contains the address of the top of the stack memory."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "18. Which of the following maintains the Domain Name System?",
+    "options": [
+        "a single server",
+        "a single computer",
+        "distributed database system",
+        "none of the mentioned"
+    ],
+    "answer": "Answer: c\nExplanation: A domain name system is maintained by a distributed database system. It is a collection of multiple, logically interrelated databases distributed over a computer network.",
+    "correct_answer": "distributed database system",
+    "answer_index": 2,
+    "explanation": "A domain name system is maintained by a distributed database system. It is a collection of multiple, logically interrelated databases distributed over a computer network."
+}

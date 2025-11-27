@@ -1,0 +1,13 @@
+{
+    "question": "Q119 What is the main advantage of using LINQ in .NET?",
+    "options": [
+        "Improves runtime performance",
+        "Eliminates need for SQL",
+        "Type-safe querying",
+        "Replaces all SQL databases"
+    ],
+    "answer": "C Type-safe querying",
+    "explanation": "",
+    "correct_answer": "Type-safe querying",
+    "answer_index": 2
+}

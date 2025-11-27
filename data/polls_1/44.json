@@ -1,0 +1,13 @@
+{
+    "question": "Q43 An assembly fails to load due to version incompatibility. What could fix this issue?",
+    "options": [
+        "Update assembly reference",
+        "Modify GAC",
+        "Delete library",
+        "Change system path"
+    ],
+    "answer": "A Update assembly reference",
+    "explanation": "",
+    "correct_answer": "Update assembly reference",
+    "answer_index": 0
+}

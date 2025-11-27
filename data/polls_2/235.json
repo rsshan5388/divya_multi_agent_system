@@ -1,0 +1,13 @@
+{
+    "question": "After choosing a model, Priya at CloudNexus wants to ensure it continues effectively serving her business needs. What is an important step in this ongoing process?",
+    "options": [
+        "Skip performance monitoring unless issues arise",
+        "Avoid switching models to reduce complexity",
+        "Continuously test and update the model as needed",
+        "Rely on initial test results"
+    ],
+    "correct_answer": "Continuously test and update the model as needed",
+    "explanation": "Regular testing and updates ensure the model remains effective and adapts to any changes in data or business requirements.",
+    "_source_image": "q7.png",
+    "answer_index": 2
+}

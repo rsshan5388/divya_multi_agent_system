@@ -1,0 +1,13 @@
+{
+    "question": "What is the correct order of steps the LLM follows when using the ReAct pattern to answer a user query like “What’s the weather in Tokyo, and what should I wear?”",
+    "options": [
+        "Observation → Thought → Action → Action Input → Final Answer",
+        "Thought → Action → Action Input → Observation → Final Answer",
+        "Final Answer → Thought → Action → Action Input → Observation",
+        "Action → Action Input → Observation → Thought → Final Answer"
+    ],
+    "correct_answer": "Thought → Action → Action Input → Observation → Final Answer",
+    "explanation": "The ReAct pattern involves a sequence where the model thinks, acts, receives input, observes the result, and then provides a final answer.",
+    "_source_image": "q_140.png",
+    "answer_index": 1
+}

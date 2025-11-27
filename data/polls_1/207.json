@@ -1,0 +1,14 @@
+{
+    "question": "44. Suppose registers ‘A’ and ‘B’ contain 50H and 40H respectively. After instruction MOV A, B, what will be the contents of registers A and B?",
+    "options": [
+        "40H, 40H",
+        "50H, 40H",
+        "50H, 50H",
+        "60H, 40H",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Initially, register A contains 50H & B contains 40H. Instruction MOV A, B means move the content of B to A. So, after this operation, both registers A & B will contain 40H.",
+    "correct_answer": "40H, 40H",
+    "answer_index": 0,
+    "explanation": "Initially, register A contains 50H & B contains 40H. Instruction MOV A, B means move the content of B to A. So, after this operation, both registers A & B will contain 40H."
+}

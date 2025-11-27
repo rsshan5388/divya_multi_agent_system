@@ -1,0 +1,13 @@
+{
+    "question": "Q59 What is the purpose of the throw keyword in .NET exception handling?",
+    "options": [
+        "To declare an exception",
+        "To log an exception",
+        "To pass an exception to higher-level code",
+        "To stop code execution"
+    ],
+    "answer": "C To pass an exception to higher-level code",
+    "explanation": "",
+    "correct_answer": "To pass an exception to higher-level code",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "In LangChain, how does an agent integrate with external tools to fulfill user requests?",
+    "options": [
+        "By storing user inputs in memory for later execution.",
+        "By running predefined commands without external integration.",
+        "By using the language model to determine actions and then querying databases or websites.",
+        "By creating a new tool for each user request."
+    ],
+    "correct_answer": "By using the language model to determine actions and then querying databases or websites.",
+    "explanation": "LangChain agents use language models to interpret user requests and interact with external tools like databases or websites to fulfill those requests.",
+    "_source_image": "quest2.png",
+    "answer_index": 2
+}

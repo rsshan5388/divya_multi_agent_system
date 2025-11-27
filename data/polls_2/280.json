@@ -1,0 +1,13 @@
+{
+    "question": "Why is LangGraph a better fit for this use case compared to traditional constructs?",
+    "options": [
+        "Because LangGraph enables state persistence, dynamic branching, and human-in-the-loop interaction",
+        "Because LangGraph visualizes loops more effectively than for-loops in Python",
+        "Because LangGraph uses fewer resources than while loops",
+        "Because LangGraph offers built-in machine learning capabilities"
+    ],
+    "correct_answer": "Because LangGraph enables state persistence, dynamic branching, and human-in-the-loop interaction",
+    "explanation": "LangGraph is better suited for applications requiring state persistence and adaptability, which traditional constructs like if statements and loops lack.",
+    "_source_image": "q_133.png",
+    "answer_index": 0
+}

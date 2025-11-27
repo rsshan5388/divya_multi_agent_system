@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best describes document filtering in Chroma DB?",
+    "options": [
+        "Filtering based on vector similarity scores.",
+        "Filtering based on structured metadata such as tags or timestamps.",
+        "Filtering based on collection names.",
+        "Filtering based on keyword presence in the document content."
+    ],
+    "correct_answer": "Filtering based on structured metadata such as tags or timestamps.",
+    "explanation": "Chroma DB uses structured metadata for filtering, allowing for efficient organization and retrieval of documents based on specific attributes.",
+    "_source_image": "q_58.png",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q124 How would you perform a group by operation using LINQ to group students by age?",
+    "options": [
+        "students.GroupBy(s => s.Age);",
+        "students.Select(s => s.Age);",
+        "students.SortBy(s => s.Age);",
+        "students.ByGroup(s => s.Age);"
+    ],
+    "answer": "A students.GroupBy(s => s.Age);",
+    "explanation": "",
+    "correct_answer": "students.GroupBy(s => s.Age);",
+    "answer_index": 0
+}

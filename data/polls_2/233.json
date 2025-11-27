@@ -1,0 +1,13 @@
+{
+    "question": "Lucas, a developer at DataGen, is experimenting with different prompting techniques. Which technique involves providing examples to guide the AI's responses?",
+    "options": [
+        "Random prompting",
+        "Few shot prompting",
+        "Zero-shot prompting",
+        "Chain of thought prompting"
+    ],
+    "correct_answer": "Few shot prompting",
+    "explanation": "Few shot prompting involves providing a few examples to guide the AI in generating responses. This helps the AI understand the context and expected output.",
+    "_source_image": "q5.png",
+    "answer_index": 1
+}

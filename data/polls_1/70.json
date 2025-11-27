@@ -1,0 +1,13 @@
+{
+    "question": "48. In cybersecurity, which type of attack involves injecting malicious SQL statements into an input field?",
+    "options": [
+        "Cross-Site Scripting (XSS)",
+        "SQL Injection",
+        "Buffer Overflow",
+        "Man-in-the-Middle"
+    ],
+    "answer": "Answer: b\nExplanation: SQL Injection exploits vulnerabilities in input validation to execute arbitrary SQL commands on the database.",
+    "correct_answer": "SQL Injection",
+    "answer_index": 1,
+    "explanation": "SQL Injection exploits vulnerabilities in input validation to execute arbitrary SQL commands on the database."
+}

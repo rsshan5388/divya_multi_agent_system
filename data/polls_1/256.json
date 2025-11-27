@@ -1,0 +1,14 @@
+{
+    "question": "14. Which of the following is not a property of TRAP interrupt in microprocessor?",
+    "options": [
+        "It is a non-maskable interrupt",
+        "It is of highest priority",
+        "It uses edge-triggered signal",
+        "It is a vectored interrupt",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: TRAP interrupt in 8085 microprocessor uses both level and edge-triggered clock because it is of highest priority among all the interrupts.",
+    "correct_answer": "It uses edge-triggered signal",
+    "answer_index": 2,
+    "explanation": "TRAP interrupt in 8085 microprocessor uses both level and edge-triggered clock because it is of highest priority among all the interrupts."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q110 Which object in ADO.NET is used to establish a connection to a database?",
+    "options": [
+        "DataReader",
+        "DataAdapter",
+        "Connection",
+        "Command"
+    ],
+    "answer": "C Connection",
+    "explanation": "",
+    "correct_answer": "Connection",
+    "answer_index": 2
+}

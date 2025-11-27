@@ -1,0 +1,13 @@
+{
+    "question": "Q57 Which block is used to execute cleanup code regardless of whether an exception occurs?",
+    "options": [
+        "catch",
+        "finally",
+        "try",
+        "throw"
+    ],
+    "answer": "B finally",
+    "explanation": "",
+    "correct_answer": "finally",
+    "answer_index": 1
+}

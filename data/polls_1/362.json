@@ -1,0 +1,13 @@
+{
+    "question": "2. Which HTML tag is used to create a hyperlink?",
+    "options": [
+        "<link>",
+        "<href>",
+        "<a>",
+        "<hyperlink>"
+    ],
+    "answer": "Answer: c\nExplanation: The HTML tag <a> is used to create a hyperlink, which is a link to another web page or resource. The <a> tag has two main attributes: href and target. The href attribute specifies the URL of the linked resource, while the target attribute specifies whether the link should open in a new browser window or tab.",
+    "correct_answer": "<a>",
+    "answer_index": 2,
+    "explanation": "The HTML tag <a> is used to create a hyperlink, which is a link to another web page or resource. The <a> tag has two main attributes: href and target. The href attribute specifies the URL of the linked resource, while the target attribute specifies whether the link should open in a new browser window or tab."
+}

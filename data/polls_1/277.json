@@ -1,0 +1,13 @@
+{
+    "question": "Q77 A derived class cannot inherit members of a base class. What might be the cause?",
+    "options": [
+        "Members are sealed",
+        "Members are internal",
+        "Members are protected",
+        "Members are abstract"
+    ],
+    "answer": "A Members are sealed",
+    "explanation": "",
+    "correct_answer": "Members are sealed",
+    "answer_index": 0
+}

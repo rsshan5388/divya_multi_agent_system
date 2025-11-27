@@ -1,0 +1,13 @@
+{
+    "question": "18. Which HTML tag is used to create a form?",
+    "options": [
+        "<form>",
+        "<input>",
+        "<select>",
+        "<textarea>"
+    ],
+    "answer": "Answer: a\nExplanation: The HTML tag used to create a form is <form>. It’s used to define an area where users can input and submit data on a webpage. Inside the <form> tag, various input elements like <input>, <select>, and <textarea> are used to collect information from users. When users fill in the form and submit it, the data is sent to a server for processing or storage.",
+    "correct_answer": "<form>",
+    "answer_index": 0,
+    "explanation": "The HTML tag used to create a form is <form>. It’s used to define an area where users can input and submit data on a webpage. Inside the <form> tag, various input elements like <input>, <select>, and <textarea> are used to collect information from users. When users fill in the form and submit it, the data is sent to a server for processing or storage."
+}

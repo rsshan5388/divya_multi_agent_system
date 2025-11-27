@@ -1,0 +1,13 @@
+{
+    "question": "1. What is web technology?",
+    "options": [
+        "A collection of tools and techniques used to create and deliver content on the World Wide Web",
+        "A type of software that enables users to access and interact with information on the internet",
+        "A network of interconnected computers that share information and services",
+        "A system for storing and retrieving information on the internet"
+    ],
+    "answer": "Answer: a\nExplanation: Web technology is a term that encompasses the tools, techniques, and standards used to create and deliver content on the World Wide Web. This includes markup languages like HTML and CSS, scripting languages like JavaScript, client-side technologies like HTML5 and CSS3, server-side technologies like PHP and Java, databases, networking protocols, and more.",
+    "correct_answer": "A collection of tools and techniques used to create and deliver content on the World Wide Web",
+    "answer_index": 0,
+    "explanation": "Web technology is a term that encompasses the tools, techniques, and standards used to create and deliver content on the World Wide Web. This includes markup languages like HTML and CSS, scripting languages like JavaScript, client-side technologies like HTML5 and CSS3, server-side technologies like PHP and Java, databases, networking protocols, and more."
+}

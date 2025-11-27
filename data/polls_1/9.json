@@ -1,0 +1,13 @@
+{
+    "question": "31. What is the purpose of JavaScript in web development?",
+    "options": [
+        "To define the structure and content of web pages",
+        "To add interactivity and behavior to web pages",
+        "To style and format web pages",
+        "To manage server-side data and databases"
+    ],
+    "answer": "Answer: b\nExplanation: JavaScript is a scripting language that adds interactivity and behavior to web pages. It makes web pages more dynamic, responsive, and engaging by handling user input, updating content dynamically, creating animations, and communicating with servers.",
+    "correct_answer": "To add interactivity and behavior to web pages",
+    "answer_index": 1,
+    "explanation": "JavaScript is a scripting language that adds interactivity and behavior to web pages. It makes web pages more dynamic, responsive, and engaging by handling user input, updating content dynamically, creating animations, and communicating with servers."
+}

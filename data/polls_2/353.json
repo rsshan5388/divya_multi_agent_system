@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following changes requires cloning a collection in Chroma DB?",
+    "options": [
+        "Adding new documents",
+        "Updating document metadata",
+        "Retrieving documents using the get method",
+        "Changing the embedding model"
+    ],
+    "correct_answer": "Changing the embedding model",
+    "explanation": "Cloning a collection is necessary when changing the embedding model to ensure compatibility and integrity of the data.",
+    "_source_image": "q_70.png",
+    "answer_index": 3
+}

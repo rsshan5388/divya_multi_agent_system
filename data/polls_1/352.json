@@ -1,0 +1,13 @@
+{
+    "question": "Q109 What is ADO.NET primarily used for in .NET?",
+    "options": [
+        "User interface design",
+        "Network communication",
+        "Database access",
+        "Error handling"
+    ],
+    "answer": "C Database access",
+    "explanation": "",
+    "correct_answer": "Database access",
+    "answer_index": 2
+}

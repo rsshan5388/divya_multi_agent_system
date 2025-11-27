@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary enhancement that an agent brings to a traditional Retrieval-Augmented Generation (RAG) pipeline in an agentic RAG setup?",
+    "options": [
+        "It makes decisions about which data source to query based on the user’s input.",
+        "It improves the LLM’s grammar and sentence structure before returning results.",
+        "It determines which parts of the vector database to store long-term.",
+        "It filters out irrelevant responses after the LLM generates an output."
+    ],
+    "correct_answer": "It makes decisions about which data source to query based on the user’s input.",
+    "explanation": "In an agentic RAG setup, the agent's primary role is to intelligently select the most relevant data source to query, enhancing the efficiency and relevance of the information retrieval process.",
+    "_source_image": "q_146.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "How does the RAG process address the challenge of large language models providing out-of-date information?",
+    "options": [
+        "By continuously retraining the model with the latest data",
+        "By augmenting the data store with updated information",
+        "By increasing the parameters of the language model",
+        "By using a more advanced language model"
+    ],
+    "correct_answer": "By augmenting the data store with updated information",
+    "explanation": "The RAG process involves augmenting the data store with updated information to ensure the language model has access to the latest data without needing to retrain the entire model.",
+    "_source_image": "q_14.png",
+    "answer_index": 1
+}

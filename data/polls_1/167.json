@@ -1,0 +1,13 @@
+{
+    "question": "30. Which of the following DDoS in mobile systems wait for the owner to trigger the cyber attack?",
+    "options": [
+        "botnets",
+        "programs",
+        "virus",
+        "worms"
+    ],
+    "answer": "Answer: a\nExplanation: Botnets on infected mobile devices are waiting for orders from their owners. It starts a DDoS flood attack after receiving the owner’s instructions. As a result, calls are not connected or data is not sent.",
+    "correct_answer": "botnets",
+    "answer_index": 0,
+    "explanation": "Botnets on infected mobile devices are waiting for orders from their owners. It starts a DDoS flood attack after receiving the owner’s instructions. As a result, calls are not connected or data is not sent."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "50. Which of the following is a 2-word instruction set?",
+    "options": [
+        "LDA 2500H",
+        "MOV A, B",
+        "IN 01H",
+        "JMP 2085H",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: LDA 2500H and JMP 2085H are 3-word instructions. MOV A, B is a 1-word instruction. IN 01H is a 2-word instruction, the first byte specifies the opcode and the second byte specifies the operand.",
+    "correct_answer": "IN 01H",
+    "answer_index": 2,
+    "explanation": "LDA 2500H and JMP 2085H are 3-word instructions. MOV A, B is a 1-word instruction. IN 01H is a 2-word instruction, the first byte specifies the opcode and the second byte specifies the operand."
+}

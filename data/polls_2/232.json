@@ -1,0 +1,13 @@
+{
+    "question": "Emily, a developer at CodeSolutions, is evaluating Llama 3, Granite, and Mixtral for integration into a new application. What should she consider when choosing the most suitable model?",
+    "options": [
+        "Select the model with the fastest response time",
+        "Evaluate model performance, accuracy, and reliability",
+        "Choose the model with the largest number of features",
+        "Rely on the model's documentation quality"
+    ],
+    "correct_answer": "Evaluate model performance, accuracy, and reliability",
+    "explanation": "When choosing a model for integration, it's important to consider its performance, accuracy, and reliability to ensure it meets the application's requirements.",
+    "_source_image": "q4.png",
+    "answer_index": 1
+}

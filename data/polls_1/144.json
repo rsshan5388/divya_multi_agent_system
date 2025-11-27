@@ -1,0 +1,13 @@
+{
+    "question": "Q147 Which command builds a .NET Core application for production?",
+    "options": [
+        "dotnet release",
+        "dotnet build -c Release",
+        "dotnet production",
+        "dotnet build -r"
+    ],
+    "answer": "B dotnet build -c Release",
+    "explanation": "",
+    "correct_answer": "dotnet build -c Release",
+    "answer_index": 1
+}

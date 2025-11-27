@@ -1,0 +1,13 @@
+{
+    "question": "Q85 How do you remove an item with a specific key from a Dictionary<int, string> in C#?",
+    "options": [
+        "dict.Delete(1);",
+        "dict.Remove(1);",
+        "dict.Clear(1);",
+        "dict.Erase(1);"
+    ],
+    "answer": "B dict.Remove(1);",
+    "explanation": "",
+    "correct_answer": "dict.Remove(1);",
+    "answer_index": 1
+}

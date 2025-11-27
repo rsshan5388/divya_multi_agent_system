@@ -1,0 +1,13 @@
+{
+    "question": "Q92 What does the FileMode.Create option do when opening a file in .NET?",
+    "options": [
+        "Opens file if it exists",
+        "Throws exception if file exists",
+        "Creates new file or overwrites existing",
+        "Creates file only if it doesn’t exist"
+    ],
+    "answer": "C Creates new file or overwrites existing",
+    "explanation": "",
+    "correct_answer": "Creates new file or overwrites existing",
+    "answer_index": 2
+}

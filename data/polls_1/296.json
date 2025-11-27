@@ -1,0 +1,14 @@
+{
+    "question": "4. The microprocessor of a computer can operate on any information if it is present in ______________ only.",
+    "options": [
+        "Program Counter",
+        "Flag",
+        "Main Memory",
+        "Secondary Memory",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: If the information isn’t in the computer’s main store, the microprocessor can’t do anything with it. The primary storage area in a computer, also known as main storage or memory, is where data is stored for easy access by the computer’s processor. Random-access memory (RAM) and memory are frequently used interchangeably to refer to primary or main storage.",
+    "correct_answer": "Main Memory",
+    "answer_index": 2,
+    "explanation": "If the information isn’t in the computer’s main store, the microprocessor can’t do anything with it. The primary storage area in a computer, also known as main storage or memory, is where data is stored for easy access by the computer’s processor. Random-access memory (RAM) and memory are frequently used interchangeably to refer to primary or main storage."
+}

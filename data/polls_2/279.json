@@ -1,0 +1,13 @@
+{
+    "question": "Which statement best describes the roles of the two systems in this scenario?",
+    "options": [
+        "Both tools use LLMs, so their classification as agentic or generative AI is interchangeable.",
+        "Both systems are examples of generative AI because they work with text and media content.",
+        "The agent used for rollout is generative AI, while the chatbot is agentic AI because it assists with writing strategy.",
+        "The chatbot is generative AI, and the agent used for rollout is agentic AI because it handles multi-step tasks with minimal human input."
+    ],
+    "correct_answer": "The chatbot is generative AI, and the agent used for rollout is agentic AI because it handles multi-step tasks with minimal human input.",
+    "explanation": "The chatbot assists with writing, which is a generative task, while the rollout agent manages tasks, making it agentic.",
+    "_source_image": "q_132.png",
+    "answer_index": 3
+}

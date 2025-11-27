@@ -1,0 +1,13 @@
+{
+    "question": "Q111 What is the purpose of the DataSet in ADO.NET?",
+    "options": [
+        "Fetch a single row",
+        "Manage database connections",
+        "Store data locally",
+        "Execute SQL commands"
+    ],
+    "answer": "C Store data locally",
+    "explanation": "",
+    "correct_answer": "Store data locally",
+    "answer_index": 2
+}

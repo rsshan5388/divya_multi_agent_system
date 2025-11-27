@@ -1,0 +1,13 @@
+{
+    "question": "What is the role of neural networks in the embedding step of RAG?",
+    "options": [
+        "To convert text into tokens",
+        "To encode tokens into token IDs",
+        "To transform token IDs into numeric vectors",
+        "To identify relevant chunks for retrieval"
+    ],
+    "correct_answer": "To transform token IDs into numeric vectors",
+    "explanation": "In the embedding step, neural networks transform token IDs into numeric vectors, which are used for further processing in models like RAG.",
+    "_source_image": "q_23.png",
+    "answer_index": 2
+}

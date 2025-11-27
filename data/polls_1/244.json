@@ -1,0 +1,13 @@
+{
+    "question": "4. Which of the following computer networks is built on the top of another network?",
+    "options": [
+        "overlay network",
+        "prime network",
+        "prior network",
+        "chief network"
+    ],
+    "answer": "Answer: a\nExplanation: An overlay network is a computer network that is built on top of another network. Some examples of an overlay network are Virtual Private Networks (VPN) and Peer-to-Peer Networks (P2P).",
+    "correct_answer": "overlay network",
+    "answer_index": 0,
+    "explanation": "An overlay network is a computer network that is built on top of another network. Some examples of an overlay network are Virtual Private Networks (VPN) and Peer-to-Peer Networks (P2P)."
+}

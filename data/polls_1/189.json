@@ -1,0 +1,14 @@
+{
+    "question": "23. How many address lines are present in 8086 microprocessor?",
+    "options": [
+        "16",
+        "20",
+        "32",
+        "40",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: 8086 microprocessor is a 16-bit microprocessor that uses 20 address lines and 16 data lines. AD\n0\nto AD\n15\nare 16 lower order address lines that can be operated in both address and data bus mode.",
+    "correct_answer": "20",
+    "answer_index": 1,
+    "explanation": "8086 microprocessor is a 16-bit microprocessor that uses 20 address lines and 16 data lines. AD\n0\nto AD\n15\nare 16 lower order address lines that can be operated in both address and data bus mode."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "35. Which of the following is a software interrupt?",
+    "options": [
+        "TRAP",
+        "INTR",
+        "RST-6.5",
+        "RST-5",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: TRAP, INTR, and RST-6.5 are the hardware interrupts but RST-5 is a software interrupt present. All software interrupts are vectored interrupts.",
+    "correct_answer": "RST-5",
+    "answer_index": 3,
+    "explanation": "TRAP, INTR, and RST-6.5 are the hardware interrupts but RST-5 is a software interrupt present. All software interrupts are vectored interrupts."
+}

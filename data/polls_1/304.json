@@ -1,0 +1,13 @@
+{
+    "question": "10. What is DOM?",
+    "options": [
+        "Application programming interface",
+        "Hierarchy of objects in ASP.NET",
+        "Convention for representing and interacting with objects in html documents",
+        "None of the mentioned"
+    ],
+    "answer": "Answer: c\nExplanation: The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents.",
+    "correct_answer": "Convention for representing and interacting with objects in html documents",
+    "answer_index": 2,
+    "explanation": "The Document Object Model (DOM) is a cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML, and XML documents."
+}

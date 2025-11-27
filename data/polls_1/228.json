@@ -1,0 +1,13 @@
+{
+    "question": "Q105 Which code snippet demonstrates how to retrieve a TextBox value in ASP.NET?",
+    "options": [
+        "TextBox1.Value",
+        "TextBox1.Text",
+        "TextBox1.Input",
+        "TextBox1.Data"
+    ],
+    "answer": "B TextBox1.Text",
+    "explanation": "",
+    "correct_answer": "TextBox1.Text",
+    "answer_index": 1
+}

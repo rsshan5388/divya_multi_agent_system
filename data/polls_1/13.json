@@ -1,0 +1,13 @@
+{
+    "question": "27. When does JavaScript code appear inline within an HTML file?",
+    "options": [
+        "Between or Outside the “script” tag",
+        "Between the header tag",
+        "Outside the “script” tag",
+        "Between the “script” tag"
+    ],
+    "answer": "Answer: d\nExplanation: JavaScript code can appear inline within an HTML file between the “script” tags. Javascript can also be included from an external file specified by the src attribute of a “script” tag.",
+    "correct_answer": "Between the “script” tag",
+    "answer_index": 3,
+    "explanation": "JavaScript code can appear inline within an HTML file between the “script” tags. Javascript can also be included from an external file specified by the src attribute of a “script” tag."
+}

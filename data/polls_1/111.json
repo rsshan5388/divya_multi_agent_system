@@ -1,0 +1,13 @@
+{
+    "question": "Q134 A \"DbUpdateException\" occurs when updating data in Entity Framework. What is a likely cause?",
+    "options": [
+        "Foreign key constraint violation",
+        "Database offline",
+        "Connection string error",
+        "Primary key duplication"
+    ],
+    "answer": "A Foreign key constraint violation",
+    "explanation": "",
+    "correct_answer": "Foreign key constraint violation",
+    "answer_index": 0
+}

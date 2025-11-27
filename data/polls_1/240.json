@@ -1,0 +1,14 @@
+{
+    "question": "11. Which of the following is the correct sequence of operations in a microprocessor?",
+    "options": [
+        "Opcode fetch, memory read, memory write, I/O read, I/O write",
+        "Opcode fetch, memory write, memory read, I/O read, I/O write",
+        "I/O read, opcode fetch, memory read, memory write, I/O write",
+        "I/O read, opcode fetch, memory write, memory read, I/O write",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Initially, the opcode is fetched from memory, then memory read and write operations are performed followed by I/O read and I/O write operations.",
+    "correct_answer": "Opcode fetch, memory read, memory write, I/O read, I/O write",
+    "answer_index": 0,
+    "explanation": "Initially, the opcode is fetched from memory, then memory read and write operations are performed followed by I/O read and I/O write operations."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q107 A \"NullReferenceException\" occurs when accessing a control in ASP.NET. What could be a likely cause?",
+    "options": [
+        "Page not loaded",
+        "Control is null",
+        "Invalid variable",
+        "Form is closed"
+    ],
+    "answer": "B Control is null",
+    "explanation": "",
+    "correct_answer": "Control is null",
+    "answer_index": 1
+}

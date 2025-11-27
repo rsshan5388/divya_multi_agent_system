@@ -1,0 +1,13 @@
+{
+    "question": "Data engineer Alex at InnovateTech is tasked with evaluating the effectiveness of Meta's Llama4 for image captioning. After implementing the model, Alex needs to assess its performance. Which key evaluation metrics should Alex consider to ensure a comprehensive analysis?",
+    "options": [
+        "Accuracy, specificity, and sensitivity",
+        "MAE, RMSE, and R-squared",
+        "BLEU score, METEOR, and CIDEr",
+        "Precision, recall, and F1 score"
+    ],
+    "correct_answer": "BLEU score, METEOR, and CIDEr",
+    "explanation": "BLEU score, METEOR, and CIDEr are common metrics used to evaluate the quality of image captioning models by comparing generated captions to reference captions.",
+    "_source_image": "q_95.png",
+    "answer_index": 2
+}

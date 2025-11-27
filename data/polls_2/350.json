@@ -1,0 +1,13 @@
+{
+    "question": "What is a key advantage of using vector databases like Chroma DB in recommendation systems?",
+    "options": [
+        "They automatically generate recommendations without any input.",
+        "They eliminate the need for machine learning models.",
+        "They convert vector data into human-readable formats.",
+        "They can handle large-scale vector data efficiently."
+    ],
+    "correct_answer": "They can handle large-scale vector data efficiently.",
+    "explanation": "Vector databases are designed to efficiently manage and query large-scale vector data, which is crucial for performance in recommendation systems.",
+    "_source_image": "q_67.png",
+    "answer_index": 3
+}

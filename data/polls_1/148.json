@@ -1,0 +1,13 @@
+{
+    "question": "2. What is internet?",
+    "options": [
+        "A network of interconnected local area networks",
+        "A collection of unrelated computers",
+        "Interconnection of wide area networks",
+        "A single network"
+    ],
+    "answer": "Answer: c\nExplanation: The internet is a global network formed by connecting wide area networks (WANs), enabling worldwide communication and data sharing.",
+    "correct_answer": "Interconnection of wide area networks",
+    "answer_index": 2,
+    "explanation": "The internet is a global network formed by connecting wide area networks (WANs), enabling worldwide communication and data sharing."
+}

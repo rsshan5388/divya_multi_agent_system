@@ -1,0 +1,13 @@
+{
+    "question": "Gradio's Interface class wraps around which of the following?",
+    "options": [
+        "A \"list\"",
+        "A \"for\" loop",
+        "A \"function\"",
+        "A \"dict\""
+    ],
+    "correct_answer": "A \"function\"",
+    "explanation": "Gradio's Interface class is designed to wrap around a Python function, allowing it to be easily converted into a web-based interface.",
+    "_source_image": "q_34.png",
+    "answer_index": 2
+}

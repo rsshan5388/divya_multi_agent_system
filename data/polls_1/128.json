@@ -1,0 +1,14 @@
+{
+    "question": "16. Which of the following flag is used to mask INTR interrupt?",
+    "options": [
+        "zero flag",
+        "auxiliary carry flag flag",
+        "interrupt flag",
+        "sign flag",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: If the interrupt flag, IF=1, is set, the microprocessor will serve any interrupt. The processor ignores the service if the interrupt flag, IF=0, is set to 0.",
+    "correct_answer": "interrupt flag",
+    "answer_index": 2,
+    "explanation": "If the interrupt flag, IF=1, is set, the microprocessor will serve any interrupt. The processor ignores the service if the interrupt flag, IF=0, is set to 0."
+}

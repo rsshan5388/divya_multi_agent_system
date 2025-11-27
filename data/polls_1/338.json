@@ -1,0 +1,14 @@
+{
+    "question": "29. Which of the following is not true about 8085 microprocessor?",
+    "options": [
+        "It is an 8-bit microprocessor",
+        "It is a 40 pin DIP chip",
+        "It is manufactured using PMOS technology",
+        "It has 16 address lines",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: 8085 microprocessor is manufactured using NMOS technology. PMOS technology is used in a 4004 microprocessors. NMOS technology is faster than PMOS technology.",
+    "correct_answer": "It is manufactured using PMOS technology",
+    "answer_index": 2,
+    "explanation": "8085 microprocessor is manufactured using NMOS technology. PMOS technology is used in a 4004 microprocessors. NMOS technology is faster than PMOS technology."
+}

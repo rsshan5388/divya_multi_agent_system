@@ -1,0 +1,13 @@
+{
+    "question": "At TechFood Inc., the data engineering team is developing an AI-powered personal nutritional coach. They want this assistant to identify nutritional content of a dish based on image inputs. Which AI model and platform should they consider using to achieve this functionality?",
+    "options": [
+        "ResNet50 on PyTorch",
+        "Llama 4 Maverick model on IBM watsonx",
+        "GPT-3 on OpenAI platform",
+        "BERT on TensorFlow"
+    ],
+    "correct_answer": "ResNet50 on PyTorch",
+    "explanation": "ResNet50 is a convolutional neural network model suitable for image recognition tasks, making it ideal for identifying nutritional content from images.",
+    "_source_image": "q_103.png",
+    "answer_index": 0
+}

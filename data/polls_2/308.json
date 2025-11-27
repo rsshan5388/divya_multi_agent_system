@@ -1,0 +1,13 @@
+{
+    "question": "Jessica wants to create a Gradio interface that allows users to upload files and count them. Which Gradio component should she use to enable file uploads?",
+    "options": [
+        "gr.Number",
+        "gr.Interface",
+        "gr.Textbox",
+        "gr.File"
+    ],
+    "correct_answer": "gr.File",
+    "explanation": "The 'gr.File' component in Gradio is specifically designed to handle file uploads, making it the appropriate choice for this task.",
+    "_source_image": "q_25.png",
+    "answer_index": 3
+}

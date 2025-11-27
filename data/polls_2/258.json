@@ -1,0 +1,13 @@
+{
+    "question": "What is a key characteristic of the LangChain Pandas agent compared to other agents?",
+    "options": [
+        "It requires manual coding for each operation.",
+        "It is specifically designed for production environments.",
+        "It only works with SQL databases.",
+        "It uses a preconfigured set of functions and prompts."
+    ],
+    "correct_answer": "It uses a preconfigured set of functions and prompts.",
+    "explanation": "The LangChain Pandas agent is designed to use a preconfigured set of functions and prompts, which differentiates it from other agents that may require more manual setup.",
+    "_source_image": "q_113.png",
+    "answer_index": 3
+}

@@ -1,0 +1,14 @@
+{
+    "question": "41. Which is of the following is true about STA instruction?",
+    "options": [
+        "It uses immediate addressing mode",
+        "It is a 3-byte instruction",
+        "It required three machine cycles",
+        "Accumulator is loaded with the content of memory",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: STA is a direct addressing mode instruction which stands for Store Accumulator Direct. It is a 3-byte instruction and it requires four machine cycles. In STA instruction memory is loaded with the content of the accumulator.",
+    "correct_answer": "It is a 3-byte instruction",
+    "answer_index": 1,
+    "explanation": "STA is a direct addressing mode instruction which stands for Store Accumulator Direct. It is a 3-byte instruction and it requires four machine cycles. In STA instruction memory is loaded with the content of the accumulator."
+}

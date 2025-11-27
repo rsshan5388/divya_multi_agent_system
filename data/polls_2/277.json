@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary role of 'state' in a LangGraph workflow?",
+    "options": [
+        "It handles conditional logic using for loops and if statements.",
+        "It sets the visual layout for the Mermaid diagram.",
+        "It stores and maintains shared memory across nodes to preserve workflow context.",
+        "It decides which node executes first in the graph."
+    ],
+    "correct_answer": "It stores and maintains shared memory across nodes to preserve workflow context.",
+    "explanation": "The 'state' in a LangGraph workflow is crucial for maintaining context across different nodes, ensuring that the workflow can function cohesively.",
+    "_source_image": "q_130.png",
+    "answer_index": 2
+}

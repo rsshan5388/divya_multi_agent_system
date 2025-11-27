@@ -1,0 +1,13 @@
+{
+    "question": "1. What is a computer network?",
+    "options": [
+        "A device used to display information on a computer screen",
+        "A collection of interconnected computers and devices that can communicate and share resources",
+        "A type of software used to create documents and presentations",
+        "The physical casing that protects a computer’s internal components"
+    ],
+    "answer": "Answer: b\nExplanation: A computer network refers to a collection of computers and devices linked together to share information, resources, and services. This interconnection enables communication, data sharing, and collaboration among the devices within the network.",
+    "correct_answer": "A collection of interconnected computers and devices that can communicate and share resources",
+    "answer_index": 1,
+    "explanation": "A computer network refers to a collection of computers and devices linked together to share information, resources, and services. This interconnection enables communication, data sharing, and collaboration among the devices within the network."
+}

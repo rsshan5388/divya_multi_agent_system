@@ -1,0 +1,13 @@
+{
+    "question": "Q15 What is the purpose of the .NET Framework Class Library (FCL)?",
+    "options": [
+        "Executes code",
+        "Manages user access",
+        "Provides reusable classes",
+        "Compiles programs"
+    ],
+    "answer": "C Provides reusable classes",
+    "explanation": "",
+    "correct_answer": "Provides reusable classes",
+    "answer_index": 2
+}

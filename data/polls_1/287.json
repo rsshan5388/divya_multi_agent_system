@@ -1,0 +1,13 @@
+{
+    "question": "Q61 Which exception is caught by the catch (Exception ex) statement?",
+    "options": [
+        "Only Exception",
+        "All exceptions derived from Exception",
+        "System-level errors",
+        "Only runtime errors"
+    ],
+    "answer": "B All exceptions derived from Exception",
+    "explanation": "",
+    "correct_answer": "All exceptions derived from Exception",
+    "answer_index": 1
+}

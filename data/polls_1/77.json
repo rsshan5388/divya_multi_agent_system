@@ -1,0 +1,13 @@
+{
+    "question": "8. Which of the following is not a cybercrime?",
+    "options": [
+        "Denial of Service",
+        "Man in the Middle",
+        "Malware",
+        "AES"
+    ],
+    "answer": "Answer: d\nExplanation: Denial of Service, Man in the Middle, and Malware exploit the system causing a threat to security, hence they are considered as cybercrime. AES (Advanced Encryption Standard) provides security by encrypting the data.",
+    "correct_answer": "AES",
+    "answer_index": 3,
+    "explanation": "Denial of Service, Man in the Middle, and Malware exploit the system causing a threat to security, hence they are considered as cybercrime. AES (Advanced Encryption Standard) provides security by encrypting the data."
+}

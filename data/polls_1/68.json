@@ -1,0 +1,13 @@
+{
+    "question": "Q71 How would you declare a simple class named Person in C#?",
+    "options": [
+        "class Person { }",
+        "Person class { }",
+        "object Person { }",
+        "struct Person { }"
+    ],
+    "answer": "A class Person { }",
+    "explanation": "",
+    "correct_answer": "class Person { }",
+    "answer_index": 0
+}

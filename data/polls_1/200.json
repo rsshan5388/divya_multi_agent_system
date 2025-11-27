@@ -1,0 +1,13 @@
+{
+    "question": "26. Which of the following is an internet scam done by cyber-criminals where the user is convinced digitally to provide confidential information.",
+    "options": [
+        "MiTM attack",
+        "Phishing attack",
+        "Website attack",
+        "DoS attack"
+    ],
+    "answer": "Answer: b\nExplanation: Phishing is a type of cybercrime in which a person is digitally persuaded to disclose private information. Phishing comes in a variety of forms. Some of them employ malware and emails to divert users to various websites.",
+    "correct_answer": "Phishing attack",
+    "answer_index": 1,
+    "explanation": "Phishing is a type of cybercrime in which a person is digitally persuaded to disclose private information. Phishing comes in a variety of forms. Some of them employ malware and emails to divert users to various websites."
+}

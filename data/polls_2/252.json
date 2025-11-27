@@ -1,0 +1,13 @@
+{
+    "question": "How do LLMs determine which tools to suggest?",
+    "options": [
+        "By executing each tool to see which one works best",
+        "By consulting with human operators for suggestions",
+        "By analyzing inputs and recommending the most effective course of action",
+        "By selecting tools at random and testing their outcomes"
+    ],
+    "correct_answer": "By analyzing inputs and recommending the most effective course of action",
+    "explanation": "LLMs analyze inputs to determine the most effective tools to suggest, rather than relying on random selection or human consultation.",
+    "_source_image": "q_108.png",
+    "answer_index": 2
+}

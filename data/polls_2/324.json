@@ -1,0 +1,13 @@
+{
+    "question": "In a situation where a user wants to customize the prompt template in LlamaIndex, what challenge might they face?",
+    "options": [
+        "The prompt augmentation step is combined with other steps, complicating customization.",
+        "Customizing prompt templates requires extensive coding knowledge.",
+        "The framework lacks default prompt templates.",
+        "LlamaIndex does not support prompt template customization."
+    ],
+    "correct_answer": "The prompt augmentation step is combined with other steps, complicating customization.",
+    "explanation": "The challenge is that the prompt augmentation step is integrated with other steps, making it difficult to customize separately.",
+    "_source_image": "q_41.png",
+    "answer_index": 0
+}

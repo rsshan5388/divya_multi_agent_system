@@ -1,0 +1,13 @@
+{
+    "question": "Q69 Which keyword is used in C# to prevent a class from being inherited?",
+    "options": [
+        "sealed",
+        "static",
+        "readonly",
+        "protected"
+    ],
+    "answer": "A sealed",
+    "explanation": "",
+    "correct_answer": "sealed",
+    "answer_index": 0
+}

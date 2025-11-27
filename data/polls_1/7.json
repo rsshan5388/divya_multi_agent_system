@@ -1,0 +1,14 @@
+{
+    "question": "22. What does a microprocessor understand after decoding opcode?",
+    "options": [
+        "Perform ALU operation",
+        "Go to memory",
+        "Length of the instruction and number of operations",
+        "Go to the output device",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: After decoding the opcode of the instruction, a microprocessor understands the length of the instruction and the total number of operations to be performed.",
+    "correct_answer": "Length of the instruction and number of operations",
+    "answer_index": 2,
+    "explanation": "After decoding the opcode of the instruction, a microprocessor understands the length of the instruction and the total number of operations to be performed."
+}

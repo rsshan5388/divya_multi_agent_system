@@ -1,0 +1,13 @@
+{
+    "question": "Q28 How do you force garbage collection in a .NET application?",
+    "options": [
+        "GC.Run()",
+        "Garbage.Collect()",
+        "System.GC()",
+        "CLR.Collect()"
+    ],
+    "answer": "B Garbage.Collect()",
+    "explanation": "",
+    "correct_answer": "Garbage.Collect()",
+    "answer_index": 1
+}

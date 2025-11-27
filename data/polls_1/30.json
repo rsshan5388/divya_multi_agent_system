@@ -1,0 +1,13 @@
+{
+    "question": "8. What are nodes in a computer network?",
+    "options": [
+        "the computer that routes the data",
+        "the computer that terminates the data",
+        "the computer that originates the data",
+        "all of the mentioned"
+    ],
+    "answer": "Answer: d\nExplanation: In a computer network, a node can be anything that is capable of sending data or receiving data or even routing the data to its destination. Routers, Computers and Smartphones are some examples of network nodes.",
+    "correct_answer": "all of the mentioned",
+    "answer_index": 3,
+    "explanation": "In a computer network, a node can be anything that is capable of sending data or receiving data or even routing the data to its destination. Routers, Computers and Smartphones are some examples of network nodes."
+}

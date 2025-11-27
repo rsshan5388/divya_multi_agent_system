@@ -1,0 +1,13 @@
+{
+    "question": "33. Which of the following ethical hacking technique is used for determining which operating system (OS) is running on a remote computer?",
+    "options": [
+        "Operating System fingerprinting",
+        "Operating System penetration testing",
+        "Digital-printing",
+        "Machine printing"
+    ],
+    "answer": "Answer: a\nExplanation: OS fingerprinting is an ethical hacking technique used for determining what operating system (OS) is running on a remote computer. OS Fingerprinting is the practice of examining data packets that come from a network in order to extract intelligence that may be utilized in future assaults.",
+    "correct_answer": "Operating System fingerprinting",
+    "answer_index": 0,
+    "explanation": "OS fingerprinting is an ethical hacking technique used for determining what operating system (OS) is running on a remote computer. OS Fingerprinting is the practice of examining data packets that come from a network in order to extract intelligence that may be utilized in future assaults."
+}

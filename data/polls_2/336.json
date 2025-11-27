@@ -1,0 +1,13 @@
+{
+    "question": "Which type of data is most effectively managed by vector databases?",
+    "options": [
+        "Simple numerical data.",
+        "High-dimensional vector data.",
+        "Low-dimensional structured data.",
+        "Textual data with minimal complexity."
+    ],
+    "correct_answer": "High-dimensional vector data.",
+    "explanation": "Vector databases are designed to handle high-dimensional vector data, which is common in applications like machine learning and data science.",
+    "_source_image": "q_53.png",
+    "answer_index": 1
+}

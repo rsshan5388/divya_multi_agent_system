@@ -1,0 +1,13 @@
+{
+    "question": "23. Which of the following communicates with server-side CGI scripts through HTML form submissions and can be written without the use of JavaScript?",
+    "options": [
+        "Interactive Web Pages",
+        "Static Web Pages",
+        "Conditional Web Pages",
+        "All web pages"
+    ],
+    "answer": "Answer: a\nExplanation: An interactive web page can dynamically vary its content based on user preferences. Interactive web pages that communicate with server-side CGI scripts through HTML form submissions were the original “web application” and can be written without the use of JavaScript.",
+    "correct_answer": "Interactive Web Pages",
+    "answer_index": 0,
+    "explanation": "An interactive web page can dynamically vary its content based on user preferences. Interactive web pages that communicate with server-side CGI scripts through HTML form submissions were the original “web application” and can be written without the use of JavaScript."
+}

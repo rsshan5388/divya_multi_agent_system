@@ -1,0 +1,13 @@
+{
+    "question": "Q52 A developer encounters an \"OverflowException\" when assigning a value. What could be the cause?",
+    "options": [
+        "Incorrect type",
+        "Value exceeds data type limit",
+        "Syntax error",
+        "Null reference"
+    ],
+    "answer": "B Value exceeds data type limit",
+    "explanation": "",
+    "correct_answer": "Value exceeds data type limit",
+    "answer_index": 1
+}

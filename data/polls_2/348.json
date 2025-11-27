@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following statements most accurately defines the role of vector embeddings in Chroma DB's similarity search process?",
+    "options": [
+        "Vector embeddings are used to encrypt data for security purposes in Chroma DB.",
+        "Vector embeddings are used to store metadata about the data entries.",
+        "Vector embeddings are primarily used to increase the speed of database queries.",
+        "Vector embeddings are used to convert data into a format that enables similarity comparison."
+    ],
+    "correct_answer": "Vector embeddings are used to convert data into a format that enables similarity comparison.",
+    "explanation": "Vector embeddings transform data into a numerical format that allows for efficient similarity comparisons, which is essential for similarity search processes.",
+    "_source_image": "q_65.png",
+    "answer_index": 3
+}

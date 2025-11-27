@@ -1,0 +1,13 @@
+{
+    "question": "5. Which of the following is a type of cyber security?",
+    "options": [
+        "Cloud Security",
+        "Network Security",
+        "Application Security",
+        "All of the above"
+    ],
+    "answer": "Answer:d\nExplanation: Since technology is improving, the threat and attacks against the technology are also increasing. Hence, to provide security, it is divided into the following types:\nCloud Security: Provides security for the data stored on the cloud.\nNetwork Security: Protects the internal network from threats.\nApplication Security: Protects data stored in the application software.",
+    "correct_answer": "All of the above",
+    "answer_index": 3,
+    "explanation": "Since technology is improving, the threat and attacks against the technology are also increasing. Hence, to provide security, it is divided into the following types:\nCloud Security: Provides security for the data stored on the cloud.\nNetwork Security: Protects the internal network from threats.\nApplication Security: Protects data stored in the application software."
+}

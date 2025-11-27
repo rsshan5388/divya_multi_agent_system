@@ -1,0 +1,13 @@
+{
+    "question": "29. What is Vue JS?",
+    "options": [
+        "Scripting Language",
+        "A framework",
+        "Programming Language",
+        "Directives"
+    ],
+    "answer": "Answer: b\nExplanation: Vue.js is an open-source front-end JavaScript framework for building user interfaces and single-page applications.",
+    "correct_answer": "A framework",
+    "answer_index": 1,
+    "explanation": "Vue.js is an open-source front-end JavaScript framework for building user interfaces and single-page applications."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Arthur wants to force his application’s users to select one of three mutually exclusive venues for an upcoming party. Which of the following would best suit his needs?",
+    "options": [
+        "Textbox",
+        "Checkbox",
+        "Dropdown",
+        "SortedList"
+    ],
+    "correct_answer": "Dropdown",
+    "explanation": "A dropdown allows users to select one option from a list, making it suitable for mutually exclusive choices.",
+    "_source_image": "q_36.png",
+    "answer_index": 2
+}

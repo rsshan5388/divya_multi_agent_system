@@ -1,0 +1,14 @@
+{
+    "question": "25. Which of the following is not a condition flag?",
+    "options": [
+        "Trap flag",
+        "Auxiliary carry flag",
+        "Parity flag",
+        "Zero flag",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Trap, direction, and interrupt are the control flags. Carry, parity, auxiliary carry, zero, sign and overflow flags are the condition flags.",
+    "correct_answer": "Trap flag",
+    "answer_index": 0,
+    "explanation": "Trap, direction, and interrupt are the control flags. Carry, parity, auxiliary carry, zero, sign and overflow flags are the condition flags."
+}

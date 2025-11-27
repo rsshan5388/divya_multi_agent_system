@@ -1,0 +1,13 @@
+{
+    "question": "Q25 What is the purpose of the Just-In-Time (JIT) compiler in CLR?",
+    "options": [
+        "To manage memory",
+        "To interpret code",
+        "To convert MSIL to machine code",
+        "To secure the OS"
+    ],
+    "answer": "C To convert MSIL to machine code",
+    "explanation": "",
+    "correct_answer": "To convert MSIL to machine code",
+    "answer_index": 2
+}

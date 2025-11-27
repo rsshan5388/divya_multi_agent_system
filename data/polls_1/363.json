@@ -1,0 +1,13 @@
+{
+    "question": "23. What does each packet contain in a virtual circuit network?",
+    "options": [
+        "only source address",
+        "only destination address",
+        "full source and destination address",
+        "a short VC number"
+    ],
+    "answer": "Answer: d\nExplanation: A short VC number also called as VCID (virtual circuit identifier) is a type of identifier which is used to distinguish between several virtual circuits in a connection oriented circuit switched network. Each virtual circuit is used to transfer data over a larger packet switched network.",
+    "correct_answer": "a short VC number",
+    "answer_index": 3,
+    "explanation": "A short VC number also called as VCID (virtual circuit identifier) is a type of identifier which is used to distinguish between several virtual circuits in a connection oriented circuit switched network. Each virtual circuit is used to transfer data over a larger packet switched network."
+}

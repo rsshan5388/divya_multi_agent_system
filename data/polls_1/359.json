@@ -1,0 +1,13 @@
+{
+    "question": "Q127 What is Entity Framework primarily used for in .NET?",
+    "options": [
+        "User interface design",
+        "Database management",
+        "Data access and ORM",
+        "Network communication"
+    ],
+    "answer": "C Data access and ORM",
+    "explanation": "",
+    "correct_answer": "Data access and ORM",
+    "answer_index": 2
+}

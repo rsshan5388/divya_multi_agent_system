@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best describes how a vector store-based retriever functions within the LangChain framework?",
+    "options": [
+        "It stores documents in a structured database and retrieves them using SQL queries.",
+        "It uses machine learning models to generate new documents based on the query.",
+        "It retrieves documents by searching through a vector space using the query as a reference.",
+        "It converts documents into vectors and stores them in a blockchain for retrieval."
+    ],
+    "correct_answer": "It retrieves documents by searching through a vector space using the query as a reference.",
+    "explanation": "A vector store-based retriever functions by converting documents into vectors and using the query to search through this vector space to find relevant documents.",
+    "_source_image": "q_77.png",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "29. Which of the following term refers to a group of hackers who are both white and black hat?",
+    "options": [
+        "Yellow Hat hackers",
+        "Grey Hat hackers",
+        "Red Hat Hackers",
+        "White-Black Hat Hackers"
+    ],
+    "answer": "Answer: b\nExplanation: Grey Hat Hackers are a hybrid of ethical and unethical hacker personalities. They hack other people’s computers for fun, but they don’t hurt them, and they exploit network faults and vulnerabilities without the admin or owner’s awareness.",
+    "correct_answer": "Grey Hat hackers",
+    "answer_index": 1,
+    "explanation": "Grey Hat Hackers are a hybrid of ethical and unethical hacker personalities. They hack other people’s computers for fun, but they don’t hurt them, and they exploit network faults and vulnerabilities without the admin or owner’s awareness."
+}

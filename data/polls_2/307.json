@@ -1,0 +1,13 @@
+{
+    "question": "What does tokenization accomplish in the RAG embedding process?",
+    "options": [
+        "It splits prompts into tokens and rearranges the tokens to help with retrieval.",
+        "It splits vectors into tokens and assigns numerical IDs to those tokens.",
+        "It splits documents into chunks and assigns vectors to those chunks.",
+        "It splits text into tokens and assigns numerical IDs to those tokens."
+    ],
+    "correct_answer": "It splits text into tokens and assigns numerical IDs to those tokens.",
+    "explanation": "Tokenization involves breaking down text into smaller units called tokens and assigning numerical IDs to facilitate processing in machine learning models.",
+    "_source_image": "q_24.png",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "7. How many layers are there in the ISO OSI reference model?",
+    "options": [
+        "7",
+        "5",
+        "4",
+        "6"
+    ],
+    "answer": "Answer: a\nExplanation: The seven layers in ISO OSI reference model is Application, Presentation, Session, Transport, Network, Data link and Physical layer. OSI stands for Open System Interconnect and it is a generalized model.",
+    "correct_answer": "7",
+    "answer_index": 0,
+    "explanation": "The seven layers in ISO OSI reference model is Application, Presentation, Session, Transport, Network, Data link and Physical layer. OSI stands for Open System Interconnect and it is a generalized model."
+}

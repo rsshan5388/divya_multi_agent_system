@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary benefit of agent specialization in a Multi-Agent System (MAS)?",
+    "options": [
+        "It allows each agent to focus on specific tasks, improving overall system efficiency",
+        "It enables all agents to act as generalists and handle any task",
+        "It eliminates the need for orchestration frameworks",
+        "It reduces the need for communication protocols between agents"
+    ],
+    "correct_answer": "It allows each agent to focus on specific tasks, improving overall system efficiency",
+    "explanation": "Agent specialization allows each agent to perform specific tasks more efficiently, enhancing the overall performance of the system.",
+    "_source_image": "q_145.png",
+    "answer_index": 0
+}

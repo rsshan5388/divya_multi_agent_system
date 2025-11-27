@@ -1,0 +1,13 @@
+{
+    "question": "9. Which one of the following is not a function of network layer?",
+    "options": [
+        "congestion control",
+        "error control",
+        "routing",
+        "inter-networking"
+    ],
+    "answer": "Answer: b\nExplanation: In the OSI model, network layer is the third layer and it provides data routing paths for network communications. Error control is a function of the data link layer and the transport layer.",
+    "correct_answer": "error control",
+    "answer_index": 1,
+    "explanation": "In the OSI model, network layer is the third layer and it provides data routing paths for network communications. Error control is a function of the data link layer and the transport layer."
+}

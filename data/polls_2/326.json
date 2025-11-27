@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of LlamaIndex's `LangChainNodeParser`?",
+    "options": [
+        "To load the directories of files",
+        "To wrap around LangChain's text splitters",
+        "To embed user prompts",
+        "To store vectors in memory"
+    ],
+    "correct_answer": "To wrap around LangChain's text splitters",
+    "explanation": "The `LangChainNodeParser` is designed to integrate with LangChain's text processing capabilities, specifically its text splitters.",
+    "_source_image": "q_43.png",
+    "answer_index": 1
+}

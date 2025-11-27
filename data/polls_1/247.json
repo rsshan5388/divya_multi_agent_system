@@ -1,0 +1,14 @@
+{
+    "question": "18. Which of the following circuit is used as a special signal to demultiplex the address bus and data bus?",
+    "options": [
+        "Priority Encoder",
+        "Decoder",
+        "Address Latch Enable",
+        "Demultiplexer",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: Address Latch Enable is a positive pulse and it is generated whenever the microprocessor starts an operation to latch the lower order address lines (AD\n7\nto AD\n0\n).",
+    "correct_answer": "Address Latch Enable",
+    "answer_index": 2,
+    "explanation": "Address Latch Enable is a positive pulse and it is generated whenever the microprocessor starts an operation to latch the lower order address lines (AD\n7\nto AD\n0\n)."
+}

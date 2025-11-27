@@ -1,0 +1,13 @@
+{
+    "question": "How do modern text-to-speech (TTS) systems generate human-like voices?",
+    "options": [
+        "Through concatenative synthesis",
+        "With the help of neural networks and deep learning",
+        "By recording human voices directly",
+        "By using rule-based algorithms"
+    ],
+    "correct_answer": "With the help of neural networks and deep learning",
+    "explanation": "Modern TTS systems use neural networks and deep learning to synthesize human-like voices by learning from large datasets of human speech.",
+    "_source_image": "q_90.png",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q132 How would you configure a one-to-many relationship in Entity Framework using the Fluent API?",
+    "options": [
+        "HasOne().WithOne();",
+        "HasOne().WithMany();",
+        "HasMany().WithOne();",
+        "HasMany().WithMany();"
+    ],
+    "answer": "B HasOne().WithMany();",
+    "explanation": "",
+    "correct_answer": "HasOne().WithMany();",
+    "answer_index": 1
+}

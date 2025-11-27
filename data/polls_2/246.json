@@ -1,0 +1,13 @@
+{
+    "question": "At VisionVerse, developer Arjun is building an app that recommends fashion items based on user-uploaded photos. He wants to implement MM-RAG to do this. Which step should Arjun take first in the MM-RAG pipeline?",
+    "options": [
+        "Match text prompts with hashtags from social media",
+        "Generate text responses using a fine-tuned captioning model",
+        "Send the user image directly to the language model without transformation",
+        "Convert all data types into embeddings and index them in a vector database"
+    ],
+    "correct_answer": "Convert all data types into embeddings and index them in a vector database",
+    "explanation": "The first step in the MM-RAG pipeline is to convert data into embeddings and index them, which allows for efficient retrieval and processing.",
+    "_source_image": "q_101.png",
+    "answer_index": 3
+}

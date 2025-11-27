@@ -1,0 +1,13 @@
+{
+    "question": "A developer team at MedScope AI tries to use MM-RAG-style retrieval to pull user data based on file names. Why is this approach flawed?",
+    "options": [
+        "File names contain hidden metadata that retrieval models rely on",
+        "File names are converted to vectors using ResNet",
+        "The file names must be matched exactly to produce results",
+        "Retrieval should be based on semantic similarity between embeddings, not file names"
+    ],
+    "correct_answer": "Retrieval should be based on semantic similarity between embeddings, not file names",
+    "explanation": "MM-RAG-style retrieval relies on semantic similarity rather than exact matches of file names. Using file names directly does not leverage the model's ability to understand content meaning.",
+    "_source_image": "q_105.png",
+    "answer_index": 3
+}

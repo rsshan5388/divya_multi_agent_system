@@ -1,0 +1,13 @@
+{
+    "question": "Q20 A developer encounters a \"Type Mismatch\" error. What is the likely cause?",
+    "options": [
+        "Incorrect type declaration",
+        "Syntax error",
+        "File path issue",
+        "Invalid characters"
+    ],
+    "answer": "A Incorrect type declaration",
+    "explanation": "",
+    "correct_answer": "Incorrect type declaration",
+    "answer_index": 0
+}

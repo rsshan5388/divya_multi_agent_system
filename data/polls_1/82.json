@@ -1,0 +1,13 @@
+{
+    "question": "Q1 What is the primary purpose of the .NET Framework?",
+    "options": [
+        "To provide tools for building mobile apps",
+        "To build web apps only",
+        "To develop Windows apps in multiple languages",
+        "To design animations"
+    ],
+    "answer": "C To develop Windows apps in multiple languages",
+    "explanation": "",
+    "correct_answer": "To develop Windows apps in multiple languages",
+    "answer_index": 2
+}

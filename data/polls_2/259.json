@@ -1,0 +1,13 @@
+{
+    "question": "What does the LangChain Pandas agent do when asked to plot data?",
+    "options": [
+        "Requires manual coding to produce visualizations.",
+        "Creates SQL queries to visualize data.",
+        "Generates charts based on natural language prompts.",
+        "Modifies the DataFrame to include visualization code."
+    ],
+    "correct_answer": "Generates charts based on natural language prompts.",
+    "explanation": "The LangChain Pandas agent is designed to interpret natural language prompts and generate visualizations accordingly, without requiring manual coding.",
+    "_source_image": "q_114.png",
+    "answer_index": 2
+}

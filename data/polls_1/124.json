@@ -1,0 +1,13 @@
+{
+    "question": "16. Which type of network shares the communication channel among all the machines?",
+    "options": [
+        "anycast network",
+        "multicast network",
+        "unicast network",
+        "broadcast network"
+    ],
+    "answer": "Answer: d\nExplanation: In a broadcast network, information is sent to all stations in a network whereas in a multicast network the data or information is sent to a group of stations in the network. In unicast network, information is sent to only one specific station. The broadcast address of the network is the last assigned address of the network.",
+    "correct_answer": "broadcast network",
+    "answer_index": 3,
+    "explanation": "In a broadcast network, information is sent to all stations in a network whereas in a multicast network the data or information is sent to a group of stations in the network. In unicast network, information is sent to only one specific station. The broadcast address of the network is the last assigned address of the network."
+}

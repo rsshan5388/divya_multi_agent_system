@@ -1,0 +1,13 @@
+{
+    "question": "7. Which of the following is an objective of network security?",
+    "options": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "All of the above"
+    ],
+    "answer": "Answer: d\nExplanation: The objectives of network security are Confidentiality, Integrity, and Availability.\nConfidentiality: The function of confidentiality is to keep sensitive company information safe from unwanted access. The confidentiality component of network security ensures that data is only accessible to those who are authorized to see it.\nIntegrity: This goal entails ensuring and preserving data accuracy and consistency. The purpose of integrity is to ensure that data is accurate and not tampered with by unauthorized individuals.\nAvailability: The purpose of availability in Network Security is to ensure that data, network resources, and services are always available to legitimate users, whenever they need them.",
+    "correct_answer": "All of the above",
+    "answer_index": 3,
+    "explanation": "The objectives of network security are Confidentiality, Integrity, and Availability.\nConfidentiality: The function of confidentiality is to keep sensitive company information safe from unwanted access. The confidentiality component of network security ensures that data is only accessible to those who are authorized to see it.\nIntegrity: This goal entails ensuring and preserving data accuracy and consistency. The purpose of integrity is to ensure that data is accurate and not tampered with by unauthorized individuals.\nAvailability: The purpose of availability in Network Security is to ensure that data, network resources, and services are always available to legitimate users, whenever they need them."
+}

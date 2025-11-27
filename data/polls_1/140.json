@@ -1,0 +1,13 @@
+{
+    "question": "Q140 Which code snippet demonstrates encrypting data using Aes encryption in .NET?",
+    "options": [
+        "new Aes().Encrypt(data);",
+        "Aes.Create().CreateEncryptor();",
+        "Aes.Encrypt(data);",
+        "Encrypt(data, Aes);"
+    ],
+    "answer": "B Aes.Create().CreateEncryptor();",
+    "explanation": "",
+    "correct_answer": "Aes.Create().CreateEncryptor();",
+    "answer_index": 1
+}

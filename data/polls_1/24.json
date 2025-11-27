@@ -1,0 +1,13 @@
+{
+    "question": "17. Which topology requires a multipoint connection?",
+    "options": [
+        "Ring",
+        "Bus",
+        "Star",
+        "Mesh"
+    ],
+    "answer": "Answer: b\nExplanation: In bus topology, there is a single cable to which all the network nodes are connected. So whenever a node tries to send a message or data to other nodes, this data passes through all other nodes in the network through the cable. It is really simple to install but it’s not secure enough to be used in most of the computer network applications.",
+    "correct_answer": "Bus",
+    "answer_index": 1,
+    "explanation": "In bus topology, there is a single cable to which all the network nodes are connected. So whenever a node tries to send a message or data to other nodes, this data passes through all other nodes in the network through the cable. It is really simple to install but it’s not secure enough to be used in most of the computer network applications."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "11. Which of the following is not an advantage of cyber security?",
+    "options": [
+        "Makes the system slower",
+        "Minimizes computer freezing and crashes",
+        "Gives privacy to users",
+        "Protects system against viruses"
+    ],
+    "answer": "Answer: a\nExplanation: The advantages are minimization of computer freezing and crashes, user privacy, and protection against viruses, worms, etc. Disadvantages include the system becoming slow, configuring firewalls correctly can be difficult, need to update the new software in order to keep security up to date.",
+    "correct_answer": "Makes the system slower",
+    "answer_index": 0,
+    "explanation": "The advantages are minimization of computer freezing and crashes, user privacy, and protection against viruses, worms, etc. Disadvantages include the system becoming slow, configuring firewalls correctly can be difficult, need to update the new software in order to keep security up to date."
+}

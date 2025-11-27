@@ -1,0 +1,13 @@
+{
+    "question": "4. Which of the following is defined as an attempt to steal, spy, damage or destroy computer systems, networks, or their associated information?",
+    "options": [
+        "Cyber attack",
+        "Computer security",
+        "Cryptography",
+        "Digital hacking"
+    ],
+    "answer": "Answer: a\nExplanation: An effort to steal, spy on, damage, or destroy diverse components of cyberspace, such as computer systems, related peripherals, network systems, and information, is known as a cyber attack.",
+    "correct_answer": "Cyber attack",
+    "answer_index": 0,
+    "explanation": "An effort to steal, spy on, damage, or destroy diverse components of cyberspace, such as computer systems, related peripherals, network systems, and information, is known as a cyber attack."
+}

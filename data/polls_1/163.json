@@ -1,0 +1,13 @@
+{
+    "question": "Q21 An application fails due to a missing assembly. What is a possible solution?",
+    "options": [
+        "Rebuild the project",
+        "Reinstall the GAC",
+        "Recompile the assembly",
+        "Check system path"
+    ],
+    "answer": "C Recompile the assembly",
+    "explanation": "",
+    "correct_answer": "Recompile the assembly",
+    "answer_index": 2
+}

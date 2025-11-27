@@ -1,0 +1,13 @@
+{
+    "question": "Q41 A developer encounters a \"MissingAssemblyException.\" What could be a likely cause?",
+    "options": [
+        "Incorrect file path",
+        "Corrupt CLR",
+        "Assembly not found",
+        "User permission error"
+    ],
+    "answer": "C Assembly not found",
+    "explanation": "",
+    "correct_answer": "Assembly not found",
+    "answer_index": 2
+}

@@ -1,0 +1,14 @@
+{
+    "question": "32. Which of the following addressing mode is used by 8085 microprocessor for array and list operations?",
+    "options": [
+        "Base-Register",
+        "Direst",
+        "Indexed",
+        "Immediate",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: Indexed addressing mode is used for array and list operations. It uses a constant value and index register to execute the instruction.",
+    "correct_answer": "Indexed",
+    "answer_index": 2,
+    "explanation": "Indexed addressing mode is used for array and list operations. It uses a constant value and index register to execute the instruction."
+}

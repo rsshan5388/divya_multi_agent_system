@@ -1,0 +1,13 @@
+{
+    "question": "Q55 Which class is the base class for all exceptions in .NET?",
+    "options": [
+        "ApplicationException",
+        "SystemException",
+        "Exception",
+        "ErrorException"
+    ],
+    "answer": "C Exception",
+    "explanation": "",
+    "correct_answer": "Exception",
+    "answer_index": 2
+}

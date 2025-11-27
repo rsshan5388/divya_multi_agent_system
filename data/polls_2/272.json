@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary role of LangChain in building AI agents?",
+    "options": [
+        "To act as a standalone AI model for specific tasks",
+        "To replace all existing AI frameworks with a more efficient solution",
+        "To serve as a database for storing AI-related data",
+        "To provide a platform for creating flexible, composable chains"
+    ],
+    "correct_answer": "To provide a platform for creating flexible, composable chains",
+    "explanation": "LangChain is designed to enable the creation of flexible and composable AI workflows, allowing for the integration of various components.",
+    "_source_image": "q_126.png",
+    "answer_index": 3
+}

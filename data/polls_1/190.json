@@ -1,0 +1,13 @@
+{
+    "question": "62. In distributed systems, what problem does the CAP theorem address?",
+    "options": [
+        "Trade-off between Consistency, Availability, and Partition Tolerance",
+        "Scalability of peer-to-peer networks",
+        "Scheduling of distributed jobs",
+        "Load balancing across servers"
+    ],
+    "answer": "Answer: a\nExplanation: The CAP theorem states that in the presence of a network partition, a distributed system can provide either consistency or availability, but not both simultaneously.",
+    "correct_answer": "Trade-off between Consistency, Availability, and Partition Tolerance",
+    "answer_index": 0,
+    "explanation": "The CAP theorem states that in the presence of a network partition, a distributed system can provide either consistency or availability, but not both simultaneously."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q31 An application runs slowly due to frequent garbage collection. What could help improve performance?",
+    "options": [
+        "Remove all variables",
+        "Optimize memory usage",
+        "Use fewer libraries",
+        "Disable garbage collection"
+    ],
+    "answer": "B Optimize memory usage",
+    "explanation": "",
+    "correct_answer": "Optimize memory usage",
+    "answer_index": 1
+}

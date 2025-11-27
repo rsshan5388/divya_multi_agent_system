@@ -1,0 +1,13 @@
+{
+    "question": "During a workshop, researcher Dario wants to explain the basic pipeline of how a multimodal LLM generates a caption from an image. Which three stages should he describe?",
+    "options": [
+        "Input processing, image validation and encoding, and multimodal LLM processing",
+        "Caption tokenization, grammar checking, and embedding alignment",
+        "Dataset labeling, caption selection, and reinforcement tuning",
+        "Image editing, tagging, and summarization"
+    ],
+    "correct_answer": "Input processing, image validation and encoding, and multimodal LLM processing",
+    "explanation": "The basic pipeline for generating captions from images using a multimodal LLM involves processing the input, validating and encoding the image, and then processing it through the LLM.",
+    "_source_image": "q_99.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "How would you differentiate between the types of indexes used by FAISS?",
+    "options": [
+        "FAISS uses only flat and inverted file indexes.",
+        "FAISS uses flat, inverted file, and hierarchical navigable small world (HNSW) indexes.",
+        "FAISS uses only locality-sensitive hashing (LSH) indexes.",
+        "FAISS uses hierarchical navigable small world (HNSW) and locality-sensitive hashing (LSH) indexes."
+    ],
+    "correct_answer": "FAISS uses flat, inverted file, and hierarchical navigable small world (HNSW) indexes.",
+    "explanation": "FAISS supports a variety of index types including flat, inverted file, and HNSW, allowing for flexible and efficient data retrieval.",
+    "_source_image": "q_88.png",
+    "answer_index": 1
+}

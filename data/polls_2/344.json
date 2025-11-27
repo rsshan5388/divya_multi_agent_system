@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following statements differentiates between in-memory vector databases and other types of vector databases in terms of storage?",
+    "options": [
+        "In-memory vector databases are slower in query responses compared to other types.",
+        "In-memory vector databases store vectors directly in memory, which can lead to faster query responses.",
+        "In-memory vector databases are a type of database that do not support vector search.",
+        "In-memory vector databases store vectors on disk, which enhances data persistence."
+    ],
+    "correct_answer": "In-memory vector databases store vectors directly in memory, which can lead to faster query responses.",
+    "explanation": "In-memory vector databases store data in RAM, allowing for faster access and query responses compared to disk-based storage.",
+    "_source_image": "q_61.png",
+    "answer_index": 1
+}

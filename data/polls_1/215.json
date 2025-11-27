@@ -1,0 +1,14 @@
+{
+    "question": "46. Conditional instructions are independent of which of the following flag?",
+    "options": [
+        "Z",
+        "AC",
+        "CY",
+        "P",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: Conditional instructions are the branching instructions. In this group, the program control is transferred from one location to another conditionally. They depend on the status of flags affected for previous ALU operations accept the AC flag.",
+    "correct_answer": "AC",
+    "answer_index": 1,
+    "explanation": "Conditional instructions are the branching instructions. In this group, the program control is transferred from one location to another conditionally. They depend on the status of flags affected for previous ALU operations accept the AC flag."
+}

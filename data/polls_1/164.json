@@ -1,0 +1,13 @@
+{
+    "question": "50. In big data processing, which framework uses the MapReduce paradigm?",
+    "options": [
+        "Apache Hadoop",
+        "Apache Spark",
+        "Apache Flink",
+        "TensorFlow"
+    ],
+    "answer": "Answer: a\nExplanation: Apache Hadoop uses the MapReduce programming paradigm to process large datasets in a distributed manner.",
+    "correct_answer": "Apache Hadoop",
+    "answer_index": 0,
+    "explanation": "Apache Hadoop uses the MapReduce programming paradigm to process large datasets in a distributed manner."
+}

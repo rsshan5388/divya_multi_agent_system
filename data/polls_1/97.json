@@ -1,0 +1,13 @@
+{
+    "question": "Q74 How would you declare an abstract method named Calculate in an abstract class?",
+    "options": [
+        "abstract void Calculate();",
+        "abstract Calculate();",
+        "void abstract Calculate();",
+        "Calculate abstract void();"
+    ],
+    "answer": "A abstract void Calculate();",
+    "explanation": "",
+    "correct_answer": "abstract void Calculate();",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q137 Which .NET class provides methods for hashing data using algorithms like SHA256?",
+    "options": [
+        "Encryptor",
+        "HashAlgorithm",
+        "CryptoStream",
+        "DataProtector"
+    ],
+    "answer": "B HashAlgorithm",
+    "explanation": "",
+    "correct_answer": "HashAlgorithm",
+    "answer_index": 1
+}

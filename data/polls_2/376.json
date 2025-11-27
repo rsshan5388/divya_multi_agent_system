@@ -1,0 +1,13 @@
+{
+    "question": "What future trend in TTS technology involves creating new voice styles without additional training?",
+    "options": [
+        "Emotional intelligence development",
+        "Context-aware speech algorithms",
+        "Real-time voice translation",
+        "Zero-shot voice adaptation"
+    ],
+    "correct_answer": "Zero-shot voice adaptation",
+    "explanation": "Zero-shot voice adaptation allows the creation of new voice styles without the need for additional training data, making it a significant trend in TTS technology.",
+    "_source_image": "q_94.png",
+    "answer_index": 3
+}

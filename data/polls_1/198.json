@@ -1,0 +1,13 @@
+{
+    "question": "27. Which of the following is not a step followed by cyber-criminals in data breaching?",
+    "options": [
+        "Exfiltration",
+        "Research and info-gathering",
+        "Attack the system",
+        "Fixing the bugs"
+    ],
+    "answer": "Answer: d\nExplanation: During a hack, cyber-criminals first do research on the target, gathering data about the victim’s system and network. Then go ahead and attack. Once the attacker has gained access, he or she takes sensitive information.",
+    "correct_answer": "Fixing the bugs",
+    "answer_index": 3,
+    "explanation": "During a hack, cyber-criminals first do research on the target, gathering data about the victim’s system and network. Then go ahead and attack. Once the attacker has gained access, he or she takes sensitive information."
+}

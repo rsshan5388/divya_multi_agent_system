@@ -1,0 +1,13 @@
+{
+    "question": "Q89 Which namespace provides classes for file handling in .NET?",
+    "options": [
+        "System.Data",
+        "System.IO",
+        "System.File",
+        "System.Text"
+    ],
+    "answer": "B System.IO",
+    "explanation": "",
+    "correct_answer": "System.IO",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "What is a key difference between vector databases and traditional databases?",
+    "options": [
+        "Vector databases are slower at processing queries than traditional databases.",
+        "Vector databases use table-based storage, whereas traditional databases use graph-based storage.",
+        "Vector databases are designed for structured data, while traditional databases handle unstructured data.",
+        "Vector databases utilize vector embeddings for data representation, unlike traditional databases."
+    ],
+    "correct_answer": "Vector databases utilize vector embeddings for data representation, unlike traditional databases.",
+    "explanation": "Vector databases are specifically designed to handle vector embeddings, which are used for data representation in machine learning and AI applications, unlike traditional databases.",
+    "_source_image": "q_52.png",
+    "answer_index": 3
+}

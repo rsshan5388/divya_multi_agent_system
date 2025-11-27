@@ -1,0 +1,13 @@
+{
+    "question": "20. Which of the following do Cyber attackers commonly target for fetching IP address of a target or victim user?",
+    "options": [
+        "ip tracker",
+        "emails",
+        "websites",
+        "web pages"
+    ],
+    "answer": "Answer: c\nExplanation: Enumeration by cyber-attackers is also feasible via websites since attackers target websites in order to obtain the victim’s or target user’s IP address.",
+    "correct_answer": "websites",
+    "answer_index": 2,
+    "explanation": "Enumeration by cyber-attackers is also feasible via websites since attackers target websites in order to obtain the victim’s or target user’s IP address."
+}

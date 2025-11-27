@@ -1,0 +1,14 @@
+{
+    "question": "10. Which of the following is true about microprocessors?",
+    "options": [
+        "It has an internal memory",
+        "It has interfacing circuits",
+        "It contains ALU, CU, and registers",
+        "It uses Harvard architecture",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: Microprocessors don’t have memory and interfacing circuits. They follow Princeton architecture and they contain ALU, CU, and registers inside them.",
+    "correct_answer": "It contains ALU, CU, and registers",
+    "answer_index": 2,
+    "explanation": "Microprocessors don’t have memory and interfacing circuits. They follow Princeton architecture and they contain ALU, CU, and registers inside them."
+}

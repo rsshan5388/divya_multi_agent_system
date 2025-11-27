@@ -1,0 +1,13 @@
+{
+    "question": "Ethan is comparing different AI models using the same prompt. Why is this practice recommended?",
+    "options": [
+        "It reduces deployment complexity.",
+        "It ensures faster integration into production.",
+        "It eliminates the need for guardrails.",
+        "It allows consistent evaluation across models."
+    ],
+    "correct_answer": "It allows consistent evaluation across models.",
+    "explanation": "Using the same prompt for different AI models ensures that the evaluation is consistent and comparable, highlighting differences in model performance.",
+    "_source_image": "q8.png",
+    "answer_index": 3
+}

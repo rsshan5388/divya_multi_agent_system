@@ -1,0 +1,13 @@
+{
+    "question": "What is the initial step in setting up an AI-powered LangChain SQL agent?",
+    "options": [
+        "Creating a Python virtual environment",
+        "Loading the Granite Large Language Model",
+        "Building the database connector",
+        "Launching the MySQL server"
+    ],
+    "correct_answer": "Creating a Python virtual environment",
+    "explanation": "Setting up a Python virtual environment is typically the first step to ensure dependencies are managed properly.",
+    "_source_image": "q_117.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following steps is essential for implementing the correct conditional logic to terminate this workflow when n >= 13?",
+    "options": [
+        "Set the entry point to the END node to trigger termination when needed.",
+        "Use a ChainState return object with unpacked values using **state.",
+        "Use add_conditional_edges to route the workflow based on the output of a stop_condition function.",
+        "Use a print_out node to check and display the state values."
+    ],
+    "correct_answer": "Use add_conditional_edges to route the workflow based on the output of a stop_condition function.",
+    "explanation": "Using add_conditional_edges allows the workflow to be routed based on specific conditions, enabling termination when n reaches or exceeds 13.",
+    "_source_image": "q_134.png",
+    "answer_index": 2
+}

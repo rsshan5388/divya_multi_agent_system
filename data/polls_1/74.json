@@ -1,0 +1,14 @@
+{
+    "question": "43. What does a loader do in a microprocessor?",
+    "options": [
+        "Converts hexadecimal code to binary",
+        "Converts decimal to binary",
+        "Increments the content of the program counter by 1",
+        "Decodes an opcode",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Microprocessor understands only 0s & 1s. So, a loader first converts hexadecimal code to binary form and then loads it to the memory.",
+    "correct_answer": "Converts hexadecimal code to binary",
+    "answer_index": 0,
+    "explanation": "Microprocessor understands only 0s & 1s. So, a loader first converts hexadecimal code to binary form and then loads it to the memory."
+}

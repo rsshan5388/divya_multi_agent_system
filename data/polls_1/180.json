@@ -1,0 +1,13 @@
+{
+    "question": "17. Which font format is used in web pages?",
+    "options": [
+        "EOT",
+        "WOFF 2.0",
+        "WOFF",
+        "SVG Fonts"
+    ],
+    "answer": "Answer: c\nExplanation: WOFF is font format used in web pages. It was developed in 2009. It is essentially OpenType or TrueType with compression and additional metadata. The goal is to support font distribution from the server to client over the network with bandwidth constraints.",
+    "correct_answer": "WOFF",
+    "answer_index": 2,
+    "explanation": "WOFF is font format used in web pages. It was developed in 2009. It is essentially OpenType or TrueType with compression and additional metadata. The goal is to support font distribution from the server to client over the network with bandwidth constraints."
+}

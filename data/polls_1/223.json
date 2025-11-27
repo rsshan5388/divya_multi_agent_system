@@ -1,0 +1,13 @@
+{
+    "question": "12. What does <td> stand for?",
+    "options": [
+        "Table database",
+        "Table data",
+        "Table directory",
+        "Table direct row"
+    ],
+    "answer": "Answer: b\nExplanation: While a row is contained inside a < tr > element, each cell is then written inside the row element using a < td > element which stands for table data. If you are looking at a web page and want to know whether that page is using a table to control how the data is laid out, you can always look at the source for that page.",
+    "correct_answer": "Table data",
+    "answer_index": 1,
+    "explanation": "While a row is contained inside a < tr > element, each cell is then written inside the row element using a < td > element which stands for table data. If you are looking at a web page and want to know whether that page is using a table to control how the data is laid out, you can always look at the source for that page."
+}

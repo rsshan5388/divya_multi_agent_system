@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary advantage of using the 'create_react_agent' function in LangGraph?",
+    "options": [
+        "It offers more control over the agent's behavior and reasoning style.",
+        "It allows for the use of multiple agent types simultaneously.",
+        "It provides predefined strategies for agent setup.",
+        "It integrates seamlessly with all external tools."
+    ],
+    "correct_answer": "It offers more control over the agent's behavior and reasoning style.",
+    "explanation": "The 'create_react_agent' function is designed to give users more control over how the agent behaves and reasons, allowing for customization and flexibility.",
+    "_source_image": "q_124.png",
+    "answer_index": 0
+}

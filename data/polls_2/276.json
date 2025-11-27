@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary function of the retriever component in the Retrieval Augmented Generation (RAG) process?",
+    "options": [
+        "To embed the knowledge base documents into vectors",
+        "To convert the prompt into a high-dimensional vector",
+        "To generate a response using the content from the knowledge base",
+        "To match the prompt vector with vectors in the knowledge base"
+    ],
+    "correct_answer": "To match the prompt vector with vectors in the knowledge base",
+    "explanation": "The retriever component's main role is to find relevant information by matching the prompt vector with vectors in the knowledge base, facilitating the generation of accurate responses.",
+    "_source_image": "q_13.png",
+    "answer_index": 3
+}

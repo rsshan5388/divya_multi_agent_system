@@ -1,0 +1,13 @@
+{
+    "question": "Q7 Which framework version introduced .NET Core as cross-platform?",
+    "options": [
+        ".NET 3.5",
+        ".NET 4.0",
+        ".NET 5",
+        ".NET Core"
+    ],
+    "answer": "D .NET Core",
+    "explanation": "",
+    "correct_answer": ".NET Core",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q67 What is encapsulation in OOP?",
+    "options": [
+        "Combining methods and properties",
+        "Hiding data",
+        "Allowing multiple forms",
+        "Creating objects"
+    ],
+    "answer": "B Hiding data",
+    "explanation": "",
+    "correct_answer": "Hiding data",
+    "answer_index": 1
+}

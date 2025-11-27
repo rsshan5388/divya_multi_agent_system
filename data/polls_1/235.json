@@ -1,0 +1,13 @@
+{
+    "question": "Q133 Which method in Entity Framework is used to execute raw SQL queries and return entity objects?",
+    "options": [
+        "ExecuteRaw()",
+        "ExecuteQuery()",
+        "FromSqlRaw()",
+        "SqlQuery()"
+    ],
+    "answer": "C FromSqlRaw()",
+    "explanation": "",
+    "correct_answer": "FromSqlRaw()",
+    "answer_index": 2
+}

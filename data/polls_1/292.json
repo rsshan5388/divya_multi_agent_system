@@ -1,0 +1,13 @@
+{
+    "question": "3. Which of the following is not a web component element?",
+    "options": [
+        "<shadow>",
+        "<menu>",
+        "<content>",
+        "<element>"
+    ],
+    "answer": "Answer: b\nExplanation: There are web components in HTML related technology which makes it possible to essentially create and use custom elements as if it were regular HTML. You can also create custom versions of standard HTML elements. Some of the elements are <shadow>, <content>, <element>, <template>, <slot>.",
+    "correct_answer": "<menu>",
+    "answer_index": 1,
+    "explanation": "There are web components in HTML related technology which makes it possible to essentially create and use custom elements as if it were regular HTML. You can also create custom versions of standard HTML elements. Some of the elements are <shadow>, <content>, <element>, <template>, <slot>."
+}

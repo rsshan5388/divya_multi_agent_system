@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following statements differentiates between the roles of indexing and querying in Chroma DB architecture?",
+    "options": [
+        "Indexing and querying both serve the same purpose of data retrieval in Chroma DB.",
+        "Indexing organizes data for efficient retrieval, whereas querying retrieves data based on semantic similarity.",
+        "Indexing is used to encrypt data, whereas querying is used to decrypt it.",
+        "Indexing is responsible for data input, whereas querying is responsible for data output."
+    ],
+    "correct_answer": "Indexing organizes data for efficient retrieval, whereas querying retrieves data based on semantic similarity.",
+    "explanation": "Indexing prepares data for efficient access, while querying involves retrieving data based on specific criteria or similarity.",
+    "_source_image": "q_64.png",
+    "answer_index": 1
+}

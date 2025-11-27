@@ -1,0 +1,13 @@
+{
+    "question": "Q120 Which LINQ method is used to filter a sequence based on a predicate?",
+    "options": [
+        "Select",
+        "Where",
+        "OrderBy",
+        "Join"
+    ],
+    "answer": "B Where",
+    "explanation": "",
+    "correct_answer": "Where",
+    "answer_index": 1
+}

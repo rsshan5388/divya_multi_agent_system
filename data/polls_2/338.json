@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary algorithm used by Chroma DB for approximate nearest neighbor (ANN) search?",
+    "options": [
+        "Decision Trees",
+        "Linear Regression",
+        "Hierarchical Navigable Small World (HNSW)",
+        "K-Means Clustering"
+    ],
+    "correct_answer": "Hierarchical Navigable Small World (HNSW)",
+    "explanation": "Chroma DB uses the Hierarchical Navigable Small World (HNSW) algorithm for efficient approximate nearest neighbor search due to its speed and accuracy.",
+    "_source_image": "q_55.png",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "What future trend in multimodal AI focuses on reducing the need for labeled training data?",
+    "options": [
+        "Self-supervised learning",
+        "Personalization",
+        "Edge computing",
+        "Unified models"
+    ],
+    "correct_answer": "Self-supervised learning",
+    "explanation": "Self-supervised learning reduces the need for labeled data by using the data itself to generate labels, making it a key trend in multimodal AI.",
+    "_source_image": "q_91.png",
+    "answer_index": 0
+}

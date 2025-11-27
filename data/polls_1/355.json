@@ -1,0 +1,13 @@
+{
+    "question": "Q63 A \"NullReferenceException\" occurs. What is the most likely reason?",
+    "options": [
+        "Object is null",
+        "File not found",
+        "Syntax error",
+        "Array index out of bounds"
+    ],
+    "answer": "A Object is null",
+    "explanation": "",
+    "correct_answer": "Object is null",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "13. Which element to used to give title to a table?",
+    "options": [
+        "Caption",
+        "Headline",
+        "Title",
+        "Heading"
+    ],
+    "answer": "Answer: a\nExplanation: By using a <caption> element, rather than just describing the purpose of the table in a previous or subsequent paragraph, you are directly associating the content of the table with this description- and this association can be used by screen readers and by applications that process web pages (such as search engines).",
+    "correct_answer": "Caption",
+    "answer_index": 0,
+    "explanation": "By using a <caption> element, rather than just describing the purpose of the table in a previous or subsequent paragraph, you are directly associating the content of the table with this description- and this association can be used by screen readers and by applications that process web pages (such as search engines)."
+}

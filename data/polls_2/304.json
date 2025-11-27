@@ -1,0 +1,13 @@
+{
+    "question": "Alex is developing a chatbot to answer questions about company policies. Which aspect of the RAG process should he focus on to ensure the chatbot provides accurate and specific responses?",
+    "options": [
+        "Embed all possible user queries into the model.",
+        "Rely solely on the model's pre-trained capabilities.",
+        "Focus on increasing the model's token count.",
+        "Ensure the knowledge base is up-to-date and well-organized for efficient retrieval."
+    ],
+    "correct_answer": "Ensure the knowledge base is up-to-date and well-organized for efficient retrieval.",
+    "explanation": "An up-to-date and well-organized knowledge base ensures that the chatbot can retrieve accurate and specific information efficiently, which is crucial for providing precise responses.",
+    "_source_image": "q_21.png",
+    "answer_index": 3
+}

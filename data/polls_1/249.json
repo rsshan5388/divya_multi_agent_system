@@ -1,0 +1,13 @@
+{
+    "question": "Q122 Which LINQ query syntax in C# retrieves even numbers from a list numbers?",
+    "options": [
+        "from n in numbers where n % 2 == 0 select n;",
+        "select n where n % 2 == 0 from numbers;",
+        "where n in numbers select n == 0;",
+        "select numbers where n % 2 == 0;"
+    ],
+    "answer": "A from n in numbers where n % 2 == 0 select n;",
+    "explanation": "",
+    "correct_answer": "from n in numbers where n % 2 == 0 select n;",
+    "answer_index": 0
+}

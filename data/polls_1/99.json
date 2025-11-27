@@ -1,0 +1,13 @@
+{
+    "question": "Q34 Which type of assembly can be shared across applications in .NET?",
+    "options": [
+        "Private assembly",
+        "Global assembly",
+        "Local assembly",
+        "Static assembly"
+    ],
+    "answer": "B Global assembly",
+    "explanation": "",
+    "correct_answer": "Global assembly",
+    "answer_index": 1
+}

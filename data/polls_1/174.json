@@ -1,0 +1,13 @@
+{
+    "question": "Q39 How would you reference an external library in a .NET project?",
+    "options": [
+        "import library.dll",
+        "using library;",
+        "AddReference library.dll",
+        "#include library.dll"
+    ],
+    "answer": "C AddReference library.dll",
+    "explanation": "",
+    "correct_answer": "AddReference library.dll",
+    "answer_index": 2
+}

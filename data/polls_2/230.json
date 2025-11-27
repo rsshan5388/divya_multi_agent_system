@@ -1,0 +1,13 @@
+{
+    "question": "Sarah is building an AI-powered application for DataSync Inc. that will process customer support tickets and return structured data for their workflow system. What techniques should she focus on when crafting prompts to ensure consistent, valid JSON outputs from the language model?",
+    "options": [
+        "Using complex language",
+        "Ignoring the model's guardrails",
+        "Crafting prompts that clearly articulate the use case and problem",
+        "Focusing on the model's training data"
+    ],
+    "correct_answer": "Crafting prompts that clearly articulate the use case and problem",
+    "explanation": "Clear articulation of the use case and problem helps the language model generate more accurate and relevant outputs.",
+    "_source_image": "q2.png",
+    "answer_index": 2
+}

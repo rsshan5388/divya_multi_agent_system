@@ -1,0 +1,13 @@
+{
+    "question": "In an agentic RAG pipeline, what new role does the LLM take on beyond generating responses?",
+    "options": [
+        "Acting as an agent to make decisions about data source selection",
+        "Filtering out unrelated queries",
+        "Creating training data from scratch",
+        "Encrypting sensitive information in user inputs"
+    ],
+    "correct_answer": "Acting as an agent to make decisions about data source selection",
+    "explanation": "In an agentic RAG pipeline, the LLM takes on a more active role by making decisions about which data sources to use, enhancing its functionality beyond just generating responses.",
+    "_source_image": "q_149.png",
+    "answer_index": 0
+}

@@ -1,0 +1,14 @@
+{
+    "question": "12. The ________ directive instructs the assembler to begin memory allocation for a segment/block/code from the stated address.",
+    "options": [
+        "GROUP",
+        "OFFSET",
+        "ORG",
+        "LABEL",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: When an ORG is written, the assembler starts the location counter to keep track of the module’s allotted address as specified in the directive.\nThe location counter is initialized to 0000H if the directive is not present.",
+    "correct_answer": "ORG",
+    "answer_index": 2,
+    "explanation": "When an ORG is written, the assembler starts the location counter to keep track of the module’s allotted address as specified in the directive.\nThe location counter is initialized to 0000H if the directive is not present."
+}

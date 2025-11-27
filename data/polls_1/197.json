@@ -1,0 +1,13 @@
+{
+    "question": "Q97 A \"UnauthorizedAccessException\" occurs while accessing a file. What could be a solution?",
+    "options": [
+        "Check if file is read-only",
+        "Recompile the program",
+        "Restart the system",
+        "Delete the file"
+    ],
+    "answer": "A Check if file is read-only",
+    "explanation": "",
+    "correct_answer": "Check if file is read-only",
+    "answer_index": 0
+}

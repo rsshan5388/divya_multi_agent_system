@@ -1,0 +1,13 @@
+{
+    "question": "Q88 A developer wants to prevent duplicate keys in a collection. Which collection should they use?",
+    "options": [
+        "List",
+        "Hashtable",
+        "Dictionary",
+        "SortedSet"
+    ],
+    "answer": "D SortedSet",
+    "explanation": "",
+    "correct_answer": "SortedSet",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "17. Which of the following is the hacking approach where cyber-criminals design fake websites or pages for tricking or gaining additional traffic?",
+    "options": [
+        "Pharming",
+        "Website-Duplication",
+        "Mimicking",
+        "Spamming"
+    ],
+    "answer": "Answer: a\nExplanation: Pharming is a strategy and approach used by cybercriminals to create phony web pages and sites in order to mislead users into giving over personal information such as login IDs and passwords.",
+    "correct_answer": "Pharming",
+    "answer_index": 0,
+    "explanation": "Pharming is a strategy and approach used by cybercriminals to create phony web pages and sites in order to mislead users into giving over personal information such as login IDs and passwords."
+}

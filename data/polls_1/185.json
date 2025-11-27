@@ -1,0 +1,14 @@
+{
+    "question": "20. Which of the following flag condition is used for BCD arithmetic operations in microprocessor?",
+    "options": [
+        "Sign flag",
+        "Auxiliary carry flag",
+        "Parity flag",
+        "Zero flag",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: Among all the five flag conditions in microprocessor, the auxiliary carry flag is used internally for BCD arithmetic operations. Based on the auxiliary flag, the instruction set doesn’t contain the conditional jump operation.",
+    "correct_answer": "Auxiliary carry flag",
+    "answer_index": 1,
+    "explanation": "Among all the five flag conditions in microprocessor, the auxiliary carry flag is used internally for BCD arithmetic operations. Based on the auxiliary flag, the instruction set doesn’t contain the conditional jump operation."
+}

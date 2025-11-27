@@ -1,0 +1,13 @@
+{
+    "question": "Nathan is migrating from traditional LangChain SequentialChain to LCEL. Which syntax represents the correct way to connect components in LCEL?",
+    "options": [
+        "chain = prompt_template >> llm >> output_parser",
+        "chain = [prompt_template, llm, output_parser]",
+        "chain = prompt_template || llm | output_parser",
+        "chain = prompt_template.connect(llm).connect(output_parser)"
+    ],
+    "correct_answer": "chain = prompt_template >> llm >> output_parser",
+    "explanation": "In LCEL, the correct syntax for connecting components is using the '>>' operator to chain them together.",
+    "_source_image": "quest6.png",
+    "answer_index": 0
+}

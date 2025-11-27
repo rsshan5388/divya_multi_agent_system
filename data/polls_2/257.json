@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary function of the ToolCallingAgent in LangChain?",
+    "options": [
+        "To replace the need for HumanMessage in conversations",
+        "To manage chat history exclusively without executing tools",
+        "To manually execute each tool function",
+        "To handle the full tool-calling process automatically"
+    ],
+    "correct_answer": "To handle the full tool-calling process automatically",
+    "explanation": "The ToolCallingAgent in LangChain is designed to automate the process of calling tools, streamlining interactions without manual intervention.",
+    "_source_image": "q_112.png",
+    "answer_index": 3
+}

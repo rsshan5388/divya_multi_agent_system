@@ -1,0 +1,13 @@
+{
+    "question": "Q51 Which C# code snippet demonstrates declaring an array of integers?",
+    "options": [
+        "int[] numbers = new int[5];",
+        "int numbers = new int;",
+        "int array numbers;",
+        "int[5] numbers;"
+    ],
+    "answer": "A int[] numbers = new int[5];",
+    "explanation": "",
+    "correct_answer": "int[] numbers = new int[5];",
+    "answer_index": 0
+}

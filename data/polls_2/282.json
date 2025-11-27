@@ -1,0 +1,13 @@
+{
+    "question": "In LangGraph, which method is used to specify the initial node from which state processing begins?",
+    "options": [
+        "add_node()",
+        "set_entry_point()",
+        "invoke()",
+        "compile()"
+    ],
+    "correct_answer": "set_entry_point()",
+    "explanation": "The set_entry_point() method is used to define the starting node for state processing in LangGraph.",
+    "_source_image": "q_135.png",
+    "answer_index": 1
+}

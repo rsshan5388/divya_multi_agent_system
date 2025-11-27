@@ -1,0 +1,14 @@
+{
+    "question": "40. Which of the following is false about LDA instruction?",
+    "options": [
+        "It is a 3-byte instruction",
+        "It uses indirect addressing mode",
+        "It has 13 T-states",
+        "It doesn’t affect any flags",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: LDA is a direct addressing mode instruction which stands for Load Accumulator Direct. It is a 3-byte instruction and it has 13 T-states. No flags are affected by this instruction.",
+    "correct_answer": "It uses indirect addressing mode",
+    "answer_index": 1,
+    "explanation": "LDA is a direct addressing mode instruction which stands for Load Accumulator Direct. It is a 3-byte instruction and it has 13 T-states. No flags are affected by this instruction."
+}

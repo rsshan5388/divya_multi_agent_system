@@ -1,0 +1,13 @@
+{
+    "question": "Q30 A developer encounters an \"OutOfMemoryException.\" What could be a likely cause?",
+    "options": [
+        "File not found",
+        "Corrupt CLR",
+        "Too many objects in memory",
+        "Invalid file path"
+    ],
+    "answer": "C Too many objects in memory",
+    "explanation": "",
+    "correct_answer": "Too many objects in memory",
+    "answer_index": 2
+}

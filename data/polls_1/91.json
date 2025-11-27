@@ -1,0 +1,13 @@
+{
+    "question": "Q14 Which .NET component compiles managed code into native code?",
+    "options": [
+        "Intermediate Language Compiler",
+        "Common Type System",
+        "JIT Compiler",
+        "Framework Library"
+    ],
+    "answer": "C JIT Compiler",
+    "explanation": "",
+    "correct_answer": "JIT Compiler",
+    "answer_index": 2
+}

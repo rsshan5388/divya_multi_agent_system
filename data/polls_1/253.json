@@ -1,0 +1,13 @@
+{
+    "question": "11. In machine learning, which regularization technique adds the absolute value of coefficients as a penalty term to the loss function?",
+    "options": [
+        "Ridge Regression",
+        "Lasso Regression",
+        "Elastic Net",
+        "Dropout"
+    ],
+    "answer": "Answer: b\nExplanation: Lasso Regression (L1 regularization) adds the absolute value of coefficients as penalty, which can shrink some coefficients to zero, thus performing feature selection.",
+    "correct_answer": "Lasso Regression",
+    "answer_index": 1,
+    "explanation": "Lasso Regression (L1 regularization) adds the absolute value of coefficients as penalty, which can shrink some coefficients to zero, thus performing feature selection."
+}

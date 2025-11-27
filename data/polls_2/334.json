@@ -1,0 +1,13 @@
+{
+    "question": "How do vector databases enhance recommendation systems compared to traditional databases?",
+    "options": [
+        "By using vector embeddings to capture semantic similarities between data points.",
+        "By organizing data into tables for better indexing and search performance.",
+        "By relying solely on user input to generate recommendations.",
+        "By storing data in a structured format that allows fast retrieval of exact matches."
+    ],
+    "correct_answer": "By using vector embeddings to capture semantic similarities between data points.",
+    "explanation": "Vector databases use embeddings to understand and compare data points based on their semantic meaning, which enhances recommendation systems by identifying similarities beyond exact matches.",
+    "_source_image": "q_51.png",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Select the answer that correctly contrasts monolithic AI models and compound AI systems regarding their structural design.",
+    "options": [
+        "Both monolithic AI models and compound AI systems are interconnected modules.",
+        "Monolithic AI models are designed as a single, unified system, while compound AI systems comprise interconnected modules.",
+        "Both monolithic AI models and compound AI systems are designed as single, unified systems.",
+        "Compound AI systems are designed as a single, unified system, while monolithic AI models are made of interconnected modules."
+    ],
+    "correct_answer": "Monolithic AI models are designed as a single, unified system, while compound AI systems comprise interconnected modules.",
+    "explanation": "Monolithic AI models are typically single, unified systems, whereas compound AI systems consist of multiple interconnected modules, allowing for more flexibility and scalability.",
+    "_source_image": "q_121.png",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "24. In compiler design, which phase is responsible for converting a regular expression into an NFA?",
+    "options": [
+        "Lexical Analysis",
+        "Syntax Analysis",
+        "Code Optimization",
+        "Intermediate Code Generation"
+    ],
+    "answer": "Answer: a\nExplanation: Lexical analysis includes the construction of finite automata to recognize tokens, which involves converting regular expressions into NFAs/DFAs.",
+    "correct_answer": "Lexical Analysis",
+    "answer_index": 0,
+    "explanation": "Lexical analysis includes the construction of finite automata to recognize tokens, which involves converting regular expressions into NFAs/DFAs."
+}

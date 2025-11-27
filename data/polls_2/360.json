@@ -1,0 +1,13 @@
+{
+    "question": "What is the main function of a parent document retriever in LangChain?",
+    "options": [
+        "It generates new documents based on query context.",
+        "It retrieves large parent documents by first identifying relevant small chunks.",
+        "It retrieves only metadata from documents.",
+        "It retrieves small chunks of documents and ignores their parent context."
+    ],
+    "correct_answer": "It retrieves large parent documents by first identifying relevant small chunks.",
+    "explanation": "A parent document retriever in LangChain identifies relevant small chunks to retrieve the larger parent documents efficiently.",
+    "_source_image": "q_78.png",
+    "answer_index": 1
+}

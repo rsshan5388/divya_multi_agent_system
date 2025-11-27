@@ -1,0 +1,13 @@
+{
+    "question": "In the context of LCEL, what role does the RunnableParallel component play?",
+    "options": [
+        "It provides a template for prompt engineering.",
+        "It automatically converts functions into runnable components.",
+        "It ensures sequential execution of components.",
+        "It runs multiple components concurrently using the same input."
+    ],
+    "correct_answer": "It runs multiple components concurrently using the same input.",
+    "explanation": "The RunnableParallel component is designed to execute multiple components at the same time, allowing for concurrent processing with the same input.",
+    "_source_image": "q_110.png",
+    "answer_index": 3
+}

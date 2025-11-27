@@ -1,0 +1,13 @@
+{
+    "question": "What are the key differences between locality-sensitive hashing (LSH) and hierarchical navigable small world (HNSW) indexing in FAISS?",
+    "options": [
+        "Both LSH and HNSW are used for exact search in FAISS.",
+        "HNSW is used for exact search, whereas LSH is for distributed data storage.",
+        "LSH is used for approximate nearest neighbor search using hash buckets, whereas HNSW is a graph-based index that organizes vectors hierarchically for efficient search.",
+        "LSH provides exact search results, whereas HNSW is used for hashing vectors."
+    ],
+    "correct_answer": "LSH is used for approximate nearest neighbor search using hash buckets, whereas HNSW is a graph-based index that organizes vectors hierarchically for efficient search.",
+    "explanation": "LSH and HNSW serve different purposes in FAISS. LSH is used for approximate nearest neighbor search, while HNSW organizes vectors hierarchically for efficient search.",
+    "_source_image": "q_85.png",
+    "answer_index": 2
+}

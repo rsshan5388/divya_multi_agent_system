@@ -1,0 +1,13 @@
+{
+    "question": "Q94 Which code snippet correctly appends text to a file in C#?",
+    "options": [
+        "File.Write(\"file.txt\", \"text\");",
+        "File.WriteAll(\"file.txt\", \"text\");",
+        "File.AppendAllText(\"file.txt\", \"text\");",
+        "File.InsertText(\"file.txt\", \"text\");"
+    ],
+    "answer": "C File.AppendAllText(\"file.txt\", \"text\");",
+    "explanation": "",
+    "correct_answer": "File.AppendAllText(\"file.txt\", \"text\");",
+    "answer_index": 2
+}

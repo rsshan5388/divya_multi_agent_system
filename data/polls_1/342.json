@@ -1,0 +1,13 @@
+{
+    "question": "25. What was the name of the first network?",
+    "options": [
+        "ASAPNET",
+        "ARPANET",
+        "CNNET",
+        "NSFNET"
+    ],
+    "answer": "Answer: b\nExplanation: ARPANET stands for Advanced Research Projects Agency Networks. It was the first network to be implemented which used the TCP/IP protocol in the year 1969.",
+    "correct_answer": "ARPANET",
+    "answer_index": 1,
+    "explanation": "ARPANET stands for Advanced Research Projects Agency Networks. It was the first network to be implemented which used the TCP/IP protocol in the year 1969."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "8. In 8-bit microprocessor, how many opcodes are present?",
+    "options": [
+        "246",
+        "278",
+        "250",
+        "256",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: In an 8-bit microprocessor, maximum 2\n8\n= 256 opcodes are possible. But it consists of only 246 opcodes.",
+    "correct_answer": "246",
+    "answer_index": 0,
+    "explanation": "In an 8-bit microprocessor, maximum 2\n8\n= 256 opcodes are possible. But it consists of only 246 opcodes."
+}

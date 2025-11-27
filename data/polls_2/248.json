@@ -1,0 +1,13 @@
+{
+    "question": "Data Innovations is developing a multimodal AI application that processes both text and images for intelligent decision-making. Which component is essential for integrating visual and textual data into a coherent understanding?",
+    "options": [
+        "Integrated understanding across modalities",
+        "Text-based analysis followed by image processing",
+        "Visual data prioritization over text",
+        "Separate processing of text and images"
+    ],
+    "correct_answer": "Integrated understanding across modalities",
+    "explanation": "For a multimodal AI application, integrating visual and textual data requires an approach that combines both modalities into a unified understanding, rather than processing them separately or prioritizing one over the other.",
+    "_source_image": "q_104.png",
+    "answer_index": 0
+}

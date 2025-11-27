@@ -1,0 +1,13 @@
+{
+    "question": "34. How many classes does bootstrap grid system has?",
+    "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+    ],
+    "answer": "Answer: c\nExplanation: Bootstrap grid system has four classes. Xs, sm, md, lg. as is for phones having screens less than 786px wide, sm is for tablets. Screens equal to or greater than 768px, md is for small laptops, screen equal to or greater than 992px wide, lg is for laptops and desktops, Screens equal to or greater than 1200px wide.",
+    "correct_answer": "4",
+    "answer_index": 2,
+    "explanation": "Bootstrap grid system has four classes. Xs, sm, md, lg. as is for phones having screens less than 786px wide, sm is for tablets. Screens equal to or greater than 768px, md is for small laptops, screen equal to or greater than 992px wide, lg is for laptops and desktops, Screens equal to or greater than 1200px wide."
+}

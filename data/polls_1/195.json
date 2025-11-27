@@ -1,0 +1,13 @@
+{
+    "question": "Q93 How would you open a file for reading in C#?",
+    "options": [
+        "File.OpenWrite(\"file.txt\")",
+        "File.OpenRead(\"file.txt\")",
+        "File.ReadAll(\"file.txt\")",
+        "File.Open(\"file.txt\")"
+    ],
+    "answer": "B File.OpenRead(\"file.txt\")",
+    "explanation": "",
+    "correct_answer": "File.OpenRead(\"file.txt\")",
+    "answer_index": 1
+}

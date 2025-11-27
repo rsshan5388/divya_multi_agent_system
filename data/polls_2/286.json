@@ -1,0 +1,13 @@
+{
+    "question": "What is one key feature that distinguishes a Reflexion agent from a basic reflection agent?",
+    "options": [
+        "It uses a static set of rules to critique AI outputs.",
+        "It generates self-critiques but does not integrate external data or tools.",
+        "It completes all processing in a single iteration to maximize speed and efficiency.",
+        "It incorporates external tools to retrieve real-time information and supports outputs with citations."
+    ],
+    "correct_answer": "It incorporates external tools to retrieve real-time information and supports outputs with citations.",
+    "explanation": "A Reflexion agent is distinguished by its ability to integrate external tools for real-time information retrieval and provide outputs with citations, enhancing its functionality beyond basic reflection.",
+    "_source_image": "q_139.png",
+    "answer_index": 3
+}

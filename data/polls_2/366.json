@@ -1,0 +1,13 @@
+{
+    "question": "Which Query Fusion Retriever fusion strategy combines ranked lists by assigning higher scores to documents that appear near the top of any list?",
+    "options": [
+        "Relative Score Fusion",
+        "Reciprocal Rank Fusion",
+        "Query Fusion",
+        "Distribution-Based Fusion"
+    ],
+    "correct_answer": "Reciprocal Rank Fusion",
+    "explanation": "Reciprocal Rank Fusion assigns higher scores to documents that appear near the top of any ranked list, effectively combining the lists by emphasizing top-ranked documents.",
+    "_source_image": "q_84.png",
+    "answer_index": 1
+}

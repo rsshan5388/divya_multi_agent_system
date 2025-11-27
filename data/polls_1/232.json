@@ -1,0 +1,13 @@
+{
+    "question": "Q65 A developer wants to log details of an exception without disrupting execution. What is a possible approach?",
+    "options": [
+        "Use throw;",
+        "Log in catch block and continue",
+        "Avoid catch block",
+        "Use finally block"
+    ],
+    "answer": "B Log in catch block and continue",
+    "explanation": "",
+    "correct_answer": "Log in catch block and continue",
+    "answer_index": 1
+}

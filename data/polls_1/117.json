@@ -1,0 +1,13 @@
+{
+    "question": "7. What application can one create even before the introduction of HTML5?",
+    "options": [
+        "Forms",
+        "Browser based games",
+        "Web applications",
+        "Mobile applications"
+    ],
+    "answer": "Answer: a\nExplanation: With the help of HTML5 and JavaScript it became possible to create excellent mobile applications, browser based games, web applications and many more other applications. Forms were already introduced before HTML5.",
+    "correct_answer": "Forms",
+    "answer_index": 0,
+    "explanation": "With the help of HTML5 and JavaScript it became possible to create excellent mobile applications, browser based games, web applications and many more other applications. Forms were already introduced before HTML5."
+}

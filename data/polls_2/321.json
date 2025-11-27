@@ -1,0 +1,13 @@
+{
+    "question": "In the context of RAG, how does LlamaIndex handle the embedding and storing of vectors compared to LangChain?",
+    "options": [
+        "LlamaIndex uses a single command to generate and store vectors, whereas LangChain does these actions separately.",
+        "LangChain and LlamaIndex both use a single command to generate and store vectors.",
+        "LlamaIndex generates and stores vectors separately, similar to LangChain.",
+        "Both frameworks require manual setup for embedding vector metadata."
+    ],
+    "correct_answer": "LlamaIndex uses a single command to generate and store vectors, whereas LangChain does these actions separately.",
+    "explanation": "LlamaIndex simplifies the process by combining vector generation and storage into a single command, unlike LangChain which separates these actions.",
+    "_source_image": "q_38.png",
+    "answer_index": 0
+}

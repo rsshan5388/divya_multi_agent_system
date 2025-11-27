@@ -1,0 +1,13 @@
+{
+    "question": "Q117 A \"DataAdapter.Fill\" method fails to retrieve data. What could be a potential cause?",
+    "options": [
+        "DataReader closed",
+        "DataAdapter not initialized",
+        "Connection not open",
+        "SQL query missing"
+    ],
+    "answer": "C Connection not open",
+    "explanation": "",
+    "correct_answer": "Connection not open",
+    "answer_index": 2
+}

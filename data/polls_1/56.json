@@ -1,0 +1,13 @@
+{
+    "question": "2. What does cyber security protect?",
+    "options": [
+        "Cyber security protects criminals",
+        "Cyber security protects internet-connected systems",
+        "Cyber security protects hackers",
+        "None of the mentioned"
+    ],
+    "answer": "Answer: b\nExplanation: It protects internet-connected systems such as hardware, software, and data from cyber-attacks. It aims to reduce cyber attacks against the system, network, and technologies by reducing unauthorized exploitation, vulnerability, and threats.",
+    "correct_answer": "Cyber security protects internet-connected systems",
+    "answer_index": 1,
+    "explanation": "It protects internet-connected systems such as hardware, software, and data from cyber-attacks. It aims to reduce cyber attacks against the system, network, and technologies by reducing unauthorized exploitation, vulnerability, and threats."
+}

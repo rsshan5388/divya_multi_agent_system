@@ -1,0 +1,13 @@
+{
+    "question": "Q18 Which code snippet demonstrates defining an integer variable in C#?",
+    "options": [
+        "int number = 10;",
+        "number = 10;",
+        "int number",
+        "number = 10"
+    ],
+    "answer": "A int number = 10;",
+    "explanation": "",
+    "correct_answer": "int number = 10;",
+    "answer_index": 0
+}

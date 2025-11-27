@@ -1,0 +1,13 @@
+{
+    "question": "Q78 Which of the following is a generic collection in .NET?",
+    "options": [
+        "Array",
+        "List",
+        "Hashtable",
+        "ArrayList"
+    ],
+    "answer": "B List",
+    "explanation": "",
+    "correct_answer": "List",
+    "answer_index": 1
+}

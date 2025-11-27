@@ -1,0 +1,13 @@
+{
+    "question": "Q33 What is an assembly in .NET?",
+    "options": [
+        "A text file",
+        "A set of reusable code units",
+        "An HTML page",
+        "A user password"
+    ],
+    "answer": "B A set of reusable code units",
+    "explanation": "",
+    "correct_answer": "A set of reusable code units",
+    "answer_index": 1
+}

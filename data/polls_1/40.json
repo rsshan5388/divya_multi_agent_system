@@ -1,0 +1,13 @@
+{
+    "question": "12. What is the term for an endpoint of an inter-process communication flow across a computer network?",
+    "options": [
+        "port",
+        "machine",
+        "socket",
+        "pipe"
+    ],
+    "answer": "Answer: c\nExplanation: Socket is one end point in a two way communication link in the network. TCP layer can identify the application that data is destined to be sent by using the port number that is bound to socket.",
+    "correct_answer": "socket",
+    "answer_index": 2,
+    "explanation": "Socket is one end point in a two way communication link in the network. TCP layer can identify the application that data is destined to be sent by using the port number that is bound to socket."
+}

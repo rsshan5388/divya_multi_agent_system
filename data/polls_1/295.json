@@ -1,0 +1,14 @@
+{
+    "question": "26. Which of the following register is not used in opcode fetch operations?",
+    "options": [
+        "Program counter",
+        "Memory address register",
+        "Memory data register",
+        "Flag register",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: Flag register is not used in opcode fetch operations. It is used to represent the status of ALU operation which is performed after decoding of the opcode.",
+    "correct_answer": "Flag register",
+    "answer_index": 3,
+    "explanation": "Flag register is not used in opcode fetch operations. It is used to represent the status of ALU operation which is performed after decoding of the opcode."
+}

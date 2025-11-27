@@ -1,0 +1,13 @@
+{
+    "question": "15. What are Frames?",
+    "options": [
+        "They divide a webpage",
+        "They are the type of borders used for a webpage",
+        "They are the type of borders used by web browsers",
+        "They divide the browser into two or more pieces or panes"
+    ],
+    "answer": "Answer: d\nExplanation: Browser gets divided into panes by Frame, with each pane containing a separate web page. The advantages are that they offer you where you  can load and reload single panes without having to reload the entire contents of the browser window.",
+    "correct_answer": "They divide the browser into two or more pieces or panes",
+    "answer_index": 3,
+    "explanation": "Browser gets divided into panes by Frame, with each pane containing a separate web page. The advantages are that they offer you where you  can load and reload single panes without having to reload the entire contents of the browser window."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "22. Which layer is responsible for process to process delivery in a general network model?",
+    "options": [
+        "session layer",
+        "data link layer",
+        "transport layer",
+        "network layer"
+    ],
+    "answer": "Answer: c\nExplanation: The role of Transport layer (Layer 4) is to establish a logical end to end connection between two systems in a network. The protocols used in Transport layer is TCP and UDP. The transport layer is responsible for segmentation of the data. It uses ports for the implementation of process-to-process delivery.",
+    "correct_answer": "transport layer",
+    "answer_index": 2,
+    "explanation": "The role of Transport layer (Layer 4) is to establish a logical end to end connection between two systems in a network. The protocols used in Transport layer is TCP and UDP. The transport layer is responsible for segmentation of the data. It uses ports for the implementation of process-to-process delivery."
+}

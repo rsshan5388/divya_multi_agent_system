@@ -1,0 +1,14 @@
+{
+    "question": "1. What is Microprocessor?",
+    "options": [
+        "A multipurpose PLD that accepts binary data as input",
+        "A multipurpose PLD that accepts an integer as input",
+        "A multipurpose PLD that accepts whole numbers as input",
+        "A multipurpose PLD that accepts prime numbers as input",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: A microprocessor is a multipurpose PLD that accepts binary data as input and processes data according to the instructions, and outputs the result. Binary instructions are read from memory.",
+    "correct_answer": "A multipurpose PLD that accepts binary data as input",
+    "answer_index": 0,
+    "explanation": "A microprocessor is a multipurpose PLD that accepts binary data as input and processes data according to the instructions, and outputs the result. Binary instructions are read from memory."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q58 Which of the following exceptions is thrown when accessing an array out of its bounds?",
+    "options": [
+        "ArgumentException",
+        "IndexOutOfRangeException",
+        "OverflowException",
+        "DivideByZeroException"
+    ],
+    "answer": "B IndexOutOfRangeException",
+    "explanation": "",
+    "correct_answer": "IndexOutOfRangeException",
+    "answer_index": 1
+}

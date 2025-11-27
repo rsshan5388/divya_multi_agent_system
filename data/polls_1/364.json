@@ -1,0 +1,13 @@
+{
+    "question": "Q99 Which language is primarily used for server-side coding in ASP.NET?",
+    "options": [
+        "C++",
+        "Java",
+        "C#",
+        "HTML"
+    ],
+    "answer": "C C#",
+    "explanation": "",
+    "correct_answer": "C#",
+    "answer_index": 2
+}

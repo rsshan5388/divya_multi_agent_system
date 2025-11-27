@@ -1,0 +1,13 @@
+{
+    "question": "45. In cloud computing, which model provides hardware resources as a service to customers?",
+    "options": [
+        "Software as a Service (SaaS)",
+        "Platform as a Service (PaaS)",
+        "Infrastructure as a Service (IaaS)",
+        "Function as a Service (FaaS)"
+    ],
+    "answer": "Answer: c\nExplanation: Infrastructure as a Service (IaaS) provides hardware resources like virtual machines, storage, and networking to customers on demand.",
+    "correct_answer": "Infrastructure as a Service (IaaS)",
+    "answer_index": 2,
+    "explanation": "Infrastructure as a Service (IaaS) provides hardware resources like virtual machines, storage, and networking to customers on demand."
+}

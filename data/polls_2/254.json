@@ -1,0 +1,13 @@
+{
+    "question": "Devon is developing an AI application that must comply with strict data sovereignty regulations requiring sensitive information to remain within company infrastructure. Which implementation approach best addresses these requirements?",
+    "options": [
+        "Sharing data to public cloud platforms",
+        "Hosting the model using external APIs",
+        "Running the AI model locally on his machine",
+        "Relying on large external datasets"
+    ],
+    "correct_answer": "Running the AI model locally on his machine",
+    "explanation": "Running the AI model locally ensures that sensitive data remains within the company's infrastructure, complying with data sovereignty regulations.",
+    "_source_image": "q_11.png",
+    "answer_index": 2
+}

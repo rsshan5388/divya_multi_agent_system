@@ -1,0 +1,13 @@
+{
+    "question": "When comparing the document loading capabilities of LangChain and LlamaIndex, which statement accurately reflects a key difference?",
+    "options": [
+        "LangChain's DirectoryLoader uses the `SimpleDirectoryReader` under the hood.",
+        "LangChain relies heavily on external integrations, whereas LlamaIndex provides effective native solutions for most tasks.",
+        "LlamaIndex's `SimpleDirectoryReader` can natively handle more file formats than LangChain's DirectoryLoader.",
+        "LlamaIndex requires extensive configuration for loading different file types."
+    ],
+    "correct_answer": "LlamaIndex's `SimpleDirectoryReader` can natively handle more file formats than LangChain's DirectoryLoader.",
+    "explanation": "LlamaIndex's `SimpleDirectoryReader` is designed to support a wider range of file formats natively compared to LangChain's DirectoryLoader.",
+    "_source_image": "q_37.png",
+    "answer_index": 2
+}

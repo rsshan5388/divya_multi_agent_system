@@ -1,0 +1,13 @@
+{
+    "question": "Q145 Which command is used to create a new .NET Core project?",
+    "options": [
+        "dotnet make",
+        "dotnet new",
+        "dotnet create",
+        "dotnet init"
+    ],
+    "answer": "B dotnet new",
+    "explanation": "",
+    "correct_answer": "dotnet new",
+    "answer_index": 1
+}

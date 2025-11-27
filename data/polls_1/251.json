@@ -1,0 +1,13 @@
+{
+    "question": "Q112 Which of the following is a key advantage of using DataReader over DataSet in ADO.NET?",
+    "options": [
+        "Stores data in memory",
+        "Supports disconnected data",
+        "Improved performance for read-only data",
+        "Easier to update data"
+    ],
+    "answer": "C Improved performance for read-only data",
+    "explanation": "",
+    "correct_answer": "Improved performance for read-only data",
+    "answer_index": 2
+}

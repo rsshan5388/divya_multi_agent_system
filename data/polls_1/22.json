@@ -1,0 +1,13 @@
+{
+    "question": "Q36 What is the role of the Global Assembly Cache (GAC) in .NET?",
+    "options": [
+        "Manages system memory",
+        "Executes code",
+        "Stores shared assemblies",
+        "Generates reports"
+    ],
+    "answer": "C Stores shared assemblies",
+    "explanation": "",
+    "correct_answer": "Stores shared assemblies",
+    "answer_index": 2
+}

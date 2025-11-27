@@ -1,0 +1,13 @@
+{
+    "question": "What role do embeddings play in the functionality of vector databases for recommendation systems?",
+    "options": [
+        "They serve as the basis for similarity searches.",
+        "They eliminate the need for data preprocessing.",
+        "They convert all inputs into a single numeric format.",
+        "They ensure data security during retrieval processes."
+    ],
+    "correct_answer": "They serve as the basis for similarity searches.",
+    "explanation": "Embeddings are used to represent data in a way that facilitates similarity searches, which are crucial for recommendation systems.",
+    "_source_image": "q_73.png",
+    "answer_index": 0
+}

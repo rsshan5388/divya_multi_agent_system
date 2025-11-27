@@ -1,0 +1,13 @@
+{
+    "question": "What is a ChainState object in LangGraph?",
+    "options": [
+        "A typed dictionary representing state, including inputs, intermediate values, and outputs",
+        "A type-enforced string array used to handle node transitions",
+        "A loop controller that determines how many nodes a graph contains",
+        "A static configuration used only during graph compilation"
+    ],
+    "correct_answer": "A typed dictionary representing state, including inputs, intermediate values, and outputs",
+    "explanation": "A ChainState object in LangGraph is used to manage the state of the graph, including inputs, intermediate values, and outputs, in a structured manner.",
+    "_source_image": "q_131.png",
+    "answer_index": 0
+}

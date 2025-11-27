@@ -1,0 +1,13 @@
+{
+    "question": "8. Which of the following is not associated with web socket communication?",
+    "options": [
+        "https",
+        "wss",
+        "http",
+        "ws"
+    ],
+    "answer": "Answer: c\nExplanation: For opening WebSocket we call WebSocket constructor. The syntax is\nvar conn=new WebSocket(‘ws://rtyyghj.websocket.org/echo’,[‘brush’, ‘xmpp’]);\nfor using secure HTTP connections use https: ,ws: is the new URL scheme for connecting WebSockets. There is wss: also.",
+    "correct_answer": "http",
+    "answer_index": 2,
+    "explanation": "For opening WebSocket we call WebSocket constructor. The syntax is\nvar conn=new WebSocket(‘ws://rtyyghj.websocket.org/echo’,[‘brush’, ‘xmpp’]);\nfor using secure HTTP connections use https: ,ws: is the new URL scheme for connecting WebSockets. There is wss: also."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "36. What is the vectored address of RST-5?",
+    "options": [
+        "0010 H",
+        "0032 H",
+        "0028 H",
+        "0030 H",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: Vectored address of RST-n is calculated by the formula n × 8. So, vectored address of RST-5 is (40)\n10\n. (40)\n10\nin hexadecimal is (28)\n16\n= 0028 H.",
+    "correct_answer": "0028 H",
+    "answer_index": 2,
+    "explanation": "Vectored address of RST-n is calculated by the formula n × 8. So, vectored address of RST-5 is (40)\n10\n. (40)\n10\nin hexadecimal is (28)\n16\n= 0028 H."
+}

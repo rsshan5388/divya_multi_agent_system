@@ -1,0 +1,13 @@
+{
+    "question": "How can tools improve the precision of AI responses?",
+    "options": [
+        "By making LLMs fully autonomous",
+        "By enabling LLMs to interact with real-world data and perform complex tasks",
+        "By eliminating the need for any training data",
+        "By reducing the complexity of tasks"
+    ],
+    "correct_answer": "By enabling LLMs to interact with real-world data and perform complex tasks",
+    "explanation": "Interacting with real-world data allows AI to adapt and respond more accurately to complex scenarios, improving precision.",
+    "_source_image": "q_128.png",
+    "answer_index": 1
+}

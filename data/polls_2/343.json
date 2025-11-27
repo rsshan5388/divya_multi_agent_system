@@ -1,0 +1,13 @@
+{
+    "question": "What is a key difference between vector databases and traditional databases?",
+    "options": [
+        "Traditional databases are more efficient for similarity searches.",
+        "Traditional databases are optimized for numerical data types.",
+        "Vector databases use relational tables for data storage.",
+        "Vector databases are designed to handle embeddings."
+    ],
+    "correct_answer": "Vector databases are designed to handle embeddings.",
+    "explanation": "Vector databases are specifically designed to handle and search through embeddings, which are often used in machine learning and AI applications.",
+    "_source_image": "q_60.png",
+    "answer_index": 3
+}

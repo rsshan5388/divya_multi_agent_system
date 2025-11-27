@@ -1,0 +1,13 @@
+{
+    "question": "9. Why are Images often used on the webpage?",
+    "options": [
+        "To create graphical buttons or links to other pages",
+        "To help the webpage load efficiently",
+        "Webpage cannot run/be displayed without at least one image",
+        "Because webpage doesn’t support pure text"
+    ],
+    "answer": "Answer: a\nExplanation: Images are also used for better presentation of webpage. Any image can be turned into a link. Rather than putting text between the opening < a > tag and the closing < /a > tag, you simply place an image inside these tags.",
+    "correct_answer": "To create graphical buttons or links to other pages",
+    "answer_index": 0,
+    "explanation": "Images are also used for better presentation of webpage. Any image can be turned into a link. Rather than putting text between the opening < a > tag and the closing < /a > tag, you simply place an image inside these tags."
+}

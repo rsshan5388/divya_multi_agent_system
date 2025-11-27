@@ -1,0 +1,13 @@
+{
+    "question": "28. If a link transmits 4000 frames per second, and each slot has 8 bits, what is the transmission rate of the circuit using Time Division Multiplexing (TDM)?",
+    "options": [
+        "500kbps",
+        "32kbps",
+        "32bps",
+        "500bps"
+    ],
+    "answer": "Answer: b\nExplanation: Transmission rate= frame rate * number of bits in a slot.\nGiven: Frame rate = 4000/sec and number of bits in slot = 8\nThus, Transmission rate = (4000 * 8) bps\n= 32000bps\n= 32kbps",
+    "correct_answer": "32kbps",
+    "answer_index": 1,
+    "explanation": "Transmission rate= frame rate * number of bits in a slot.\nGiven: Frame rate = 4000/sec and number of bits in slot = 8\nThus, Transmission rate = (4000 * 8) bps\n= 32000bps\n= 32kbps"
+}

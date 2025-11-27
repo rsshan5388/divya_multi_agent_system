@@ -1,0 +1,13 @@
+{
+    "question": "At TechStyle, a fashion company, Alex is developing an AI-powered personal shopping assistant. The assistant needs to identify fashion items based on image inputs and suggest similar items from their database. Which approach should Alex consider for efficiently retrieving visually similar images?",
+    "options": [
+        "Use a pre-trained vision model to extract image embeddings and perform similarity search in a vector database.",
+        "Use a simple color histogram comparison to find similar images.",
+        "Manually tag each image with keywords and use a keyword matching system.",
+        "Implement a basic image hashing technique to match images directly based on pixel values."
+    ],
+    "correct_answer": "Use a pre-trained vision model to extract image embeddings and perform similarity search in a vector database.",
+    "explanation": "Using a pre-trained vision model allows for efficient extraction of image features, enabling a more accurate similarity search in a vector database compared to simpler methods like color histograms or manual tagging.",
+    "_source_image": "q_100.png",
+    "answer_index": 0
+}

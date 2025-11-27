@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary purpose of the pipe operator in LangChain LCEL?",
+    "options": [
+        "To connect components, ensuring a clean flow of data from input to output.",
+        "To handle type coercion automatically.",
+        "To define variables within a template.",
+        "To convert functions into RunnableLambda components."
+    ],
+    "correct_answer": "To connect components, ensuring a clean flow of data from input to output.",
+    "explanation": "The pipe operator is used to connect components, facilitating a seamless flow of data from one component to the next.",
+    "_source_image": "q_106.png",
+    "answer_index": 0
+}

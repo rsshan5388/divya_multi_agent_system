@@ -1,0 +1,13 @@
+{
+    "question": "Q6 Which of the following describes the .NET Framework Class Library?",
+    "options": [
+        "A runtime environment",
+        "A collection of reusable classes",
+        "A file manager",
+        "A code editor"
+    ],
+    "answer": "B A collection of reusable classes",
+    "explanation": "",
+    "correct_answer": "A collection of reusable classes",
+    "answer_index": 1
+}

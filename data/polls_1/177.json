@@ -1,0 +1,13 @@
+{
+    "question": "34. Which of the following can diminish the chance of data leakage?",
+    "options": [
+        "Steganography",
+        "Chorography",
+        "Cryptography",
+        "Authentication"
+    ],
+    "answer": "Answer: a\nExplanation: Ordinary files are targeted by hackers or other cyber criminals in order to disguise distinct data or information within another data file. You can reduce the risk of data leaking by employing steganography.",
+    "correct_answer": "Steganography",
+    "answer_index": 0,
+    "explanation": "Ordinary files are targeted by hackers or other cyber criminals in order to disguise distinct data or information within another data file. You can reduce the risk of data leaking by employing steganography."
+}

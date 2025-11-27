@@ -1,0 +1,14 @@
+{
+    "question": "42. DAA instruction is used to perform which type of addition?",
+    "options": [
+        "BCD addition",
+        "Excess-3 addition",
+        "Binary addition",
+        "Octal addition",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: DAA instruction is used to perform BCD addition. DAA instruction changes the binary values of the contents of the accumulator to BCD.",
+    "correct_answer": "BCD addition",
+    "answer_index": 0,
+    "explanation": "DAA instruction is used to perform BCD addition. DAA instruction changes the binary values of the contents of the accumulator to BCD."
+}

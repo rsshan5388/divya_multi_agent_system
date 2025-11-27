@@ -1,0 +1,14 @@
+{
+    "question": "2. Which of the following is correct about 8086 microprocessor?",
+    "options": [
+        "Intel’s first x86 processor",
+        "Motrola’s first x86 processor",
+        "STMICROELECTRONICS’s first x86 processor",
+        "NanoXplore x86 processor",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: The Intel 8086 is Intel’s first x86 processor. They launched the most powerful processor in terms of advanced architecture i.e. 8086 processor in 1978. It has larger memory addressing capability and a powerful instruction set.",
+    "correct_answer": "Intel’s first x86 processor",
+    "answer_index": 0,
+    "explanation": "The Intel 8086 is Intel’s first x86 processor. They launched the most powerful processor in terms of advanced architecture i.e. 8086 processor in 1978. It has larger memory addressing capability and a powerful instruction set."
+}

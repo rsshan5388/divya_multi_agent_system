@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary characteristic of vector databases that makes them suitable for contemporary data management?",
+    "options": [
+        "Their reliance on SQL for data queries.",
+        "Their capability to efficiently process and analyze high-dimensional data.",
+        "Their focus on reducing data redundancy.",
+        "Their ability to integrate seamlessly with traditional databases."
+    ],
+    "correct_answer": "Their capability to efficiently process and analyze high-dimensional data.",
+    "explanation": "Vector databases are designed to handle high-dimensional data, making them ideal for tasks like machine learning and AI applications.",
+    "_source_image": "q_49.png",
+    "answer_index": 1
+}

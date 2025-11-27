@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary purpose of converting a plain text question into a HumanMessage in the context of building interactive LLM agents?",
+    "options": [
+        "To ensure the model recognizes it as user input.",
+        "To increase the processing speed of the model.",
+        "To encrypt the question for security purposes.",
+        "To translate the question into a different language."
+    ],
+    "correct_answer": "To ensure the model recognizes it as user input.",
+    "explanation": "Converting a plain text question into a HumanMessage helps the model identify it as input from a user, which is essential for interactive LLM agents.",
+    "_source_image": "q_137.png",
+    "answer_index": 0
+}

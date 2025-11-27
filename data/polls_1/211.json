@@ -1,0 +1,13 @@
+{
+    "question": "35. What is the JavaScript keyword used to define a function?",
+    "options": [
+        "var",
+        "function",
+        "let",
+        "const"
+    ],
+    "answer": "Answer: b\nExplanation: The function keyword is used to define a function in JavaScript. Functions are blocks of code that can be used to perform actions. They can take input parameters and return a value.",
+    "correct_answer": "function",
+    "answer_index": 1,
+    "explanation": "The function keyword is used to define a function in JavaScript. Functions are blocks of code that can be used to perform actions. They can take input parameters and return a value."
+}

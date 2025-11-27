@@ -1,0 +1,13 @@
+{
+    "question": "Q115 How would you retrieve data from a DataReader in a while loop in C#?",
+    "options": [
+        "while (reader.Read()) { ... }",
+        "for (reader.Next()) { ... }",
+        "if (reader.Fetch()) { ... }",
+        "loop (reader.Read()) { ... }"
+    ],
+    "answer": "A while (reader.Read()) { ... }",
+    "explanation": "",
+    "correct_answer": "while (reader.Read()) { ... }",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q126 A developer notices slow performance when executing a large LINQ query. What could be a potential solution?",
+    "options": [
+        "Avoid OrderBy",
+        "Optimize query structure",
+        "Add more conditions",
+        "Use foreach loop"
+    ],
+    "answer": "B Optimize query structure",
+    "explanation": "",
+    "correct_answer": "Optimize query structure",
+    "answer_index": 1
+}

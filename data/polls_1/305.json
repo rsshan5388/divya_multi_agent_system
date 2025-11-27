@@ -1,0 +1,13 @@
+{
+    "question": "Q131 Which method is used to save changes made to the database in Entity Framework?",
+    "options": [
+        "Update()",
+        "Execute()",
+        "SaveChanges()",
+        "ApplyChanges()"
+    ],
+    "answer": "C SaveChanges()",
+    "explanation": "",
+    "correct_answer": "SaveChanges()",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "In the Reflexion workflow, what is the primary purpose of the tool_calls attribute in the AIMessage object?",
+    "options": [
+        "To log the number of user queries for debugging",
+        "To define the entry and exit points in LangGraph",
+        "To execute the system message assigned to the revisor node",
+        "To store key-value outputs like answer, reflection, and search queries"
+    ],
+    "correct_answer": "To store key-value outputs like answer, reflection, and search queries",
+    "explanation": "The tool_calls attribute is used to store key-value outputs, which are essential for tracking and managing the results of various operations within the workflow.",
+    "_source_image": "q_143.png",
+    "answer_index": 3
+}

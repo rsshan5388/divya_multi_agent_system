@@ -1,0 +1,13 @@
+{
+    "question": "An AI system shared sensitive patient data through email. What safeguard was likely missing?",
+    "options": [
+        "Data sanitation for PII at the model or orchestration layer",
+        "Interruptability during long-running tasks",
+        "Infinite loop detection at the orchestration layer",
+        "Role-based access control at the tool layer"
+    ],
+    "correct_answer": "Data sanitation for PII at the model or orchestration layer",
+    "explanation": "Data sanitation is crucial to prevent unauthorized sharing of sensitive information, such as PII, through communication channels like email.",
+    "_source_image": "q_148.png",
+    "answer_index": 0
+}

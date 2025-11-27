@@ -1,0 +1,14 @@
+{
+    "question": "7. What is the word length of an 8-bit microprocessor?",
+    "options": [
+        "8-bits – 64 bits",
+        "4-bits – 32 bits",
+        "8-bits – 16 bits",
+        "8-bits – 32 bits",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: At a time, an 8-bit CPU can process 8 bits of data. Depending on the type of microcomputer, the word length might range from 4 to 64 bits.",
+    "correct_answer": "8-bits – 64 bits",
+    "answer_index": 0,
+    "explanation": "At a time, an 8-bit CPU can process 8 bits of data. Depending on the type of microcomputer, the word length might range from 4 to 64 bits."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q49 Which code snippet declares a boolean variable in C#?",
+    "options": [
+        "bool isTrue = true;",
+        "boolean isTrue = true;",
+        "bool isTrue = 1;",
+        "bool isTrue: true"
+    ],
+    "answer": "A bool isTrue = true;",
+    "explanation": "",
+    "correct_answer": "bool isTrue = true;",
+    "answer_index": 0
+}

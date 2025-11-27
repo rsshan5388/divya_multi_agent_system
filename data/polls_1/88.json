@@ -1,0 +1,13 @@
+{
+    "question": "25. What is the existence of weakness in a system or network is known as?",
+    "options": [
+        "Attack",
+        "Exploit",
+        "Vulnerability",
+        "Threat"
+    ],
+    "answer": "Answer: c\nExplanation: Vulnerability is a term that refers to a weakness in a network or system that an attacker may exploit. Exploiting a weakness in security might have unintended and undesirable consequences.",
+    "correct_answer": "Vulnerability",
+    "answer_index": 2,
+    "explanation": "Vulnerability is a term that refers to a weakness in a network or system that an attacker may exploit. Exploiting a weakness in security might have unintended and undesirable consequences."
+}

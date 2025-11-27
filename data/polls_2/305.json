@@ -1,0 +1,13 @@
+{
+    "question": "Imagine you are developing a chatbot for a company with a complex mobile policy. How does the Retrieval Augmented Generation (RAG) process ensure the chatbot provides accurate and domain-specific responses to questions about the company's mobile policy?",
+    "options": [
+        "By retraining the language model with the company's mobile policy data to improve its accuracy",
+        "By using a pre-trained language model that inherently understands all domain-specific policies",
+        "By embedding the company's mobile policy into high-dimensional vectors and using them to retrieve relevant information to generate responses",
+        "By creating a rule-based system that manually encodes the company's mobile policy into the chatbot"
+    ],
+    "correct_answer": "By embedding the company's mobile policy into high-dimensional vectors and using them to retrieve relevant information to generate responses",
+    "explanation": "The RAG process involves embedding documents into vectors to retrieve relevant information, which is then used to generate accurate responses.",
+    "_source_image": "q_22.png",
+    "answer_index": 2
+}

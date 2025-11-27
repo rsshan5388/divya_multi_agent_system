@@ -1,0 +1,13 @@
+{
+    "question": "Q116 A \"SqlException\" is thrown while connecting to a SQL database. What is a likely cause?",
+    "options": [
+        "Incorrect permissions",
+        "Database is read-only",
+        "Incorrect connection string",
+        "Memory overflow"
+    ],
+    "answer": "C Incorrect connection string",
+    "explanation": "",
+    "correct_answer": "Incorrect connection string",
+    "answer_index": 2
+}

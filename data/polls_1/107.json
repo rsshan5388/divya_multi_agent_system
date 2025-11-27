@@ -1,0 +1,13 @@
+{
+    "question": "16. Which HTML tag is used to create an ordered list in a webpage?",
+    "options": [
+        "<ol>",
+        "<ul>",
+        "<li>",
+        "<ol> and <ul>"
+    ],
+    "answer": "Answer: a\nExplanation: The <ol> tag is used to create an ordered list in a webpage. Ordered lists are lists where the items have a specific order or sequence. The items in an ordered list are typically numbered or lettered.",
+    "correct_answer": "<ol>",
+    "answer_index": 0,
+    "explanation": "The <ol> tag is used to create an ordered list in a webpage. Ordered lists are lists where the items have a specific order or sequence. The items in an ordered list are typically numbered or lettered."
+}

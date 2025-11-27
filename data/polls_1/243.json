@@ -1,0 +1,13 @@
+{
+    "question": "Q82 What is the difference between Dictionary<K, V> and Hashtable in .NET?",
+    "options": [
+        "Both are type-safe",
+        "Hashtable is generic",
+        "Dictionary is type-safe",
+        "Hashtable is faster"
+    ],
+    "answer": "C Dictionary is type-safe",
+    "explanation": "",
+    "correct_answer": "Dictionary is type-safe",
+    "answer_index": 2
+}

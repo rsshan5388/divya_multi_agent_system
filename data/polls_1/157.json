@@ -1,0 +1,13 @@
+{
+    "question": "6. What are the features of cyber security?",
+    "options": [
+        "Compliance",
+        "Defense against internal threats",
+        "Threat Prevention",
+        "All of the above"
+    ],
+    "answer": "Answer: d\nExplanation: The features are as follows:\nCompliance: Creating a program that meets the requirements and rules of the users.\nDefense against internal threats: Should provide security against internal exploitation.\nThreat Prevention: Should be capable of detecting the threat and preventing them.",
+    "correct_answer": "All of the above",
+    "answer_index": 3,
+    "explanation": "The features are as follows:\nCompliance: Creating a program that meets the requirements and rules of the users.\nDefense against internal threats: Should provide security against internal exploitation.\nThreat Prevention: Should be capable of detecting the threat and preventing them."
+}

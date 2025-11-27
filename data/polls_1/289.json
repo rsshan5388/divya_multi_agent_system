@@ -1,0 +1,13 @@
+{
+    "question": "Q142 A developer encounters a \"CryptographicException\" when decrypting data. What could be a likely cause?",
+    "options": [
+        "Incorrect password",
+        "Key mismatch",
+        "File is locked",
+        "Data is too large"
+    ],
+    "answer": "B Key mismatch",
+    "explanation": "",
+    "correct_answer": "Key mismatch",
+    "answer_index": 1
+}

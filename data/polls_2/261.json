@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of setting the 'verbose' parameter to True in LangChain's SQL agent?",
+    "options": [
+        "To increase the speed of query processing",
+        "To enable automatic query retries",
+        "To view detailed logs of query translation and execution",
+        "To simplify the setup process"
+    ],
+    "correct_answer": "To view detailed logs of query translation and execution",
+    "explanation": "Setting the 'verbose' parameter to True allows users to see detailed logs, which helps in debugging and understanding the query execution process.",
+    "_source_image": "q_116.png",
+    "answer_index": 2
+}

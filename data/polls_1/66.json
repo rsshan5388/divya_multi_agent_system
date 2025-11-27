@@ -1,0 +1,15 @@
+{
+    "question": "25. Which of the following is the Web application equivalent to",
+    "options": [
+        "querySelectorAll()",
+        "?",
+        "#()",
+        "&()",
+        "!()",
+        "$()"
+    ],
+    "answer": "Answer: d\nExplanation: Web applications based on jQuery use a portable, cross-browser equivalent to\nquerySelectorAll()\nnamed\n$()\n.",
+    "correct_answer": "&()",
+    "answer_index": 3,
+    "explanation": "Web applications based on jQuery use a portable, cross-browser equivalent to\nquerySelectorAll()\nnamed\n$()\n."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q70 What is the purpose of polymorphism in OOP?",
+    "options": [
+        "To hide data",
+        "To enhance readability",
+        "To enable objects to take many forms",
+        "To provide inheritance"
+    ],
+    "answer": "C To enable objects to take many forms",
+    "explanation": "",
+    "correct_answer": "To enable objects to take many forms",
+    "answer_index": 2
+}

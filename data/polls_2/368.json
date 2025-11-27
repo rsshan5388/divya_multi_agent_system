@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of the hierarchical structure in the HNSW algorithm?",
+    "options": [
+        "It allows the algorithm to skip the need for greedy routing by using random walks.",
+        "It enables fast and scalable search by combining long-range and short-range connections across layers.",
+        "It ensures that all data points are stored only in the topmost layer to reduce memory usage.",
+        "It guarantees exact nearest neighbor results by using brute-force search at each level."
+    ],
+    "correct_answer": "It enables fast and scalable search by combining long-range and short-range connections across layers.",
+    "explanation": "The hierarchical structure in HNSW allows for efficient search by leveraging both long-range and short-range connections, improving scalability and speed.",
+    "_source_image": "q_86.png",
+    "answer_index": 1
+}

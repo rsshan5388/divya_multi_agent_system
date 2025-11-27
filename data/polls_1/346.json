@@ -1,0 +1,13 @@
+{
+    "question": "Q64 An application frequently throws an OutOfMemoryException. What could be a solution?",
+    "options": [
+        "Increase system memory",
+        "Optimize memory usage",
+        "Use more variables",
+        "Reduce CPU usage"
+    ],
+    "answer": "B Optimize memory usage",
+    "explanation": "",
+    "correct_answer": "Optimize memory usage",
+    "answer_index": 1
+}

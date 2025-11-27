@@ -1,0 +1,13 @@
+{
+    "question": "Q79 What is the primary benefit of using generics in .NET?",
+    "options": [
+        "Reduces memory usage",
+        "Improves code readability",
+        "Increases type safety",
+        "Improves debugging"
+    ],
+    "answer": "C Increases type safety",
+    "explanation": "",
+    "correct_answer": "Increases type safety",
+    "answer_index": 2
+}

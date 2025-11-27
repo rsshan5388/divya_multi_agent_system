@@ -1,0 +1,13 @@
+{
+    "question": "6. When a collection of various computers appears as a single coherent system to its clients, what is this called?",
+    "options": [
+        "mail system",
+        "networking system",
+        "computer network",
+        "distributed system"
+    ],
+    "answer": "Answer: d\nExplanation: A Computer network is defined as a collection of interconnected computers which uses a single technology for connection.\nA distributed system is also the same as computer network but the main difference is that the whole collection of computers appears to its users as a single coherent system.\nExample:- World wide web",
+    "correct_answer": "distributed system",
+    "answer_index": 3,
+    "explanation": "A Computer network is defined as a collection of interconnected computers which uses a single technology for connection.\nA distributed system is also the same as computer network but the main difference is that the whole collection of computers appears to its users as a single coherent system.\nExample:- World wide web"
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q11 What is the main function of the Common Language Runtime (CLR) in .NET?",
+    "options": [
+        "Manages app updates",
+        "Executes code and manages memory",
+        "Controls database access",
+        "Designs UI"
+    ],
+    "answer": "B Executes code and manages memory",
+    "explanation": "",
+    "correct_answer": "Executes code and manages memory",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q100 Which directive is used to include a namespace in an ASP.NET page?",
+    "options": [
+        "#import",
+        "#include",
+        "@using",
+        "@namespace"
+    ],
+    "answer": "C @using",
+    "explanation": "",
+    "correct_answer": "@using",
+    "answer_index": 2
+}

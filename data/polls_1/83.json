@@ -1,0 +1,13 @@
+{
+    "question": "Q27 Which process in the CLR allows code to be verified for type safety before execution?",
+    "options": [
+        "Code Access Security",
+        "Garbage Collection",
+        "Code Verification",
+        "Just-In-Time Compilation"
+    ],
+    "answer": "C Code Verification",
+    "explanation": "",
+    "correct_answer": "Code Verification",
+    "answer_index": 2
+}

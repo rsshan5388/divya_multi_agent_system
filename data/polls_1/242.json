@@ -1,0 +1,13 @@
+{
+    "question": "Q42 How can you resolve a version conflict for an assembly in the GAC?",
+    "options": [
+        "Reinstall .NET",
+        "Add assembly manually",
+        "Specify version in config file",
+        "Change project settings"
+    ],
+    "answer": "C Specify version in config file",
+    "explanation": "",
+    "correct_answer": "Specify version in config file",
+    "answer_index": 2
+}

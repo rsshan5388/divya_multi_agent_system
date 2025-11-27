@@ -1,0 +1,13 @@
+{
+    "question": "Tania is designing an AI-powered application and wants to improve the model’s ability to handle domain-specific tasks. Which approach should she use?",
+    "options": [
+        "Fine-tune the model with domain-specific data",
+        "Rely on zero-shot prompting for every task",
+        "Use random prompting to diversify model responses",
+        "Use prompt chaining instead of data customization"
+    ],
+    "correct_answer": "Fine-tune the model with domain-specific data",
+    "explanation": "Fine-tuning with domain-specific data helps the model learn the nuances and specifics of the domain, improving its performance on related tasks.",
+    "_source_image": "q_10.png",
+    "answer_index": 0
+}

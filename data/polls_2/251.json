@@ -1,0 +1,13 @@
+{
+    "question": "How does LCEL provide a more concise way to create sequential chains?",
+    "options": [
+        "By defining more variables in templates.",
+        "By using a dictionary structure.",
+        "By replacing RunnableSequence with the pipe operator.",
+        "By manually converting all functions."
+    ],
+    "correct_answer": "By replacing RunnableSequence with the pipe operator.",
+    "explanation": "LCEL uses the pipe operator to streamline the creation of sequential chains, making the process more concise compared to using RunnableSequence.",
+    "_source_image": "q_107.png",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "14. What are Forms in web programming?",
+    "options": [
+        "They are matrices on web page",
+        "They are used to create Table data and its information",
+        "They allow you to enter data which can be processed to servers",
+        "They are the information filled by the server-side"
+    ],
+    "answer": "Answer: c\nExplanation: Forms can look a lot like papers or database forms. A form is filled using text boxes, chechboxes, radiobuttons. For example, applying/order a product from online or it’s a google search result.",
+    "correct_answer": "They allow you to enter data which can be processed to servers",
+    "answer_index": 2,
+    "explanation": "Forms can look a lot like papers or database forms. A form is filled using text boxes, chechboxes, radiobuttons. For example, applying/order a product from online or it’s a google search result."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which Gradio input type allows users to select multiple values from a predefined checkbox list?",
+    "options": [
+        "Dropdown",
+        "Checkbox",
+        "CheckboxGroup",
+        "Radio"
+    ],
+    "correct_answer": "CheckboxGroup",
+    "explanation": "CheckboxGroup allows users to select multiple values from a list, unlike Dropdown or Radio which allow only one selection.",
+    "_source_image": "q_35.png",
+    "answer_index": 2
+}

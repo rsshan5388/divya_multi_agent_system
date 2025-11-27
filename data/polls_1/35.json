@@ -1,0 +1,13 @@
+{
+    "question": "11. Which of the following devices forwards packets between networks by processing the routing information included in the packet?",
+    "options": [
+        "firewall",
+        "bridge",
+        "hub",
+        "router"
+    ],
+    "answer": "Answer: d\nExplanation: A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. They make use of routing protocols like RIP to find the cheapest path to the destination.",
+    "correct_answer": "router",
+    "answer_index": 3,
+    "explanation": "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. They make use of routing protocols like RIP to find the cheapest path to the destination."
+}

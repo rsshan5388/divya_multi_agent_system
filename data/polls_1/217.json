@@ -1,0 +1,13 @@
+{
+    "question": "Q19 Which command can be used to add an assembly to the Global Assembly Cache (GAC) in .NET?",
+    "options": [
+        "gacutil -i assembly",
+        "install -gac assembly",
+        "gac -add assembly",
+        "addgac assembly"
+    ],
+    "answer": "A gacutil -i assembly",
+    "explanation": "",
+    "correct_answer": "gacutil -i assembly",
+    "answer_index": 0
+}

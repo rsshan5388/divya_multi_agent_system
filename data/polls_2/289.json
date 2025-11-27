@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best explains why utility-based agents are considered more advanced than goal-based agents?",
+    "options": [
+        "They avoid using internal models to save processing time.",
+        "They select any action that completes a goal, regardless of trade-offs.",
+        "They update their behavior over time using trial-and-error learning",
+        "They evaluate and rank multiple possible outcomes based on a utility function before selecting an action."
+    ],
+    "correct_answer": "They evaluate and rank multiple possible outcomes based on a utility function before selecting an action.",
+    "explanation": "Utility-based agents consider the desirability of different outcomes and choose actions that maximize overall utility, making them more sophisticated than goal-based agents.",
+    "_source_image": "q_141.png",
+    "answer_index": 3
+}

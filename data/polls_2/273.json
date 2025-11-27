@@ -1,0 +1,13 @@
+{
+    "question": "What is a structured tool in the context of AI agents?",
+    "options": [
+        "A tool that only outputs raw data",
+        "A tool with complex inputs and outputs designed to handle specific tasks",
+        "A tool that functions as a standalone AI model",
+        "A tool that operates without any input"
+    ],
+    "correct_answer": "A tool with complex inputs and outputs designed to handle specific tasks",
+    "explanation": "A structured tool is designed to handle specific tasks with defined inputs and outputs, making it suitable for complex operations within AI systems.",
+    "_source_image": "q_127.png",
+    "answer_index": 1
+}

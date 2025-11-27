@@ -1,0 +1,14 @@
+{
+    "question": "34. If a 90 GB memory has to be connected to a microprocessor, minimum how many address lines are required?",
+    "options": [
+        "36",
+        "39",
+        "32",
+        "37",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: 90 GB is greater than 64 GB and less than 128 GB. For 64 GB (2\n36\nBytes), a minimum of 36 address lines are needed. So, for 90 GB, we need 36 + 1 = 37 address lines.",
+    "correct_answer": "37",
+    "answer_index": 3,
+    "explanation": "90 GB is greater than 64 GB and less than 128 GB. For 64 GB (2\n36\nBytes), a minimum of 36 address lines are needed. So, for 90 GB, we need 36 + 1 = 37 address lines."
+}

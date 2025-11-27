@@ -1,0 +1,13 @@
+{
+    "question": "What is a recommended practice for using AI-powered SQL agents effectively?",
+    "options": [
+        "Avoiding manual adjustments",
+        "Using outdated database schemas",
+        "Relying solely on AI-generated insights",
+        "Continuous testing and validation"
+    ],
+    "correct_answer": "Continuous testing and validation",
+    "explanation": "Continuous testing and validation ensure that AI-powered SQL agents provide accurate and reliable results, adapting to changes in data and requirements.",
+    "_source_image": "q_119.png",
+    "answer_index": 3
+}

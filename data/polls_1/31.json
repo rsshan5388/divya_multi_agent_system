@@ -1,0 +1,13 @@
+{
+    "question": "Q12 What is the purpose of the Common Type System (CTS) in .NET?",
+    "options": [
+        "Defines types for cross-language compatibility",
+        "Handles memory allocation",
+        "Sets up permissions",
+        "Compiles code"
+    ],
+    "answer": "A Defines types for cross-language compatibility",
+    "explanation": "",
+    "correct_answer": "Defines types for cross-language compatibility",
+    "answer_index": 0
+}

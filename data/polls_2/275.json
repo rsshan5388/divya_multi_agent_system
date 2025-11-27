@@ -1,0 +1,13 @@
+{
+    "question": "What is a key characteristic that distinguishes agentic AI from generative AI?",
+    "options": [
+        "Agentic AI generates higher-quality text outputs than generative AI",
+        "Agentic AI takes proactive actions toward goals with minimal human input",
+        "Agentic AI only responds to prompts without further processing",
+        "Agentic AI is limited to generating text and images"
+    ],
+    "correct_answer": "Agentic AI takes proactive actions toward goals with minimal human input",
+    "explanation": "Agentic AI is designed to take initiative and perform tasks autonomously, unlike generative AI which typically requires prompts.",
+    "_source_image": "q_129.png",
+    "answer_index": 1
+}

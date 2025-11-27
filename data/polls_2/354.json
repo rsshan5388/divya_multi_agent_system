@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following is NOT a valid distance metric in Chroma DB’s HNSW configuration?",
+    "options": [
+        "ip",
+        "cosine",
+        "euclidean_squared",
+        "l2"
+    ],
+    "correct_answer": "euclidean_squared",
+    "explanation": "In Chroma DB’s HNSW configuration, 'ip', 'cosine', and 'l2' are valid distance metrics, while 'euclidean_squared' is not.",
+    "_source_image": "q_71.png",
+    "answer_index": 2
+}

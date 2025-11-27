@@ -1,0 +1,13 @@
+{
+    "question": "24. What is the special feature of modern web applications?",
+    "options": [
+        "Must load the document to manipulate",
+        "Can alter contents without loading document",
+        "Can’t be altered at all",
+        "Remains static"
+    ],
+    "answer": "Answer: b\nExplanation: Modern web applications can dynamically alter their own content without loading a new document.",
+    "correct_answer": "Can alter contents without loading document",
+    "answer_index": 1,
+    "explanation": "Modern web applications can dynamically alter their own content without loading a new document."
+}

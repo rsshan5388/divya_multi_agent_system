@@ -1,0 +1,13 @@
+{
+    "question": "Q37 What is the difference between an assembly and a namespace?",
+    "options": [
+        "Assemblies organize code, namespaces compile code",
+        "Namespaces organize code, assemblies contain compiled code",
+        "Namespaces compile code, assemblies execute code",
+        "Assemblies store runtime data, namespaces create libraries"
+    ],
+    "answer": "B Namespaces organize code, assemblies contain compiled code",
+    "explanation": "",
+    "correct_answer": "Namespaces organize code, assemblies contain compiled code",
+    "answer_index": 1
+}

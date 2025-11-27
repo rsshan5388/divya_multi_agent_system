@@ -1,0 +1,13 @@
+{
+    "question": "Q121 Which operator is used in LINQ to join two collections based on a related key?",
+    "options": [
+        "Join",
+        "Union",
+        "Concat",
+        "Intersect"
+    ],
+    "answer": "A Join",
+    "explanation": "",
+    "correct_answer": "Join",
+    "answer_index": 0
+}

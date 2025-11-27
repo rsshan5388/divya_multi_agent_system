@@ -1,0 +1,13 @@
+{
+    "question": "Q9 Which method displays text on the console in C#?",
+    "options": [
+        "Console.Display()",
+        "Console.Output()",
+        "Console.WriteLine()",
+        "Console.Print()"
+    ],
+    "answer": "C Console.WriteLine()",
+    "explanation": "",
+    "correct_answer": "Console.WriteLine()",
+    "answer_index": 2
+}

@@ -1,0 +1,13 @@
+{
+    "question": "14. Which layer does the data link layer take packets from and encapsulate them into frames for transmission?",
+    "options": [
+        "transport layer",
+        "application layer",
+        "network layer",
+        "physical layer"
+    ],
+    "answer": "Answer: c\nExplanation: In computer networks, the data from application layer is sent to transport layer and is converted to segments. These segments are then transferred to the network layer and these are called packets. These packets are then sent to data link layer where they are encapsulated into frames. These frames are then transferred to physical layer where the frames are converted to bits. Error control and flow control data is inserted in the frames at the data link layer.",
+    "correct_answer": "network layer",
+    "answer_index": 2,
+    "explanation": "In computer networks, the data from application layer is sent to transport layer and is converted to segments. These segments are then transferred to the network layer and these are called packets. These packets are then sent to data link layer where they are encapsulated into frames. These frames are then transferred to physical layer where the frames are converted to bits. Error control and flow control data is inserted in the frames at the data link layer."
+}

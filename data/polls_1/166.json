@@ -1,0 +1,15 @@
+{
+    "question": "28. What is the purpose of the event handlers in the JavaScript?",
+    "options": [
+        "Adds innerHTML page to the code",
+        "Allows JavaScript code to alter the",
+        "behaviour",
+        "of windows",
+        "Performs handling of exceptions and occurrences",
+        "Change the server location"
+    ],
+    "answer": "Answer: b\nExplanation: Event handlers allow JavaScript code to alter the\nbehavior\nof windows, of documents, and of the elements that make up those documents.",
+    "correct_answer": "Allows JavaScript code to alter the",
+    "answer_index": 1,
+    "explanation": "Event handlers allow JavaScript code to alter the\nbehavior\nof windows, of documents, and of the elements that make up those documents."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "What is a key benefit of using fusion strategies in LlamaIndex?",
+    "options": [
+        "They are only applicable to core retrievers.",
+        "They increase the speed of data retrieval.",
+        "They simplify the retrieval process.",
+        "They enhance the accuracy of query results."
+    ],
+    "correct_answer": "They enhance the accuracy of query results.",
+    "explanation": "Fusion strategies combine results from multiple sources, improving the overall accuracy of the query results.",
+    "_source_image": "q_79.png",
+    "answer_index": 3
+}

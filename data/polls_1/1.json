@@ -1,0 +1,13 @@
+{
+    "question": "31. Which layer provides the services to user?",
+    "options": [
+        "physical layer",
+        "presentation layer",
+        "session layer",
+        "application layer"
+    ],
+    "answer": "Answer: d\nExplanation: In networking, a user mainly interacts with application layer to create and send information to other computer or network. Application layer provides the interface between applications and the network. It is the top-most layer in both the TCP/IP and the OSI model.",
+    "correct_answer": "application layer",
+    "answer_index": 3,
+    "explanation": "In networking, a user mainly interacts with application layer to create and send information to other computer or network. Application layer provides the interface between applications and the network. It is the top-most layer in both the TCP/IP and the OSI model."
+}

@@ -1,0 +1,14 @@
+{
+    "question": "27. A memory connected to a microprocessor has 20 address lines and 16 data lines. What will be the memory capacity?",
+    "options": [
+        "8 KB",
+        "2 MB",
+        "16 MB",
+        "64 KB",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: Total number of locations of the memory possible for 20 address lines is 2\n20\nand every location has 16/8 = 2 bytes. So, total memory capacity will be 2\n20\n× 2 = 2 MB.",
+    "correct_answer": "2 MB",
+    "answer_index": 1,
+    "explanation": "Total number of locations of the memory possible for 20 address lines is 2\n20\nand every location has 16/8 = 2 bytes. So, total memory capacity will be 2\n20\n× 2 = 2 MB."
+}

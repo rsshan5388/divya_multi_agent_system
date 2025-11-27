@@ -1,0 +1,13 @@
+{
+    "question": "What is the primary function of a LangChain retriever, and what differentiates it from a vector store?",
+    "options": [
+        "A LangChain retriever returns documents based on an unstructured query, while a vector store stores documents.",
+        "Both LangChain retrievers and vector stores perform the same function of storing and retrieving documents.",
+        "A LangChain retriever is a type of vector store designed for structured data retrieval.",
+        "Unlike a vector store, a LangChain retriever stores documents and returns them based on structured queries."
+    ],
+    "correct_answer": "Unlike a vector store, a LangChain retriever stores documents and returns them based on structured queries.",
+    "explanation": "LangChain retrievers are designed to handle structured queries, differentiating them from vector stores that focus on unstructured data.",
+    "_source_image": "q_82.png",
+    "answer_index": 3
+}

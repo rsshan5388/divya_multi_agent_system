@@ -1,0 +1,14 @@
+{
+    "question": "13. Which of the following is not a microprocessor?",
+    "options": [
+        "Z8000",
+        "Motorola 6809",
+        "Zilog Z8",
+        "PIC1x",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: Z8000, Motorola 6809, and Zilog Z8 are microprocessors but PIC1x is an 8-bit microcontroller.",
+    "correct_answer": "PIC1x",
+    "answer_index": 3,
+    "explanation": "Z8000, Motorola 6809, and Zilog Z8 are microprocessors but PIC1x is an 8-bit microcontroller."
+}

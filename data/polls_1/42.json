@@ -1,0 +1,13 @@
+{
+    "question": "Q10 A developer encounters a \"FileNotFoundException\" in .NET. What is the likely issue?",
+    "options": [
+        "File is corrupted",
+        "Incorrect file path",
+        "Incorrect framework version",
+        "Database is down"
+    ],
+    "answer": "B Incorrect file path",
+    "explanation": "",
+    "correct_answer": "Incorrect file path",
+    "answer_index": 1
+}

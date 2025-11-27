@@ -1,0 +1,13 @@
+{
+    "question": "56. Which type of database system is most suitable for handling large volumes of unstructured data?",
+    "options": [
+        "Relational Database",
+        "NoSQL Database",
+        "Hierarchical Database",
+        "Network Database"
+    ],
+    "answer": "Answer: b\nExplanation: NoSQL databases like MongoDB and Cassandra are optimized for handling large volumes of semi-structured or unstructured data.",
+    "correct_answer": "NoSQL Database",
+    "answer_index": 1,
+    "explanation": "NoSQL databases like MongoDB and Cassandra are optimized for handling large volumes of semi-structured or unstructured data."
+}

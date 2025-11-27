@@ -1,0 +1,13 @@
+{
+    "question": "Which metric measures the distance between vectors based on direction but not their magnitude?",
+    "options": [
+        "Inner product distance",
+        "Euclidean distance",
+        "Dot product distance",
+        "Cosine distance"
+    ],
+    "correct_answer": "Cosine distance",
+    "explanation": "Cosine distance measures the angle between two vectors, focusing on direction rather than magnitude.",
+    "_source_image": "q_62.png",
+    "answer_index": 3
+}

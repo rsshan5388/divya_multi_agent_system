@@ -1,0 +1,13 @@
+{
+    "question": "Q53 A developer encounters a \"NullReferenceException.\" What is the likely issue?",
+    "options": [
+        "Variable is null",
+        "Memory leak",
+        "Data type mismatch",
+        "Invalid format"
+    ],
+    "answer": "A Variable is null",
+    "explanation": "",
+    "correct_answer": "Variable is null",
+    "answer_index": 0
+}

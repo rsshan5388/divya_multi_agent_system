@@ -1,0 +1,13 @@
+{
+    "question": "11. What are tables in web programming?",
+    "options": [
+        "Display information which are already accessed by the user",
+        "Containing more number of rows than columns",
+        "To only store data to be accessed later by the user",
+        "Display information in rows and columns used to display all manner of data that fits in a grid"
+    ],
+    "answer": "Answer: d\nExplanation: Tables display information in rows and columns; they are commonly used to display all manner of data that fits in a grid such as train schedules, television listings, financial reports, and sports results.",
+    "correct_answer": "Display information in rows and columns used to display all manner of data that fits in a grid",
+    "answer_index": 3,
+    "explanation": "Tables display information in rows and columns; they are commonly used to display all manner of data that fits in a grid such as train schedules, television listings, financial reports, and sports results."
+}

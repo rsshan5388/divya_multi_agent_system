@@ -1,0 +1,13 @@
+{
+    "question": "9. Which of the following is a component of cyber security?",
+    "options": [
+        "Internet Of Things",
+        "AI",
+        "Database",
+        "Attacks"
+    ],
+    "answer": "Answer: a\nExplanation: The Internet of Things (IoT) is a network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems through the internet.",
+    "correct_answer": "Internet Of Things",
+    "answer_index": 0,
+    "explanation": "The Internet of Things (IoT) is a network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems through the internet."
+}

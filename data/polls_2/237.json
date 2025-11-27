@@ -1,0 +1,13 @@
+{
+    "question": "Leila wants to compare different AI models available in the market. What should she analyze to make an informed decision?",
+    "options": [
+        "The popularity of the model",
+        "The model’s performance, speed, reliability, and cost",
+        "The frequency of API updates",
+        "The size of the model’s training dataset"
+    ],
+    "correct_answer": "The model’s performance, speed, reliability, and cost",
+    "explanation": "Analyzing the model's performance, speed, reliability, and cost provides a comprehensive understanding of its capabilities and value, which are crucial for making an informed decision.",
+    "_source_image": "q9.png",
+    "answer_index": 1
+}

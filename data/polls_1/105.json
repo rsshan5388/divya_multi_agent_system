@@ -1,0 +1,13 @@
+{
+    "question": "Q135 A developer encounters a \"LazyInitializationException\" in Entity Framework. What could be a solution?",
+    "options": [
+        "Use SaveChanges()",
+        "Use Include() to load related data",
+        "Ignore the exception",
+        "Rewrite query structure"
+    ],
+    "answer": "B Use Include() to load related data",
+    "explanation": "",
+    "correct_answer": "Use Include() to load related data",
+    "answer_index": 1
+}

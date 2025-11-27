@@ -1,0 +1,13 @@
+{
+    "question": "How do vector databases enhance recommendation systems compared to traditional databases?",
+    "options": [
+        "By supporting larger volumes of data than traditional databases",
+        "By providing a more secure data storage solution",
+        "By storing data in a format that simplifies complex queries",
+        "By enabling efficient similarity searches for complex data types"
+    ],
+    "correct_answer": "By enabling efficient similarity searches for complex data types",
+    "explanation": "Vector databases are designed to handle complex data types and perform similarity searches efficiently, which is crucial for recommendation systems.",
+    "_source_image": "q_59.png",
+    "answer_index": 3
+}

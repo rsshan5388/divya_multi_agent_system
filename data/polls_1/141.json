@@ -1,0 +1,18 @@
+{
+    "question": "9. Which of the following is not true about the address bus?",
+    "options": [
+        "It consists of control PIN 21 to 28",
+        "It is a bidirectional bus",
+        "It is 16 bits in length",
+        "Lower address bus lines (AD",
+        "0",
+        "– AD",
+        "7",
+        ") are called “Line number”",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: Data bus in the microprocessor is bidirectional but the address bus is unidirectional. AD\n0\n– AD\n7\nare the address lines that can be used for both address and data bus lines.",
+    "correct_answer": "It is a bidirectional bus",
+    "answer_index": 1,
+    "explanation": "Data bus in the microprocessor is bidirectional but the address bus is unidirectional. AD\n0\n– AD\n7\nare the address lines that can be used for both address and data bus lines."
+}

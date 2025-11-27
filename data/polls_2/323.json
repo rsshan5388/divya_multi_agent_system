@@ -1,0 +1,13 @@
+{
+    "question": "In LlamaIndex, what is the role of the `SentenceSplitter` in the context of document processing?",
+    "options": [
+        "It converts documents into vector embeddings.",
+        "It splits documents based on semantic similarity.",
+        "It recursively splits long texts based on specific characters like newline and period.",
+        "It is used to load documents from a directory."
+    ],
+    "correct_answer": "It recursively splits long texts based on specific characters like newline and period.",
+    "explanation": "The `SentenceSplitter` is designed to break down long texts into smaller segments using specific characters, facilitating easier processing.",
+    "_source_image": "q_40.png",
+    "answer_index": 2
+}

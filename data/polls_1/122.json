@@ -1,0 +1,14 @@
+{
+    "question": "6. Which of the following addressing method does the instruction, MOV AX,[BX] represent?",
+    "options": [
+        "register indirect addressing mode",
+        "direct addressing mode",
+        "register addressing mode",
+        "register relative addressing mode",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: In register indirect addressing mode the address of the operand is stored in the register. Since the instruction specifies that the register used to refer to the address is accessed indirectly, it represents the register indirect addressing mode.",
+    "correct_answer": "register indirect addressing mode",
+    "answer_index": 0,
+    "explanation": "In register indirect addressing mode the address of the operand is stored in the register. Since the instruction specifies that the register used to refer to the address is accessed indirectly, it represents the register indirect addressing mode."
+}

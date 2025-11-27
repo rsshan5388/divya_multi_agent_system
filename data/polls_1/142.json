@@ -1,0 +1,13 @@
+{
+    "question": "1. What is Cyber Security?",
+    "options": [
+        "Cyber Security provides security against malware",
+        "Cyber Security provides security against cyber-terrorists",
+        "Cyber Security protects a system from cyber attacks",
+        "All of the mentioned"
+    ],
+    "answer": "Answer: d\nExplanation: Cyber Security provides security to a system against cyber-attacks by using various technologies, and processes.",
+    "correct_answer": "All of the mentioned",
+    "answer_index": 3,
+    "explanation": "Cyber Security provides security to a system against cyber-attacks by using various technologies, and processes."
+}

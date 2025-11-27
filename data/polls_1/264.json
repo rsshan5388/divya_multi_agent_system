@@ -1,0 +1,13 @@
+{
+    "question": "19. Which deep learning architecture is most commonly used for image recognition tasks?",
+    "options": [
+        "Recurrent Neural Networks (RNN)",
+        "Convolutional Neural Networks (CNN)",
+        "Generative Adversarial Networks (GAN)",
+        "Autoencoders"
+    ],
+    "answer": "Answer: b\nExplanation: CNNs are designed to capture spatial hierarchies in images and are widely used for computer vision tasks.",
+    "correct_answer": "Convolutional Neural Networks (CNN)",
+    "answer_index": 1,
+    "explanation": "CNNs are designed to capture spatial hierarchies in images and are widely used for computer vision tasks."
+}

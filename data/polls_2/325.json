@@ -1,0 +1,13 @@
+{
+    "question": "In the context of Retrieval-Augmented Generation (RAG), which step does LlamaIndex combine with the prompt augmentation process?",
+    "options": [
+        "Document chunking",
+        "User prompt acceptance",
+        "Vector storage",
+        "LLM response generation"
+    ],
+    "correct_answer": "Document chunking",
+    "explanation": "LlamaIndex combines document chunking with prompt augmentation to efficiently manage and retrieve information in RAG systems.",
+    "_source_image": "q_42.png",
+    "answer_index": 0
+}

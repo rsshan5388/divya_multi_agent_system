@@ -1,0 +1,13 @@
+{
+    "question": "Q83 How would you declare a generic List of integers in C#?",
+    "options": [
+        "List numbers = new List ();",
+        "List numbers = new List ();",
+        "List numbers = new List();",
+        "List = numbers;"
+    ],
+    "answer": "B List numbers = new List ();",
+    "explanation": "",
+    "correct_answer": "List numbers = new List ();",
+    "answer_index": 0
+}

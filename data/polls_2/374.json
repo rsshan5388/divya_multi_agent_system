@@ -1,0 +1,13 @@
+{
+    "question": "What is a key feature of modern AI-driven Text-to-Speech (TTS) systems?",
+    "options": [
+        "They are limited to a single language.",
+        "They use advanced AI to create human-like voices.",
+        "They cannot adapt to different speaking styles.",
+        "They can only produce robotic voices."
+    ],
+    "correct_answer": "They use advanced AI to create human-like voices.",
+    "explanation": "Modern AI-driven TTS systems leverage advanced AI to produce voices that sound more natural and human-like, enhancing user experience.",
+    "_source_image": "q_92.png",
+    "answer_index": 1
+}

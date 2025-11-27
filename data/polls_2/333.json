@@ -1,0 +1,13 @@
+{
+    "question": "In what way do vector databases differ from traditional databases in handling complex data types?",
+    "options": [
+        "Vector databases can only handle numeric data types.",
+        "Vector databases require less storage space for complex data types.",
+        "Vector databases are optimized for high-dimensional vector data.",
+        "Traditional databases are more efficient in processing high-dimensional data."
+    ],
+    "correct_answer": "Vector databases are optimized for high-dimensional vector data.",
+    "explanation": "Vector databases are specifically designed to handle high-dimensional vector data efficiently, unlike traditional databases.",
+    "_source_image": "q_50.png",
+    "answer_index": 2
+}

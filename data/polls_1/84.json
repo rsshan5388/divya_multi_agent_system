@@ -1,0 +1,13 @@
+{
+    "question": "30. What type of transmission is involved in communication between a computer and a keyboard?",
+    "options": [
+        "Half-duplex",
+        "Full-duplex",
+        "Simplex",
+        "Automatic"
+    ],
+    "answer": "Answer: c\nExplanation: In simplex transmission, data flows in single direction which in this case refers to the data flowing from the keyboard to the computer. Another example would be of the mouse where the data flows from the mouse to the computer only.",
+    "correct_answer": "Simplex",
+    "answer_index": 2,
+    "explanation": "In simplex transmission, data flows in single direction which in this case refers to the data flowing from the keyboard to the computer. Another example would be of the mouse where the data flows from the mouse to the computer only."
+}

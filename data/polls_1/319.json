@@ -1,0 +1,13 @@
+{
+    "question": "Q87 An InvalidOperationException occurs when modifying a collection during iteration. What is a possible solution?",
+    "options": [
+        "Use a for loop",
+        "Use a foreach loop",
+        "Use a sorted collection",
+        "Clear the collection first"
+    ],
+    "answer": "A Use a for loop",
+    "explanation": "",
+    "correct_answer": "Use a for loop",
+    "answer_index": 0
+}

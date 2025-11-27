@@ -1,0 +1,14 @@
+{
+    "question": "19. How many flip-flops are there in a flag register of 8085 microprocessor?",
+    "options": [
+        "4",
+        "5",
+        "7",
+        "10",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: There are five flags or flip-flops in a flag register in 8085 microprocessor that shows the status after ALU operation. They are mainly affected by the content of the accumulator.",
+    "correct_answer": "5",
+    "answer_index": 1,
+    "explanation": "There are five flags or flip-flops in a flag register in 8085 microprocessor that shows the status after ALU operation. They are mainly affected by the content of the accumulator."
+}

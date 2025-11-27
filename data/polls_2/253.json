@@ -1,0 +1,13 @@
+{
+    "question": "Alex works in a medical organization considering using an agent to update sensitive patient data. What should Alex consider before allowing an agent to update sensitive patient data?",
+    "options": [
+        "How quickly the agent can perform the action",
+        "The safety and accuracy of updating sensitive patient data",
+        "If manual invocation would slow down the entire system",
+        "Whether the agent can execute the action without any supervision"
+    ],
+    "correct_answer": "The safety and accuracy of updating sensitive patient data",
+    "explanation": "In a medical context, ensuring the safety and accuracy of data updates is crucial to maintain patient safety and data integrity.",
+    "_source_image": "q_109.png",
+    "answer_index": 1
+}

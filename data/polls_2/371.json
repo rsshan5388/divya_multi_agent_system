@@ -1,0 +1,13 @@
+{
+    "question": "What makes the HNSW algorithm efficient for approximate nearest neighbor search in large datasets?",
+    "options": [
+        "Its hierarchical structure enables fast traversal from coarse to fine layers, reducing the number of distance computations.",
+        "It compresses vectors to reduce dimensionality before indexing.",
+        "It stores all data points only in the topmost layer to minimize memory usage.",
+        "It uses brute-force search at each layer to guarantee accuracy."
+    ],
+    "correct_answer": "Its hierarchical structure enables fast traversal from coarse to fine layers, reducing the number of distance computations.",
+    "explanation": "The HNSW algorithm uses a hierarchical structure that allows for efficient traversal and reduces the number of distance computations needed, making it suitable for large datasets.",
+    "_source_image": "q_89.png",
+    "answer_index": 0
+}

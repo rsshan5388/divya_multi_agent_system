@@ -1,0 +1,13 @@
+{
+    "question": "Which approach is fundamental to working with Chroma DB?",
+    "options": [
+        "Storing all data in JSON format",
+        "Implementing RESTful APIs for data interaction",
+        "Writing SQL queries for data manipulation",
+        "Utilizing vector embeddings for data representation"
+    ],
+    "correct_answer": "Utilizing vector embeddings for data representation",
+    "explanation": "Chroma DB is designed to work with vector embeddings, which are essential for its data representation and retrieval processes.",
+    "_source_image": "q_54.png",
+    "answer_index": 3
+}

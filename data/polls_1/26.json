@@ -1,0 +1,13 @@
+{
+    "question": "Q35 Which file extension is commonly used for .NET assemblies?",
+    "options": [
+        ".dll",
+        ".exe",
+        ".cs",
+        ".html"
+    ],
+    "answer": "A .dll",
+    "explanation": "",
+    "correct_answer": ".dll",
+    "answer_index": 0
+}

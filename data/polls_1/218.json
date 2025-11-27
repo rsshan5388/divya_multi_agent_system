@@ -1,0 +1,13 @@
+{
+    "question": "Q102 What is ViewState in ASP.NET?",
+    "options": [
+        "Stores client-side data",
+        "Stores session data",
+        "Maintains state of controls",
+        "Stores cookies"
+    ],
+    "answer": "C Maintains state of controls",
+    "explanation": "",
+    "correct_answer": "Maintains state of controls",
+    "answer_index": 2
+}

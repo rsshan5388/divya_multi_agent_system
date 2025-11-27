@@ -1,0 +1,13 @@
+{
+    "question": "What is the main purpose of embedding the user's original prompt in LlamaIndex?",
+    "options": [
+        "To load the prompt into a directory",
+        "To store the prompt in memory",
+        "To retrieve relevant chunks from the vector store",
+        "To split the prompt into smaller chunks"
+    ],
+    "correct_answer": "To retrieve relevant chunks from the vector store",
+    "explanation": "Embedding the prompt in LlamaIndex allows for efficient retrieval of relevant information from the vector store.",
+    "_source_image": "q_44.png",
+    "answer_index": 2
+}

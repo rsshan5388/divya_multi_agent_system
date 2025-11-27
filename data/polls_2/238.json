@@ -1,0 +1,13 @@
+{
+    "question": "Maria is implementing a chain using LangChain Expression Language (LCEL). What is the correct sequence of steps to create a functional LCEL pattern?",
+    "options": [
+        "Create a PromptTemplate → Build a chain with the pipe operator → Define a template with variables → Invoke with input values",
+        "Define a template with variables → Create a PromptTemplate → Build a chain using the pipe operator → Invoke with input values",
+        "Invoke with input values → Define a template with variables → Create a PromptTemplate → Build a chain with the pipe operator",
+        "Create a chain with the pipe operator → Define variables → Build a PromptTemplate → Invoke with input values"
+    ],
+    "correct_answer": "Create a chain with the pipe operator → Define variables → Build a PromptTemplate → Invoke with input values",
+    "explanation": "The correct sequence involves first creating a chain, then defining variables, building a PromptTemplate, and finally invoking with input values.",
+    "_source_image": "quest1.png",
+    "answer_index": 3
+}

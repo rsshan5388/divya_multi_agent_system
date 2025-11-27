@@ -1,0 +1,13 @@
+{
+    "question": "When setting up a Gradio interface, what is the role of the gr.Interface?",
+    "options": [
+        "It is used to launch the Gradio server.",
+        "It provides a public URL for accessing the web interface.",
+        "It specifies the inputs and outputs for the Python functions.",
+        "It defines the logic for the application."
+    ],
+    "correct_answer": "It specifies the inputs and outputs for the Python functions.",
+    "explanation": "The gr.Interface in Gradio is used to define the inputs and outputs for the functions you want to expose through the interface.",
+    "_source_image": "q_27.png",
+    "answer_index": 2
+}

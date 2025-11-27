@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best describes metadata filtering in Chroma DB?",
+    "options": [
+        "Filtering based on vector similarity scores.",
+        "Filtering based on the presence of specific words in document content.",
+        "Filtering using SQL-like joins between collections.",
+        "Filtering based on structured attributes such as tags or timestamps."
+    ],
+    "correct_answer": "Filtering based on structured attributes such as tags or timestamps.",
+    "explanation": "Chroma DB uses metadata filtering based on structured attributes like tags or timestamps to organize and retrieve data efficiently.",
+    "_source_image": "q_56.png",
+    "answer_index": 3
+}

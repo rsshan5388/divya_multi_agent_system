@@ -1,0 +1,13 @@
+{
+    "question": "21. Which of the following is defined as an attempt to harm, damage or cause threat to a system or network?",
+    "options": [
+        "Digital crime",
+        "Threats",
+        "System hijacking",
+        "Cyber Attack"
+    ],
+    "answer": "Answer: d\nExplanation: Extortion, identity theft, email hacking, digital surveillance, stealing hardware, mobile hacking, and physical security breaches are all examples of cyber assaults or activities.",
+    "correct_answer": "Cyber Attack",
+    "answer_index": 3,
+    "explanation": "Extortion, identity theft, email hacking, digital surveillance, stealing hardware, mobile hacking, and physical security breaches are all examples of cyber assaults or activities."
+}

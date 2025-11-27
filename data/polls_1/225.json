@@ -1,0 +1,13 @@
+{
+    "question": "Q149 A \"Missing runtime\" error occurs when deploying a .NET Core application. What is a likely solution?",
+    "options": [
+        "Reinstall the OS",
+        "Deploy with dotnet publish",
+        "Increase memory",
+        "Use .NET Framework"
+    ],
+    "answer": "B Deploy with dotnet publish",
+    "explanation": "",
+    "correct_answer": "Deploy with dotnet publish",
+    "answer_index": 1
+}

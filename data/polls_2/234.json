@@ -1,0 +1,13 @@
+{
+    "question": "At IntelliSys, project lead Nina is selecting an AI model for a critical task. What should be her first step to ensure the model meets business needs?",
+    "options": [
+        "Choose the model with the best performance rating",
+        "Deploy the model with minimal configuration",
+        "Write a clear definition of the use case and requirements",
+        "Select the most cost-effective model"
+    ],
+    "correct_answer": "Write a clear definition of the use case and requirements",
+    "explanation": "Defining the use case and requirements ensures that the model selection aligns with business needs and objectives.",
+    "_source_image": "q6.png",
+    "answer_index": 2
+}

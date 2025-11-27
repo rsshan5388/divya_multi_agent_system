@@ -1,0 +1,13 @@
+{
+    "question": "Q141 Which method in the CryptoStream class is used to write encrypted data to a stream in .NET?",
+    "options": [
+        "WriteEncrypted()",
+        "Write()",
+        "EncryptData()",
+        "WriteStream()"
+    ],
+    "answer": "B Write()",
+    "explanation": "",
+    "correct_answer": "Write()",
+    "answer_index": 1
+}

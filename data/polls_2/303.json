@@ -1,0 +1,13 @@
+{
+    "question": "How does the retrieval component improve the accuracy of large language models?",
+    "options": [
+        "It allows the model to generate responses without any external input.",
+        "It augments the user's prompt with relevant and up-to-date information from a content store.",
+        "It modifies the model's parameters to include new information.",
+        "It directly increases the model's training data size."
+    ],
+    "correct_answer": "It augments the user's prompt with relevant and up-to-date information from a content store.",
+    "explanation": "The retrieval component enhances accuracy by providing the model with relevant and current information, which helps in generating more accurate responses.",
+    "_source_image": "q_20.png",
+    "answer_index": 1
+}

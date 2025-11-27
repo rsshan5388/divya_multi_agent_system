@@ -1,0 +1,13 @@
+{
+    "question": "10. How is a single channel shared by multiple signals in a computer network?",
+    "options": [
+        "multiplexing",
+        "phase modulation",
+        "analog modulation",
+        "digital modulation"
+    ],
+    "answer": "Answer: a\nExplanation: In communication and computer networks, the main goal is to share a scarce resource. This is done by multiplexing, where multiple analog or digital signals are combined into one signal over a shared medium. The multiple kinds of signals are designated by the transport layer which is the layer present on a higher level than the physical layer.",
+    "correct_answer": "multiplexing",
+    "answer_index": 0,
+    "explanation": "In communication and computer networks, the main goal is to share a scarce resource. This is done by multiplexing, where multiple analog or digital signals are combined into one signal over a shared medium. The multiple kinds of signals are designated by the transport layer which is the layer present on a higher level than the physical layer."
+}

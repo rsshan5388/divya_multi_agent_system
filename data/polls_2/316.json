@@ -1,0 +1,13 @@
+{
+    "question": "How can you ensure that Gradio’s Slider component outputs an integer value?",
+    "options": [
+        "By setting only the minimum and maximum parameters to integers.",
+        "By setting the value parameter to an integer.",
+        "By setting the minimum, maximum, value, and step parameters to integers.",
+        "By setting the minimum, maximum, and value parameters to integers."
+    ],
+    "correct_answer": "By setting the minimum, maximum, value, and step parameters to integers.",
+    "explanation": "To ensure the Slider outputs an integer, all relevant parameters including minimum, maximum, value, and step must be set to integers.",
+    "_source_image": "q_33.png",
+    "answer_index": 2
+}

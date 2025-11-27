@@ -1,0 +1,14 @@
+{
+    "question": "24. Which of the following is not a status flag in microprocessor?",
+    "options": [
+        "Overflow flag",
+        "Direction flag",
+        "Interrupt flag",
+        "Index flag",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: Overflow flag represents whether the result is out of scope or not. Direction flag is used in string operations and interrupt flag is used to enable the interrupts.",
+    "correct_answer": "Index flag",
+    "answer_index": 3,
+    "explanation": "Overflow flag represents whether the result is out of scope or not. Direction flag is used in string operations and interrupt flag is used to enable the interrupts."
+}

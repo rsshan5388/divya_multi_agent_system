@@ -1,0 +1,13 @@
+{
+    "question": "19. When discussing IDS/IPS, what is a signature?",
+    "options": [
+        "It refers to “normal,” baseline network behavior",
+        "It is used to authorize the users on a network",
+        "An electronic signature used to authenticate the identity of a user on the network",
+        "Attack-definition file"
+    ],
+    "answer": "Answer: d\nExplanation: IDSes work in a manner similar to modern antivirus technology. They are constantly updated with attack-definition files (signatures) that describe each type of known malicious activity. Nemean is a popular signature generation method for conventional computer networks.",
+    "correct_answer": "Attack-definition file",
+    "answer_index": 3,
+    "explanation": "IDSes work in a manner similar to modern antivirus technology. They are constantly updated with attack-definition files (signatures) that describe each type of known malicious activity. Nemean is a popular signature generation method for conventional computer networks."
+}

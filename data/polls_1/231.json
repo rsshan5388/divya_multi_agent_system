@@ -1,0 +1,13 @@
+{
+    "question": "Q29 Which method would you use to determine the generation of an object in .NET?",
+    "options": [
+        "GC.GetGeneration(object)",
+        "GC.Collect()",
+        "GC.Generation()",
+        "GC.GetGen(object)"
+    ],
+    "answer": "A GC.GetGeneration(object)",
+    "explanation": "",
+    "correct_answer": "GC.GetGeneration(object)",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which framework, LangChain or LlamaIndex, best suits Anna's needs, and why?",
+    "options": [
+        "LangChain, because it provides superior native solutions to document loading and vector storage than LlamaIndex",
+        "LlamaIndex, because it provides superior native solutions to document loading and vector storage than LangChain",
+        "LlamaIndex, because LangChain is incapable of building a RAG system",
+        "LangChain, because LlamaIndex is incapable of building a RAG system"
+    ],
+    "correct_answer": "LangChain, because it provides superior native solutions to document loading and vector storage than LlamaIndex",
+    "explanation": "Anna prefers a framework with robust internal capabilities for document loading and vector storage, which LangChain provides better than LlamaIndex.",
+    "_source_image": "q_48.png",
+    "answer_index": 0
+}

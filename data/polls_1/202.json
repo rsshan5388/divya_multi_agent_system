@@ -1,0 +1,13 @@
+{
+    "question": "Q143 A \"SecureString\" cannot be converted directly to a string in .NET. What is the most secure way to handle it?",
+    "options": [
+        "Copy contents to string",
+        "Store as plain text",
+        "Use Marshal class to convert securely",
+        "Read SecureString directly"
+    ],
+    "answer": "C Use Marshal class to convert securely",
+    "explanation": "",
+    "correct_answer": "Use Marshal class to convert securely",
+    "answer_index": 2
+}

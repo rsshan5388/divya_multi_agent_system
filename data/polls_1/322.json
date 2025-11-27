@@ -1,0 +1,13 @@
+{
+    "question": "30. Which of the following is not an email-related hacking tool?",
+    "options": [
+        "Mail Password",
+        "Email Finder Pro",
+        "Mail PassView",
+        "Sendinc"
+    ],
+    "answer": "Answer: d\nExplanation: Sendinc is not a tool that compromises email data. It is used to protect business email accounts and provides a fast web-based solution for businesses to start delivering secure emails. The other three are email hacking tools.",
+    "correct_answer": "Sendinc",
+    "answer_index": 3,
+    "explanation": "Sendinc is not a tool that compromises email data. It is used to protect business email accounts and provides a fast web-based solution for businesses to start delivering secure emails. The other three are email hacking tools."
+}

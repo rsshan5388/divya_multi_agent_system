@@ -1,0 +1,13 @@
+{
+    "question": "Alex is working on a machine learning project and wants to create a web-based user interface for his model using Gradio. He has written the Python code for the model and defined the necessary functions. What next steps should he follow to set up the Gradio interface?",
+    "options": [
+        "Define the backend logic, configure input fields using HTML, and deploy the interface on a cloud platform.",
+        "Create a web interface manually, integrate it with the Python code, and deploy using Flask.",
+        "Install the Gradio package, use gr.Textbox for input, launch the server, and access the web interface.",
+        "Use Gradio's interface class to specify inputs and outputs, configure the interface, launch the Gradio server, and access the web interface through a URL."
+    ],
+    "correct_answer": "Use Gradio's interface class to specify inputs and outputs, configure the interface, launch the Gradio server, and access the web interface through a URL.",
+    "explanation": "Gradio provides a simple way to create web interfaces by specifying inputs and outputs using its interface class. This approach does not require manual HTML or Flask integration.",
+    "_source_image": "q_31.png",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q48 Which of the following data types is immutable in .NET?",
+    "options": [
+        "int",
+        "StringBuilder",
+        "List",
+        "string"
+    ],
+    "answer": "D string",
+    "explanation": "",
+    "correct_answer": "string",
+    "answer_index": 3
+}

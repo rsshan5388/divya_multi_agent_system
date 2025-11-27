@@ -1,0 +1,13 @@
+{
+    "question": "15. Which of the following act violates cyber security?",
+    "options": [
+        "Exploit",
+        "Attack",
+        "Threat",
+        "Vulnerability"
+    ],
+    "answer": "Answer: b\nExplanation: A threat is a possible danger that might lead to a security breach and cause harm to the system or network. Vulnerability is a word that refers to a flaw in a network or system that might be exploited by an attacker. Exploiting a security flaw might result in unexpected and unwanted effects. A cyber-attack is an attempt by attackers to alter, delete, steal or expose any specific data by gaining unauthorized access.",
+    "correct_answer": "Attack",
+    "answer_index": 1,
+    "explanation": "A threat is a possible danger that might lead to a security breach and cause harm to the system or network. Vulnerability is a word that refers to a flaw in a network or system that might be exploited by an attacker. Exploiting a security flaw might result in unexpected and unwanted effects. A cyber-attack is an attempt by attackers to alter, delete, steal or expose any specific data by gaining unauthorized access."
+}

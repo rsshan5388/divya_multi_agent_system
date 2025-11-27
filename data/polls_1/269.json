@@ -1,0 +1,14 @@
+{
+    "question": "48. When data required for instruction is present inside the register of a microprocessor then which of the following addressing mode is used?",
+    "options": [
+        "Indexed",
+        "Register",
+        "Relative",
+        "Direct",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: Register addressing mode is used when data is present inside the register of the microprocessor. For example, MOV B, C. Here, B and C are the registers of the microprocessor.",
+    "correct_answer": "Register",
+    "answer_index": 1,
+    "explanation": "Register addressing mode is used when data is present inside the register of the microprocessor. For example, MOV B, C. Here, B and C are the registers of the microprocessor."
+}

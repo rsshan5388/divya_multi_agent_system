@@ -1,0 +1,13 @@
+{
+    "question": "18. Which of the following is not a type of peer-to-peer cyber-crime?",
+    "options": [
+        "MiTM",
+        "Injecting Trojans to a target victim",
+        "Credit card details leak in the deep web",
+        "Phishing"
+    ],
+    "answer": "Answer: c\nExplanation: Peer-to-peer includes phishing, as well as the distribution of Trojans and worms to individuals. The leakage of a huge number of people’s credit card data on the deep web, on the other hand, is classified as a computer-as-weapon cyber-crime.",
+    "correct_answer": "Credit card details leak in the deep web",
+    "answer_index": 2,
+    "explanation": "Peer-to-peer includes phishing, as well as the distribution of Trojans and worms to individuals. The leakage of a huge number of people’s credit card data on the deep web, on the other hand, is classified as a computer-as-weapon cyber-crime."
+}

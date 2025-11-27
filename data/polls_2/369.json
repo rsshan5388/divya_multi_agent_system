@@ -1,0 +1,13 @@
+{
+    "question": "How would you define the primary purpose of FAISS and how it compares to Chroma DB in terms of functionality?",
+    "options": [
+        "Both FAISS and Chroma DB are used for managing structured data efficiently.",
+        "FAISS is used for managing structured data, whereas Chroma DB is designed for searching large-scale vector databases.",
+        "FAISS is optimized for efficient similarity search in vector datasets, whereas Chroma DB is a vector database with built-in metadata support and ease of integration for LLM applications.",
+        "FAISS and Chroma DB are both used for similarity search in vector databases."
+    ],
+    "correct_answer": "FAISS is optimized for efficient similarity search in vector datasets, whereas Chroma DB is a vector database with built-in metadata support and ease of integration for LLM applications.",
+    "explanation": "FAISS is primarily used for similarity search in vector datasets, while Chroma DB offers additional features like metadata support and integration capabilities for large language models.",
+    "_source_image": "q_87.png",
+    "answer_index": 2
+}

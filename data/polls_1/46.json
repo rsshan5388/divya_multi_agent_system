@@ -1,0 +1,13 @@
+{
+    "question": "24. What is the term for the data communication system within a building or campus?",
+    "options": [
+        "MAN",
+        "LAN",
+        "PAN",
+        "WAN"
+    ],
+    "answer": "Answer: b\nExplanation: LAN is an abbreviation for Local Area Network. This network interconnects computers in a small area such as schools, offices, residence etc. It is the most versatile kind of data communication system where most of the computer network concepts can be visibly used.",
+    "correct_answer": "LAN",
+    "answer_index": 1,
+    "explanation": "LAN is an abbreviation for Local Area Network. This network interconnects computers in a small area such as schools, offices, residence etc. It is the most versatile kind of data communication system where most of the computer network concepts can be visibly used."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "In what scenario is the LangChain Pandas agent most suitable for use?",
+    "options": [
+        "Data storage and retrieval",
+        "Rapid prototyping and data exploration",
+        "Replacing traditional data processing pipelines",
+        "Production environments without safeguards"
+    ],
+    "correct_answer": "Rapid prototyping and data exploration",
+    "explanation": "The LangChain Pandas agent is designed for quick and flexible data exploration, making it ideal for rapid prototyping.",
+    "_source_image": "q_118.png",
+    "answer_index": 1
+}

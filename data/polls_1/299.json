@@ -1,0 +1,14 @@
+{
+    "question": "31. Which of the following is true?",
+    "options": [
+        "Every instruction has two parts i.e. opcode and operands",
+        "MOV B, C is a two-byte instruction",
+        "MVI A, 90H is a three-byte instruction",
+        "Maximum number of T-states possible for the execution of an instruction is 16",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: MOV B, C is a one-byte instruction. MVI A, 90H is a two-byte instruction and the maximum number of T-states possible for the execution of an instruction in 8085 microprocessor is 18.",
+    "correct_answer": "Every instruction has two parts i.e. opcode and operands",
+    "answer_index": 0,
+    "explanation": "MOV B, C is a one-byte instruction. MVI A, 90H is a two-byte instruction and the maximum number of T-states possible for the execution of an instruction in 8085 microprocessor is 18."
+}

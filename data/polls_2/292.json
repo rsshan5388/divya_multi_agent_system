@@ -1,0 +1,13 @@
+{
+    "question": "In a ReAct agent flow, what is the purpose of the \"Observation\" step following a tool call?",
+    "options": [
+        "To show when the graph runs.the result returned by the tool",
+        "To display the final answer",
+        "To evaluate the LLM’s reasoning",
+        "To log the user's input history"
+    ],
+    "correct_answer": "To show when the graph runs.the result returned by the tool",
+    "explanation": "The 'Observation' step is used to capture and display the result returned by the tool after it is called, which is essential for the agent's decision-making process.",
+    "_source_image": "q_144.png",
+    "answer_index": 0
+}

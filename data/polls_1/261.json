@@ -1,0 +1,13 @@
+{
+    "question": "32. Which connection is necessary for a computer to join the internet?",
+    "options": [
+        "internet society",
+        "internet service provider",
+        "different computer",
+        "internet architecture board"
+    ],
+    "answer": "Answer: b\nExplanation: The ISPs (Internet Service Providers) are the main agents through which every computer is connected to the internet. They are licensed to allot public IP addresses to its customers in order to connect them to the internet.",
+    "correct_answer": "internet service provider",
+    "answer_index": 1,
+    "explanation": "The ISPs (Internet Service Providers) are the main agents through which every computer is connected to the internet. They are licensed to allot public IP addresses to its customers in order to connect them to the internet."
+}

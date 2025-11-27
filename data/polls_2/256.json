@@ -1,0 +1,13 @@
+{
+    "question": "How does an agent class manage the tool-calling process in LangChain?",
+    "options": [
+        "It encapsulates the entire tool-calling process from query to response.",
+        "It only manages the chat history for conversation context.",
+        "It directly executes tools without any user input.",
+        "It bypasses the need for tool parameters."
+    ],
+    "correct_answer": "It encapsulates the entire tool-calling process from query to response.",
+    "explanation": "The agent class in LangChain is responsible for managing the entire process of calling tools, from receiving a query to providing a response, ensuring seamless integration and execution.",
+    "_source_image": "q_111.png",
+    "answer_index": 0
+}

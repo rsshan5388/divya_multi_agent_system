@@ -1,0 +1,13 @@
+{
+    "question": "24. Where did the term “hacker” originate?",
+    "options": [
+        "MIT",
+        "New York University",
+        "Harvard University",
+        "Bell’s Lab"
+    ],
+    "answer": "Answer: a\nExplanation: The term “hacker” was coined at MIT (Massachusetts Institute of Technology) because individuals and highly competent professionals use computer languages to address various challenges. In this context, labels such as geeks and nerds have been coined.",
+    "correct_answer": "MIT",
+    "answer_index": 0,
+    "explanation": "The term “hacker” was coined at MIT (Massachusetts Institute of Technology) because individuals and highly competent professionals use computer languages to address various challenges. In this context, labels such as geeks and nerds have been coined."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q13 Which component of .NET is responsible for garbage collection?",
+    "options": [
+        "Framework Class Library",
+        "Common Language Runtime",
+        "Global Assembly Cache",
+        "Intermediate Language Compiler"
+    ],
+    "answer": "B Common Language Runtime",
+    "explanation": "",
+    "correct_answer": "Common Language Runtime",
+    "answer_index": 1
+}

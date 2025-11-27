@@ -1,0 +1,13 @@
+{
+    "question": "Layla is building an AI application that needs to access proprietary company information not present in her LLM's training data. She's deciding between implementing RAG (Retrieval-Augmented Generation) or fine-tuning the model. Which statement correctly describes the difference between these approaches?",
+    "options": [
+        "Fine-tuning is cheaper than RAG because it requires less computational resources at query time",
+        "RAG modifies the model's weights to incorporate new information, while fine-tuning passes relevant documents with each query",
+        "Fine-tuning is ideal for frequently changing information, while RAG works best with static knowledge bases",
+        "RAG retrieves relevant information at query time and includes that information in the prompt, while fine-tuning updates the model's internal knowledge so it can provide domain specific answers every time."
+    ],
+    "correct_answer": "RAG retrieves relevant information at query time and includes that information in the prompt, while fine-tuning updates the model's internal knowledge so it can provide domain specific answers every time.",
+    "explanation": "RAG dynamically retrieves information at query time, making it suitable for accessing external data. Fine-tuning involves updating the model's internal parameters to incorporate new knowledge.",
+    "_source_image": "q_12.png",
+    "answer_index": 3
+}

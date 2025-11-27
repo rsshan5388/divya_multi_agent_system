@@ -1,0 +1,13 @@
+{
+    "question": "What is the default distance metric used by Chroma DB for similarity search?",
+    "options": [
+        "Jaccard similarity",
+        "Euclidean distance",
+        "Manhattan distance",
+        "Dot product"
+    ],
+    "correct_answer": "Euclidean distance",
+    "explanation": "Chroma DB uses Euclidean distance as the default metric for measuring similarity between data points.",
+    "_source_image": "q_57.png",
+    "answer_index": 1
+}

@@ -1,0 +1,13 @@
+{
+    "question": "5. Which of the following is used to read a HTML page and render it?",
+    "options": [
+        "Web server",
+        "Web matrix",
+        "Web browser",
+        "None of the mentioned"
+    ],
+    "answer": "Answer: c\nExplanation: A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information resources on the World Wide Web.",
+    "correct_answer": "Web browser",
+    "answer_index": 2,
+    "explanation": "A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information resources on the World Wide Web."
+}

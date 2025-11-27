@@ -1,0 +1,13 @@
+{
+    "question": "Q56 What is the purpose of a try block in .NET?",
+    "options": [
+        "To execute code unconditionally",
+        "To handle exceptions",
+        "To contain code that may throw exceptions",
+        "To store debug logs"
+    ],
+    "answer": "C To contain code that may throw exceptions",
+    "explanation": "",
+    "correct_answer": "To contain code that may throw exceptions",
+    "answer_index": 2
+}

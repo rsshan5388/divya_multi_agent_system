@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best describes the alignment step in a multimodal AI system?",
+    "options": [
+        "Mapping a single modality to multiple models",
+        "Cleaning and normalizing the input data",
+        "Generating outputs in different formats from a single modality",
+        "Synchronizing data from different modalities so they match up temporally or contextually"
+    ],
+    "correct_answer": "Synchronizing data from different modalities so they match up temporally or contextually",
+    "explanation": "The alignment step in a multimodal AI system involves synchronizing data from different modalities to ensure they are temporally or contextually aligned for accurate processing.",
+    "_source_image": "q_93.png",
+    "answer_index": 3
+}

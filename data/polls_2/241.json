@@ -1,0 +1,13 @@
+{
+    "question": "What is the purpose of the FewShotPromptTemplate in LangChain?",
+    "options": [
+        "To execute LLM outputs directly without examples.",
+        "To visualize data using natural language.",
+        "To provide specific examples or shots for LLMs, guiding the model to generate the requested output.",
+        "To store conversation history for future reference."
+    ],
+    "correct_answer": "To provide specific examples or shots for LLMs, guiding the model to generate the requested output.",
+    "explanation": "The FewShotPromptTemplate is used to provide examples that help guide the language model in generating the desired output.",
+    "_source_image": "quest4.png",
+    "answer_index": 2
+}

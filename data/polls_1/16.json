@@ -1,0 +1,13 @@
+{
+    "question": "22. Which of the following property defines labels for a list of items?",
+    "options": [
+        "list-style-type",
+        "list-style-image",
+        "list-stylelist-style-type",
+        "none of the mentioned"
+    ],
+    "answer": "Answer: a\nExplanation: Syntax:\nlist-style-type\n:\ndisc\n|\ncircle\n|\nsquare\n|\ndecimal\n|\ndecimal-leading-zero",
+    "correct_answer": "list-style-type",
+    "answer_index": 0,
+    "explanation": "Syntax:\nlist-style-type\n:\ndisc\n|\ncircle\n|\nsquare\n|\ndecimal\n|\ndecimal-leading-zero"
+}

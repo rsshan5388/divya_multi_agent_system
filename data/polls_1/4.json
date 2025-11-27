@@ -1,0 +1,13 @@
+{
+    "question": "28. Which of the following online service’s privacy cannot be protected using Tor?",
+    "options": [
+        "Browsing data",
+        "Instant messaging",
+        "Login using ID",
+        "Relay chats"
+    ],
+    "answer": "Answer: c\nExplanation: Login using ID will obviously take your ID in order to access your account and is not the headache of Tor. Privacy regarding instant messaging, browsing data, relay chats are some of the following online services protected by Tor.",
+    "correct_answer": "Login using ID",
+    "answer_index": 2,
+    "explanation": "Login using ID will obviously take your ID in order to access your account and is not the headache of Tor. Privacy regarding instant messaging, browsing data, relay chats are some of the following online services protected by Tor."
+}

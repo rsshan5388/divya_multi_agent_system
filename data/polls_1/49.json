@@ -1,0 +1,13 @@
+{
+    "question": "Q123 Which code snippet demonstrates using LINQ’s OrderBy method in C# to sort a list of strings?",
+    "options": [
+        "list.Sort();",
+        "list.OrderBy();",
+        "list.OrderBy(x => x);",
+        "Order(list);"
+    ],
+    "answer": "C list.OrderBy(x => x);",
+    "explanation": "",
+    "correct_answer": "list.OrderBy(x => x);",
+    "answer_index": 2
+}

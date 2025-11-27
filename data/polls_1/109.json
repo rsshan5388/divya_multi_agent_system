@@ -1,0 +1,13 @@
+{
+    "question": "6. Which of the following is a popular front-end framework for building user interfaces in JavaScript?",
+    "options": [
+        "Django",
+        "Angular",
+        "Flask",
+        "Node.js"
+    ],
+    "answer": "Answer: b\nExplanation: Angular is a widely used front-end framework specifically designed for creating dynamic and interactive user interfaces in JavaScript.",
+    "correct_answer": "Angular",
+    "answer_index": 1,
+    "explanation": "Angular is a widely used front-end framework specifically designed for creating dynamic and interactive user interfaces in JavaScript."
+}

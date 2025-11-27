@@ -1,0 +1,13 @@
+{
+    "question": "Q40 In C#, which keyword is used to access classes from an external namespace?",
+    "options": [
+        "load",
+        "import",
+        "using",
+        "reference"
+    ],
+    "answer": "C using",
+    "explanation": "",
+    "correct_answer": "using",
+    "answer_index": 2
+}

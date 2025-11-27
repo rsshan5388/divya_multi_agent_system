@@ -1,0 +1,13 @@
+{
+    "question": "Q138 What is the purpose of role-based security in .NET applications?",
+    "options": [
+        "Control access based on user roles",
+        "Encrypt sensitive data",
+        "Handle session management",
+        "Create user profiles"
+    ],
+    "answer": "A Control access based on user roles",
+    "explanation": "",
+    "correct_answer": "Control access based on user roles",
+    "answer_index": 0
+}

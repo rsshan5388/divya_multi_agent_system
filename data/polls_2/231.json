@@ -1,0 +1,13 @@
+{
+    "question": "Mark, a developer at InnovateTech, has shortlisted several AI models for a business application. How should he identify the most suitable model for the use case?",
+    "options": [
+        "Select the smallest model to reduce costs",
+        "Rely on the model with the fastest response time",
+        "Choose the model based on its popularity",
+        "Use the same prompt to test different models"
+    ],
+    "correct_answer": "Use the same prompt to test different models",
+    "explanation": "Testing different models with the same prompt allows for a direct comparison of their performance and suitability for the specific use case.",
+    "_source_image": "q3.png",
+    "answer_index": 3
+}

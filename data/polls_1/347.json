@@ -1,0 +1,13 @@
+{
+    "question": "32. Which of the following is a Stuxnet?",
+    "options": [
+        "Trojan",
+        "Antivirus",
+        "Worm",
+        "Virus"
+    ],
+    "answer": "Answer: c\nExplanation: Stuxnet is a popular and powerful worm that came into existence in mid 2010, which was very powerful as it was accountable for the cause of huge damage to Iran’s Nuclear program. It mainly targets the PLCs (Programmable Logic Controllers) in a system.",
+    "correct_answer": "Worm",
+    "answer_index": 2,
+    "explanation": "Stuxnet is a popular and powerful worm that came into existence in mid 2010, which was very powerful as it was accountable for the cause of huge damage to Iran’s Nuclear program. It mainly targets the PLCs (Programmable Logic Controllers) in a system."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q91 Which class would you use to write data to a binary file in .NET?",
+    "options": [
+        "BinaryReader",
+        "BinaryWriter",
+        "FileWriter",
+        "StreamWriter"
+    ],
+    "answer": "B BinaryWriter",
+    "explanation": "",
+    "correct_answer": "BinaryWriter",
+    "answer_index": 1
+}

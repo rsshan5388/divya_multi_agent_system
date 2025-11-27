@@ -1,0 +1,14 @@
+{
+    "question": "51. Which of the following is a register-indirect addressing mode instruction set?",
+    "options": [
+        "LDA 2700H",
+        "ADI 36H",
+        "DAA",
+        "LDAX B",
+        "View Answer"
+    ],
+    "answer": "Answer: d\nExplanation: LDA 2700H is a direct addressing mode instruction. ADI 36H is an immediate addressing mode instruction. DAA is an implicit addressing mode and LDAX B is a register-indirect addressing mode instruction.",
+    "correct_answer": "LDAX B",
+    "answer_index": 3,
+    "explanation": "LDA 2700H is a direct addressing mode instruction. ADI 36H is an immediate addressing mode instruction. DAA is an implicit addressing mode and LDAX B is a register-indirect addressing mode instruction."
+}

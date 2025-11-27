@@ -1,0 +1,13 @@
+{
+    "question": "26. Which is the storage that allows the caching of web pages and their associated resources?",
+    "options": [
+        "Offline Web Applications",
+        "Cookies",
+        "Web Databases",
+        "FileSystem API"
+    ],
+    "answer": "Answer: a\nExplanation: HTML5 defines an “Offline Web Applications” API that allows the caching of web pages and their associated resources (scripts, CSS files, images, and so on). This is client-side storage for web applications themselves rather than just their data, and it allows web apps to install themselves so that they are available even when there is no connection to the Internet.",
+    "correct_answer": "Offline Web Applications",
+    "answer_index": 0,
+    "explanation": "HTML5 defines an “Offline Web Applications” API that allows the caching of web pages and their associated resources (scripts, CSS files, images, and so on). This is client-side storage for web applications themselves rather than just their data, and it allows web apps to install themselves so that they are available even when there is no connection to the Internet."
+}

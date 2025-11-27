@@ -1,0 +1,13 @@
+{
+    "question": "Q73 Which code snippet correctly demonstrates method overriding in C#?",
+    "options": [
+        "override void Print()",
+        "override method Print()",
+        "override class Print()",
+        "new method Print()"
+    ],
+    "answer": "A override void Print()",
+    "explanation": "",
+    "correct_answer": "override void Print()",
+    "answer_index": 0
+}

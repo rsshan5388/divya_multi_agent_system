@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following best reflects what should happen next in the Reflexion workflow?",
+    "options": [
+        "The agent deletes its earlier response and generates an entirely new one using a random data source",
+        "A new agent is initialized to take over the task and rewrite the query from scratch using only prior human messages",
+        "The original response is returned directly to the user, as the initial suggestion was mostly accurate",
+        "The response is passed to a tool to fetch citations, and the revisor revises the answer to include source-backed information"
+    ],
+    "correct_answer": "The response is passed to a tool to fetch citations, and the revisor revises the answer to include source-backed information",
+    "explanation": "The best next step is to enhance the response with reliable citations, ensuring the information is trustworthy and well-supported.",
+    "_source_image": "q_142.png",
+    "answer_index": 3
+}

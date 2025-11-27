@@ -1,0 +1,13 @@
+{
+    "question": "Q75 A developer encounters an error saying \"Object reference not set to an instance of an object.\" What is likely the cause?",
+    "options": [
+        "The object is null",
+        "The object has been disposed",
+        "Data type mismatch",
+        "Method does not exist"
+    ],
+    "answer": "A The object is null",
+    "explanation": "",
+    "correct_answer": "The object is null",
+    "answer_index": 0
+}

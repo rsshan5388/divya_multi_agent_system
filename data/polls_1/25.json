@@ -1,0 +1,13 @@
+{
+    "question": "31. Which of the following is the least strong security encryption standard?",
+    "options": [
+        "WPA3",
+        "WPA2",
+        "WPA",
+        "WEP"
+    ],
+    "answer": "Answer: d\nExplanation: Wireless security is an important aspect of cyber-security. Wired Equivalent Privacy (WEP), Wi-Fi Protected Access (WPA), WPA2, and WPA3 are the most common kinds of wireless security. WEP is a famously insecure encryption protocol.",
+    "correct_answer": "WEP",
+    "answer_index": 3,
+    "explanation": "Wireless security is an important aspect of cyber-security. Wired Equivalent Privacy (WEP), Wi-Fi Protected Access (WPA), WPA2, and WPA3 are the most common kinds of wireless security. WEP is a famously insecure encryption protocol."
+}

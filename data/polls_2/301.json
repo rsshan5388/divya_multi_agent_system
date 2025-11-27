@@ -1,0 +1,13 @@
+{
+    "question": "How does the RAG process ensure more accurate responses when dealing with specialized domain queries?",
+    "options": [
+        "By embedding all possible queries in the language model's parameters",
+        "By using external knowledge sources to augment the user's prompt",
+        "By increasing the number of tokens in the language model",
+        "By retraining the language model with domain-specific data"
+    ],
+    "correct_answer": "By using external knowledge sources to augment the user's prompt",
+    "explanation": "The RAG process uses external knowledge sources to provide more context and information, improving the accuracy of responses for specialized queries.",
+    "_source_image": "q_18.png",
+    "answer_index": 1
+}

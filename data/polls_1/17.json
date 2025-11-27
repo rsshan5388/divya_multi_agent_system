@@ -1,0 +1,13 @@
+{
+    "question": "Q2 Which of these is a component of the .NET Framework?",
+    "options": [
+        "Common Language Runtime (CLR)",
+        "Java Runtime Environment",
+        "Python Interpreter",
+        "Linux Kernel"
+    ],
+    "answer": "A Common Language Runtime (CLR)",
+    "explanation": "",
+    "correct_answer": "Common Language Runtime (CLR)",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "21. Which of the following networks extends a private network across public networks?",
+    "options": [
+        "virtual private network",
+        "local area network",
+        "storage area network",
+        "enterprise private network"
+    ],
+    "answer": "Answer: a\nExplanation: A virtual private network extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.VPN provides enhanced security and online anonymity to users on the internet. It is also used to unblock websites which are unavailable in certain regions.",
+    "correct_answer": "virtual private network",
+    "answer_index": 0,
+    "explanation": "A virtual private network extends a private network across a public network, and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.VPN provides enhanced security and online anonymity to users on the internet. It is also used to unblock websites which are unavailable in certain regions."
+}

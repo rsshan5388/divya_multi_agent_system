@@ -1,0 +1,13 @@
+{
+    "question": "13. How do two devices become part of a network?",
+    "options": [
+        "PIDs of the processes running of different devices are same",
+        "a process in one device is able to exchange information with a process in another device",
+        "a process is active and another is inactive",
+        "a process is running on both devices"
+    ],
+    "answer": "Answer: b\nExplanation: A computer network, or data network, is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections between nodes. The nodes have certain processes which enable them to share a specific type of data using a distinct protocol.",
+    "correct_answer": "a process in one device is able to exchange information with a process in another device",
+    "answer_index": 1,
+    "explanation": "A computer network, or data network, is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections between nodes. The nodes have certain processes which enable them to share a specific type of data using a distinct protocol."
+}

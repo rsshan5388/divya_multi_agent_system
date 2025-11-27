@@ -1,0 +1,13 @@
+{
+    "question": "Q44 Which of the following is a value type in .NET?",
+    "options": [
+        "string",
+        "int",
+        "object",
+        "dynamic"
+    ],
+    "answer": "B int",
+    "explanation": "",
+    "correct_answer": "int",
+    "answer_index": 1
+}

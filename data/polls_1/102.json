@@ -1,0 +1,13 @@
+{
+    "question": "29. Which of the following allows LAN users to share computer programs and data?",
+    "options": [
+        "File server",
+        "Network",
+        "Communication server",
+        "Print server"
+    ],
+    "answer": "Answer: a\nExplanation: A file server allows LAN users to share computer programs and data. It uses the File Transfer Protocol to provide this feature on ports 20 and 21. The file server works as a medium for the transfer.",
+    "correct_answer": "File server",
+    "answer_index": 0,
+    "explanation": "A file server allows LAN users to share computer programs and data. It uses the File Transfer Protocol to provide this feature on ports 20 and 21. The file server works as a medium for the transfer."
+}

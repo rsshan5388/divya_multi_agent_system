@@ -1,0 +1,14 @@
+{
+    "question": "5. Which of the following technology was used by Intel to design its first 8-bit microprocessor?",
+    "options": [
+        "NMOS",
+        "HMOS",
+        "PMOS",
+        "TTL",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: PMOS technology was used for designing the processor because this technology was slow but simple. PMOS technology was used by Intel in 4004 and 8008 microprocessors. NMOS was used in 8080 microprocessors whereas HMOS was used in 8085 microprocessors.",
+    "correct_answer": "PMOS",
+    "answer_index": 2,
+    "explanation": "PMOS technology was used for designing the processor because this technology was slow but simple. PMOS technology was used by Intel in 4004 and 8008 microprocessors. NMOS was used in 8080 microprocessors whereas HMOS was used in 8085 microprocessors."
+}

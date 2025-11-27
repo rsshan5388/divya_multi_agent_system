@@ -1,0 +1,13 @@
+{
+    "question": "Q5 What does the .exe file represent in a .NET application?",
+    "options": [
+        "Source code file",
+        "Executable file",
+        "Assembly cache",
+        "Code library"
+    ],
+    "answer": "B Executable file",
+    "explanation": "",
+    "correct_answer": "Executable file",
+    "answer_index": 1
+}

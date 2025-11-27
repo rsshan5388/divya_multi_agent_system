@@ -1,0 +1,13 @@
+{
+    "question": "Q118 What does LINQ stand for?",
+    "options": [
+        "Language Integrated Query",
+        "Logical Integrated Query",
+        "Library Integrated Query",
+        "List Integrated Query"
+    ],
+    "answer": "A Language Integrated Query",
+    "explanation": "",
+    "correct_answer": "Language Integrated Query",
+    "answer_index": 0
+}

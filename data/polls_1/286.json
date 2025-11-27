@@ -1,0 +1,13 @@
+{
+    "question": "20. Which of the following CSS Property controls how an element is positioned?",
+    "options": [
+        "fix",
+        "set",
+        "static",
+        "position"
+    ],
+    "answer": "Answer: d\nExplanation: Controls how an element is positioned. When set to absolute or fixed, the element is removed completely from the normal flow of the document. When set to relative, the element is moved relative to its position in the normal flow, but a space is left where it would normally have been. The default value, static, means the element remains in the normal flow and is not positioned.",
+    "correct_answer": "position",
+    "answer_index": 3,
+    "explanation": "Controls how an element is positioned. When set to absolute or fixed, the element is removed completely from the normal flow of the document. When set to relative, the element is moved relative to its position in the normal flow, but a space is left where it would normally have been. The default value, static, means the element remains in the normal flow and is not positioned."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q45 What is the default value of an integer variable in .NET?",
+    "options": [
+        "null",
+        "0",
+        "1",
+        "undefined"
+    ],
+    "answer": "B 0",
+    "explanation": "",
+    "correct_answer": "0",
+    "answer_index": 1
+}

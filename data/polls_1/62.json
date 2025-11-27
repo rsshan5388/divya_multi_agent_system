@@ -1,0 +1,13 @@
+{
+    "question": "Q113 Which code snippet demonstrates opening a database connection in ADO.NET?",
+    "options": [
+        "connection.Open();",
+        "connection.Start();",
+        "connection.Run();",
+        "connection.Connect();"
+    ],
+    "answer": "A connection.Open();",
+    "explanation": "",
+    "correct_answer": "connection.Open();",
+    "answer_index": 0
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Q17 What does the Global Assembly Cache (GAC) do in .NET?",
+    "options": [
+        "Manages memory",
+        "Stores temporary files",
+        "Hosts shared assemblies",
+        "Compiles code"
+    ],
+    "answer": "C Hosts shared assemblies",
+    "explanation": "",
+    "correct_answer": "Hosts shared assemblies",
+    "answer_index": 2
+}

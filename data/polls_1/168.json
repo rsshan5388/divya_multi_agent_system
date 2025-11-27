@@ -1,0 +1,14 @@
+{
+    "question": "17. Which of the following is a special-purpose register of microprocessor?",
+    "options": [
+        "Program counter",
+        "Instruction register",
+        "Accumulator",
+        "Temporary register",
+        "View Answer"
+    ],
+    "answer": "Answer: a\nExplanation: Instruction register, accumulator, and temporary register are general-purpose registers but program counter is a special-purpose register because it holds the address of the next instruction.",
+    "correct_answer": "Program counter",
+    "answer_index": 0,
+    "explanation": "Instruction register, accumulator, and temporary register are general-purpose registers but program counter is a special-purpose register because it holds the address of the next instruction."
+}

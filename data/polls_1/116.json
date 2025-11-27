@@ -1,0 +1,13 @@
+{
+    "question": "Q125 A \"NullReferenceException\" occurs during a LINQ query. What could be a likely cause?",
+    "options": [
+        "LINQ syntax error",
+        "Null variable in query",
+        "Invalid data type",
+        "Database connection error"
+    ],
+    "answer": "B Null variable in query",
+    "explanation": "",
+    "correct_answer": "Null variable in query",
+    "answer_index": 1
+}

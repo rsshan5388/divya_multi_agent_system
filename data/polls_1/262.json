@@ -1,0 +1,14 @@
+{
+    "question": "39. Which of the following is true about MOV A, B instruction?",
+    "options": [
+        "It means move the content of register A to register B",
+        "It uses immediate addressing mode",
+        "It doesn’t affect the flag register",
+        "It is a 2-byte instruction",
+        "View Answer"
+    ],
+    "answer": "Answer: c\nExplanation: MOV A, B means moving the content of register B to register A. It is a 1-byte instruction and it uses register addressing mode. No flags are affected because operations of this instruction are not performed in the ALU.",
+    "correct_answer": "It doesn’t affect the flag register",
+    "answer_index": 2,
+    "explanation": "MOV A, B means moving the content of register B to register A. It is a 1-byte instruction and it uses register addressing mode. No flags are affected because operations of this instruction are not performed in the ALU."
+}

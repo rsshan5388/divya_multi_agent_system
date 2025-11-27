@@ -1,0 +1,13 @@
+{
+    "question": "David is setting up a Gradio interface with multiple input types. He wants to include both text and numeric inputs. Which approach should he take to define these inputs?",
+    "options": [
+        "Use separate gr.Interface instances for text and numeric inputs.",
+        "Define a custom input component that combines text and numeric fields.",
+        "Use gr.Interface to directly define both text and numeric inputs without a list.",
+        "Use a list to pass both gr.Textbox and gr.Number as inputs."
+    ],
+    "correct_answer": "Use a list to pass both gr.Textbox and gr.Number as inputs.",
+    "explanation": "Gradio allows combining multiple input types by passing them as a list to gr.Interface. This approach is efficient for handling different input types together.",
+    "_source_image": "q_26.png",
+    "answer_index": 3
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which of the following would be the most suitable use case for using advanced retrievers in LlamaIndex?",
+    "options": [
+        "When dealing with large datasets requiring complex query processing.",
+        "When prioritizing speed over accuracy.",
+        "For indexing data in real-time applications.",
+        "For simple keyword searches in small datasets."
+    ],
+    "correct_answer": "When dealing with large datasets requiring complex query processing.",
+    "explanation": "Advanced retrievers are best suited for handling complex queries in large datasets due to their ability to process and retrieve relevant information efficiently.",
+    "_source_image": "q_80.png",
+    "answer_index": 0
+}

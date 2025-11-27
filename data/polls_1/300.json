@@ -1,0 +1,14 @@
+{
+    "question": "47. Which of the following is not correct about HLT instruction?",
+    "options": [
+        "It is a machine control instruction",
+        "It is used to start the execution of the program",
+        "PC is disconnected from the address bus",
+        "A reset interrupt is required to come out of halt state",
+        "View Answer"
+    ],
+    "answer": "Answer: b\nExplanation: HLT is a machine control statement. Internally, the PC is disconnected from the address bus so, the next fetch is not possible. It is used mainly to stop the execution of the program.",
+    "correct_answer": "It is used to start the execution of the program",
+    "answer_index": 1,
+    "explanation": "HLT is a machine control statement. Internally, the PC is disconnected from the address bus so, the next fetch is not possible. It is used mainly to stop the execution of the program."
+}

@@ -1,0 +1,13 @@
+{
+    "question": "Which LangChain splitter is most similar to LlamaIndex’s `SentenceSplitter`?",
+    "options": [
+        "`CharacterTextSplitter`",
+        "`RecursiveCharacterTextSplitter`",
+        "`SemanticChunker`",
+        "`TokenTextSplitter`"
+    ],
+    "correct_answer": "`RecursiveCharacterTextSplitter`",
+    "explanation": "The `RecursiveCharacterTextSplitter` is designed to handle text splitting in a way that is similar to sentence splitting, making it the most comparable to LlamaIndex’s `SentenceSplitter`.",
+    "_source_image": "q_45.png",
+    "answer_index": 1
+}
