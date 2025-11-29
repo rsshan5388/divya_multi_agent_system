@@ -1,0 +1,4 @@
+feedparser==6.0.11
+protobuf==6.33.1
+python-dotenv==1.2.1
+Requests==2.32.5
